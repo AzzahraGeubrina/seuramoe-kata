@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65520433-0ea9-4a80-a4bd-3b34bbb61aeb" name="Changes" comment="" />
+    <list default="true" id="65520433-0ea9-4a80-a4bd-3b34bbb61aeb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/list/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,7 +41,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Rebasing main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/projects/seuramoe-kata&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -52,6 +69,14 @@
       <updated>1755829270555</updated>
       <workItem from="1755829272145" duration="2396000" />
       <workItem from="1756026096867" duration="686000" />
+      <workItem from="1756027106776" duration="5061000" />
+      <workItem from="1756101102235" duration="8632000" />
+      <workItem from="1756113140072" duration="25000" />
+      <workItem from="1756113951089" duration="1797000" />
+      <workItem from="1756160397781" duration="6836000" />
+      <workItem from="1756187849581" duration="1925000" />
+      <workItem from="1756234620972" duration="4564000" />
+      <workItem from="1756239327927" duration="5981000" />
     </task>
     <servers />
   </component>
