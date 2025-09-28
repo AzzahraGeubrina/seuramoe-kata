@@ -2,7 +2,7 @@
 
 // import { Provider } from "@/components/ui/provider";
 // import { Box, Input, InputGroup, Kbd, List, ListItem } from "@chakra-ui/react";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 // import { LuSearch } from "react-icons/lu";
 // import data from "../database.json"
 export function Search() {
@@ -22,7 +22,7 @@ export function Search() {
   }, [query]);
 
   // Fetch data dan filter berdasarkan query
-  const handleSearch = async () => {
+  const handleSearch = useCallback(async () => {
     if (!debouncedQuery){
       setResult([]);
       setIsLoading(false);
@@ -46,12 +46,12 @@ export function Search() {
     } finally {
       setIsLoading(false); // Set loading selesai
     }
-  };
+  }, [debouncedQuery]);
 
   // Panggil handleSearch setiap kali debouncedQuery berubah
   useEffect(() => {
     handleSearch();
-  }, [debouncedQuery]);
+  }, [handleSearch]);
 
   return (
     // <Provider>
