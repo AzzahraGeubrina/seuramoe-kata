@@ -59,11 +59,11 @@ export function Search() {
       display: "flex",
       justifyContent: "center",
       alignItems: "center",
-      flexDirection: "column"
+      flexDirection: "column",
     }}>
-      <h1 style={{
-        fontSize: "48px"
-      }}>Selamat Datang.</h1>
+      <h1 className="text-2xl sm:text-2xl md:text-4xl lg:text-4xl font-bold text-center">Jak Meurunoe Basa Aceh!</h1>
+      <h2 className="text-lg sm:text-lg md:text-xl lg:text-2xl text-center">Mari Belajar Bahasa Aceh!</h2>
+      <h3 className="text-sm sm:text-sm md:text-base lg:text-lg text-center mt-4">Isi kolom pencarian di bawah untuk mencari arti kata.</h3>
       <form
         onSubmit={(e) => {
           e.preventDefault(); // Mencegah form submit standar

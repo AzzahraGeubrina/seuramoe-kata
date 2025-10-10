@@ -18,15 +18,19 @@
     --foreground: #ededed;
   }
 }
-
-body {
+html {
+  scrollbar-gutter: stable;
+  height: 100%;
   background-image: url("/baiturrahman.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100%;
   background-attachment: fixed;
-  color: var(--foreground);
+  background-color: var(--background); /* fallback */
+}
+body {
+  min-height: 100vh;
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  color: var(--foreground);
+  font-family:'Segoe UI', Tahoma, sans-serif;
 }
