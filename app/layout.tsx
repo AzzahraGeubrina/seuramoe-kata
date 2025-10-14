@@ -13,8 +13,14 @@ const robotoMono = Roboto_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Seuramoe Kata - Kamus Digital Bahasa Aceh",
+  title: "Yak Meurunoe Bahsa Aceh",
   description: "Kamus Digital Bahasa Aceh",
+  icons: {
+    icon: [
+      { url: "/favicon-light.png", media: "(prefers-color-scheme: light)" },
+      { url: "/favicon-dark.png", media: "(prefers-color-scheme: dark)" },
+    ],
+  }
 };
 
 export default function RootLayout({
@@ -27,7 +33,6 @@ export default function RootLayout({
       <body
         className={`${robotoSans.variable} ${robotoMono.variable} antialiased`}
       >
-      <header>About</header>
         {children}
       </body>
     </html>
