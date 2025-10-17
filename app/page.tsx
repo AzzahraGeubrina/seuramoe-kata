@@ -1,5 +1,5 @@
 import AlphabetList from "@/components/AlphabetList";
-import {Search} from "@/components/Search";
+import {Search} from "@/components/search";
 import Link from "next/link";
 import { SiGitbook } from "react-icons/si";
 
