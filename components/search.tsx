@@ -1,10 +1,6 @@
 "use client";
 
-// import { Provider } from "@/components/ui/provider";
-// import { Box, Input, InputGroup, Kbd, List, ListItem } from "@chakra-ui/react";
 import { useState, useEffect, useCallback } from "react";
-// import { LuSearch } from "react-icons/lu";
-// import data from "../database.json"
 export function Search() {
   const [query, setQuery] = useState("");
   const [debouncedQuery, setDebouncedQuery] = useState(query);
@@ -68,7 +64,7 @@ export function Search() {
       flexDirection: "column",
     }}>
       <h1 className="text-2xl sm:text-2xl md:text-4xl lg:text-4xl font-bold text-center pt-3">Yak Meurunoe Bahsa Aceh!</h1>
-      <h2 className="text-lg sm:text-lg md:text-xl lg:text-2xl text-center">Mari Belajar Bahasa Aceh!</h2>      
+      <h2 className="text-lg sm:text-lg md:text-xl lg:text-2xl text-center pb-3">Mari Belajar Bahasa Aceh!</h2>      
       <div className="w-full max-w-sm min-w-[200px] mt-6 bg-white/40 p-2 rounded-lg">
         <form className="relative flex items-center"
         onSubmit={(e) => {
@@ -87,9 +83,8 @@ export function Search() {
         </form>
         <div className="z-10 bg-white rounded-lg shadow-sm mt-1">
           {isLoading && 
-          <div className="flex justify-center">
+          <div className="flex justify-center py-2 px-4">
             <div className="w-5 h-5 border-4 border-gray-300 border-t-gray-700 rounded-full animate-spin"></div>
-            <p>Loading...</p>
           </div>}
           {result.length > 0 ? (
             <ul className="max-h-48 py-2 overflow-y-auto text-gray-700 dark:text-gray-200" >
