@@ -12,7 +12,6 @@ export default function Home() {
       alignItems: "center",
       paddingTop: 100
     }}>
-      {/* <div className="flex items-start justify-center min-h-screen pt-16"> */}
         <SiGitbook className="w-12 h-12 sm:w-16 sm:h-16 md:w-18 md:h-18 lg:w-20 lg:h-20"/>
         <Search /> 
         <div className="pt-7">

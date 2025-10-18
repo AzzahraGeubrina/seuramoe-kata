@@ -8,12 +8,13 @@ export default function AlphabetList() {
   );
 
   return (
-    <div className="flex flex-wrap max-w-84 items-center justify-center">
+    <div className="flex flex-wrap max-w-100 items-center justify-center">
       {letters.map((letter) => (
         <Link
           key={letter}
           href={`/${letter.toLowerCase()}`}
-          className="pr-1 pl-2 pb-1 text-center font-semibold"
+          className="px-1 m-1 text-center font-semibold transition-all duration-200 ease-in-out
+            hover:scale-135 hover:shadow-md"
         >
           {letter}
         </Link>

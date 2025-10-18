@@ -10,18 +10,22 @@ export default function WordList({ letter }: ListKataProps) {
     item.acehnese.toLowerCase().startsWith(letter.toLowerCase())
 );
 return (
-    <div>
+    <div >
         {filteredWords.length > 0 ? (
-            <ul>
+            <div className="columns-[16rem] gap-6 ml-6 mr-6">
                 {filteredWords.map((item) =>
-                <li
+                <div
                 key={item.id}
-                >
-                    <p className="font-semibold capitalize">{item.acehnese}</p>
-                    <p>{item.indonesian}</p>
-                </li>
+                className="pl-4 pr-4  text-gray-800 bg-white/80">
+                    <div className="grid grid-cols-2 p-2 pl-4 pr-4">
+                <div className="font-semibold">{item.indonesian}</div>
+                <div>{item.acehnese}</div>
+                <hr className="border-gray-400"></hr>
+                <hr className="border-gray-400"></hr>
+              </div>
+                </div>
             )}
-            </ul>
+            </div>
         ): (
             <p>Tidak ada</p>
         )}
