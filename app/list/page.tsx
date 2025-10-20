@@ -14,26 +14,27 @@ export default async function List() {
       <SiGitbook className="w-12 h-12 sm:w-16 sm:h-16 md:w-18 md:h-18 lg:w-20 lg:h-20"/>
       </div>
       <h1 className="text-2xl sm:text-2xl md:text-4xl lg:text-4xl font-bold text-center pt-2 pb-9">Daftar Kata Bahasa Aceh</h1>
-      <div className="columns-[16rem] gap-6 ml-6 mr-6">
-    {db.list.map((item) => {
-      const firstLetter = item.indonesian[0].toUpperCase();
-      const showHeader = firstLetter !== lastLetter;
-      lastLetter = firstLetter;
-      return (
-        <div key={item.id} className="pl-4 pr-4  text-gray-800 bg-white/80">
-          {showHeader && (
-            <div className="font-bold text-2xl pt-3 p-2 text-center">{firstLetter}</div>
-          )}
-          <div className="grid grid-cols-2 p-2 pl-4 pr-4">
-            <div className="font-semibold">{item.indonesian}</div>
-            <div>{item.acehnese}</div>
-            <hr className="border-gray-400"></hr>
-            <hr className="border-gray-400"></hr>
+      <div className="columns-[16rem] gap-6 ml-7 mr-7 bg-white/80 pt-6 pb-6 rounded-lg">
+        {db.list.map((item) => {
+          const firstLetter = item.acehnese[0].toUpperCase();
+          const showHeader = firstLetter !== lastLetter;
+          lastLetter = firstLetter;
+          return (
+            <div key={item.id} className="pl-4 pr-4 text-gray-800 border-l border-gray-400">
+              {showHeader && (
+                <div className="font-bold text-2xl pt-7 pr-2 pl-2 text-center">{firstLetter}</div>
+              )}
+              <div className="grid grid-cols-2 pt-1 pl-4 pr-4">
+                <div className="font-semibold">{item.acehnese}</div>
+                <div>{item.indonesian}</div>
+                <hr className="border-gray-400 mt-2"></hr>
+                <hr className="border-gray-400 mt-2"></hr>
+              </div>
             </div>
-        </div>
-      )
-    })}
-    </div>
+          )
+        })}
+      </div>
+      <br></br>
     </div>
   );
 }

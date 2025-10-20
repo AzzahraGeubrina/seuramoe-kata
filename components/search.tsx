@@ -34,7 +34,7 @@ export function Search() {
       const data = raw.list ?? [];
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       const filtered = data.filter((item: any)=>
-        item.indonesian.toLowerCase().includes(debouncedQuery.toLowerCase())
+        item.acehnese.toLowerCase().includes(debouncedQuery.toLowerCase())
       );
       setResult(filtered);
     } catch (error) {
@@ -65,7 +65,7 @@ export function Search() {
     }}>
       <h1 className="text-2xl sm:text-2xl md:text-4xl lg:text-4xl font-bold text-center pt-3">Yak Meurunoe Bahsa Aceh!</h1>
       <h2 className="text-lg sm:text-lg md:text-xl lg:text-2xl text-center pb-3">Mari Belajar Bahasa Aceh!</h2>      
-      <div className="w-full max-w-sm min-w-[200px] mt-6 bg-white/40 p-2 rounded-lg">
+      <div className="w-full max-w-sm min-w-[200px] bg-white/40 p-2 rounded-lg mt-6">
         <form className="relative flex items-center"
         onSubmit={(e) => {
           e.preventDefault(); 
@@ -78,7 +78,7 @@ export function Search() {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           className="w-full bg-white placeholder:text-gray-400 text-gray-700 text-sm border border-gray-200 rounded-lg pl-10 pr-3 py-2 transition duration-300 ease focus:outline-none focus:border-gray-400 hover:border-gray-300 shadow-sm focus:shadow"
-          placeholder="Cari kosa kata..." 
+          placeholder="Cari arti kata Bahasa Aceh di sini..." 
           />
         </form>
         <div className="z-10 bg-white rounded-lg shadow-sm mt-1">
@@ -92,9 +92,9 @@ export function Search() {
               <li key={`${result.id}-${index}`} className="items-center px-4 py-1 hover:bg-gray-100 text-gray-700">
                 <a href="#" >
                   <p dangerouslySetInnerHTML={{
-                    __html:`${highligtQ(result.indonesian, debouncedQuery)}`
+                    __html:`${highligtQ(result.acehnese, debouncedQuery)}`
                   }}/></a>
-                <p className="text-sm text-gray-700 font-style: italic">{result.acehnese}</p>
+                <p className="text-sm text-gray-700 font-style: italic"><span className="text-gray-500 text-xs">indonesia: </span>{result.indonesian}</p>
               </li>
               ))}
               </ul>

@@ -1,5074 +1,4464 @@
 {
   "list": [
     {
-      "id": "0",
-      "indonesian": "abu",
-      "acehnese": "abee"
+      "id": 0,
+      "acehnese": "’aduat",
+      "indonesian": "bermusuhan dendam"
     },
     {
-      "id": "1",
-      "indonesian": "adopsi",
-      "acehnese": "cok"
+      "id": 1,
+      "acehnese": "’ap",
+      "indonesian": "suap"
     },
     {
-      "id": "2",
-      "indonesian": "aduh",
-      "acehnese": "adoh"
+      "id": 2,
+      "acehnese": "’èet",
+      "indonesian": "sedikit"
     },
     {
-      "id": "3",
-      "indonesian": "aduh",
-      "acehnese": "aduh"
+      "id": 3,
+      "acehnese": "’eu",
+      "indonesian": "iya"
     },
     {
-      "id": "4",
-      "indonesian": "aduh",
-      "acehnese": "alahmak"
+      "id": 4,
+      "acehnese": "’eue",
+      "indonesian": "merangkak"
     },
     {
-      "id": "5",
-      "indonesian": "aduh",
-      "acehnese": "kapalo"
+      "id": 5,
+      "acehnese": "abat",
+      "indonesian": "nasib peruntungan"
     },
     {
-      "id": "6",
-      "indonesian": "aktif",
-      "acehnese": "aktif"
+      "id": 6,
+      "acehnese": "abèe",
+      "indonesian": "abu"
     },
     {
-      "id": "7",
-      "indonesian": "aku",
-      "acehnese": "loen"
+      "id": 7,
+      "acehnese": "abéh",
+      "indonesian": "habis"
     },
     {
-      "id": "8",
-      "indonesian": "aku",
-      "acehnese": "lon"
+      "id": 8,
+      "acehnese": "abéh umu",
+      "indonesian": "meninggal"
     },
     {
-      "id": "9",
-      "indonesian": "alam",
-      "acehnese": "alam"
+      "id": 9,
+      "acehnese": "abeuek",
+      "indonesian": "paya; rawa"
     },
     {
-      "id": "10",
-      "indonesian": "alasan",
-      "acehnese": "alasan"
+      "id": 10,
+      "acehnese": "abeusi",
+      "indonesian": "negro"
     },
     {
-      "id": "11",
-      "indonesian": "alasan",
-      "acehnese": "daleh"
+      "id": 11,
+      "acehnese": "abiek",
+      "indonesian": "berudu"
     },
     {
-      "id": "12",
-      "indonesian": "aman",
-      "acehnese": "aman"
+      "id": 12,
+      "acehnese": "abôk",
+      "indonesian": "ikan kayu"
     },
     {
-      "id": "13",
-      "indonesian": "aman",
-      "acehnese": "tentram"
+      "id": 13,
+      "acehnese": "acak",
+      "indonesian": "bayangan"
     },
     {
-      "id": "14",
-      "indonesian": "amat",
-      "acehnese": "teuleupah"
+      "id": 14,
+      "acehnese": "acan",
+      "indonesian": "berdandan menghiasi"
     },
     {
-      "id": "15",
-      "indonesian": "amat",
-      "acehnese": "that"
+      "id": 15,
+      "acehnese": "acok",
+      "indonesian": "mencoba menguji"
     },
     {
-      "id": "16",
-      "indonesian": "ambil",
-      "acehnese": "cok"
+      "id": 16,
+      "acehnese": "adée",
+      "indonesian": "keadilan"
     },
     {
-      "id": "17",
-      "indonesian": "ancam",
-      "acehnese": "agak"
+      "id": 17,
+      "acehnese": "adôh",
+      "indonesian": "aduh"
     },
     {
-      "id": "18",
-      "indonesian": "ancam",
-      "acehnese": "ancam"
+      "id": 18,
+      "acehnese": "agak",
+      "indonesian": "ancam"
     },
     {
-      "id": "19",
-      "indonesian": "ancaman",
-      "acehnese": "ancaman"
+      "id": 19,
+      "acehnese": "ajai",
+      "indonesian": "mati; ajal"
     },
     {
-      "id": "20",
-      "indonesian": "ancaman",
-      "acehnese": "ayeuk"
+      "id": 20,
+      "acehnese": "akla",
+      "indonesian": "bangga"
     },
     {
-      "id": "21",
-      "indonesian": "aneh",
-      "acehnese": "aneh"
+      "id": 21,
+      "acehnese": "akô",
+      "indonesian": "setuju sepaham"
     },
     {
-      "id": "22",
-      "indonesian": "aneh",
-      "acehnese": "ganje"
+      "id": 22,
+      "acehnese": "akok",
+      "indonesian": "sungguh-sungguh benar"
     },
     {
-      "id": "23",
-      "indonesian": "aneh",
-      "acehnese": "janggai"
+      "id": 23,
+      "acehnese": "aktif",
+      "indonesian": "aktif"
     },
     {
-      "id": "24",
-      "indonesian": "anehnya",
-      "acehnese": "nyang ganje"
+      "id": 24,
+      "acehnese": "aku",
+      "indonesian": "akui"
     },
     {
-      "id": "25",
-      "indonesian": "anehnya",
-      "acehnese": "yang janggai"
+      "id": 25,
+      "acehnese": "alahmak",
+      "indonesian": "aduh"
     },
     {
-      "id": "26",
-      "indonesian": "anggun",
-      "acehnese": "dhiet"
+      "id": 26,
+      "acehnese": "alam",
+      "indonesian": "alam"
     },
     {
-      "id": "27",
-      "indonesian": "anggun",
-      "acehnese": "lagak"
+      "id": 27,
+      "acehnese": "alang",
+      "indonesian": "tanggung kekurangan"
     },
     {
-      "id": "28",
-      "indonesian": "anggun",
-      "acehnese": "tari"
+      "id": 28,
+      "acehnese": "alasan",
+      "indonesian": "alasan"
     },
     {
-      "id": "29",
-      "indonesian": "anti",
-      "acehnese": "anti"
+      "id": 29,
+      "acehnese": "alén",
+      "indonesian": "anyam"
     },
     {
-      "id": "30",
-      "indonesian": "antisipasi",
-      "acehnese": "antisipasi"
+      "id": 30,
+      "acehnese": "alét",
+      "indonesian": "mengasah"
     },
     {
-      "id": "31",
-      "indonesian": "antisipasi",
-      "acehnese": "ceugah"
+      "id": 31,
+      "acehnese": "aleue",
+      "indonesian": "lantail"
     },
     {
-      "id": "32",
-      "indonesian": "api",
-      "acehnese": "apui"
+      "id": 32,
+      "acehnese": "aloh",
+      "indonesian": "lembut"
     },
     {
-      "id": "33",
-      "indonesian": "apresiasi",
-      "acehnese": "apresiasi"
+      "id": 33,
+      "acehnese": "aman",
+      "indonesian": "aman"
     },
     {
-      "id": "34",
-      "indonesian": "apresiasi",
-      "acehnese": "pujoe"
+      "id": 34,
+      "acehnese": "ancam",
+      "indonesian": "ancam"
     },
     {
-      "id": "35",
-      "indonesian": "asing",
-      "acehnese": "aseng"
+      "id": 35,
+      "acehnese": "anco",
+      "indonesian": "hancur"
     },
     {
-      "id": "36",
-      "indonesian": "asyik",
-      "acehnese": "hayeu"
+      "id": 36,
+      "acehnese": "ancô",
+      "indonesian": "hancur"
     },
     {
-      "id": "37",
-      "indonesian": "asyik",
-      "acehnese": "meurasa"
+      "id": 37,
+      "acehnese": "aneh",
+      "indonesian": "aneh"
     },
     {
-      "id": "38",
-      "indonesian": "badass",
-      "acehnese": "paleh"
+      "id": 38,
+      "acehnese": "angkara",
+      "indonesian": "kejam"
     },
     {
-      "id": "39",
-      "indonesian": "bagi",
-      "acehnese": "bagi"
+      "id": 39,
+      "acehnese": "anti",
+      "indonesian": "anti"
     },
     {
-      "id": "40",
-      "indonesian": "bagi",
-      "acehnese": "keu"
+      "id": 40,
+      "acehnese": "apôh-apah",
+      "indonesian": "susah"
     },
     {
-      "id": "41",
-      "indonesian": "bagi",
-      "acehnese": "weuek"
+      "id": 41,
+      "acehnese": "apresiasi",
+      "indonesian": "apresiasi"
     },
     {
-      "id": "42",
-      "indonesian": "bagus",
-      "acehnese": "dhiet"
+      "id": 42,
+      "acehnese": "apui",
+      "indonesian": "api"
     },
     {
-      "id": "43",
-      "indonesian": "bagus",
-      "acehnese": "get"
+      "id": 43,
+      "acehnese": "arat",
+      "indonesian": "ketat"
     },
     {
-      "id": "44",
-      "indonesian": "bagus",
-      "acehnese": "lagak"
+      "id": 44,
+      "acehnese": "aséng",
+      "indonesian": "asing"
     },
     {
-      "id": "45",
-      "indonesian": "bagus",
-      "acehnese": "mantap"
+      "id": 45,
+      "acehnese": "asôb",
+      "indonesian": "menghasut; memfitnah"
     },
     {
-      "id": "46",
-      "indonesian": "bahagia",
-      "acehnese": "bahgia"
+      "id": 46,
+      "acehnese": "asoe",
+      "indonesian": "isi"
     },
     {
-      "id": "47",
-      "indonesian": "bahagia",
-      "acehnese": "gembira"
+      "id": 47,
+      "acehnese": "atèe",
+      "indonesian": "hati"
     },
     {
-      "id": "48",
-      "indonesian": "bahagia",
-      "acehnese": "meuria-ria"
+      "id": 48,
+      "acehnese": "awôh",
+      "indonesian": "derita"
     },
     {
-      "id": "49",
-      "indonesian": "bahagia",
-      "acehnese": "seunang"
+      "id": 49,
+      "acehnese": "ayeuen",
+      "indonesian": "permainan"
     },
     {
-      "id": "50",
-      "indonesian": "bahaya",
-      "acehnese": "bahaya"
+      "id": 50,
+      "acehnese": "ayeuk",
+      "indonesian": "ancaman"
     },
     {
-      "id": "51",
-      "indonesian": "bahaya",
-      "acehnese": "bahya"
+      "id": 51,
+      "acehnese": "badan",
+      "indonesian": "tubuh"
     },
     {
-      "id": "52",
-      "indonesian": "bahaya",
-      "acehnese": "peutaka"
+      "id": 52,
+      "acehnese": "bagah",
+      "indonesian": "cepat; sigap"
     },
     {
-      "id": "53",
-      "indonesian": "baik",
-      "acehnese": "get"
+      "id": 53,
+      "acehnese": "bagan",
+      "indonesian": "kakus jamban"
     },
     {
-      "id": "54",
-      "indonesian": "baik",
-      "acehnese": "jroh"
+      "id": 54,
+      "acehnese": "bagi",
+      "indonesian": "bagi"
     },
     {
-      "id": "55",
-      "indonesian": "ban",
-      "acehnese": "bhan"
+      "id": 55,
+      "acehnese": "bagoe",
+      "indonesian": "jenis bagian seperti bandingan"
     },
     {
-      "id": "56",
-      "indonesian": "bangga",
-      "acehnese": "akla"
+      "id": 56,
+      "acehnese": "bagok",
+      "indonesian": "ikan laut"
     },
     {
-      "id": "57",
-      "indonesian": "bangga",
-      "acehnese": "bangga"
+      "id": 57,
+      "acehnese": "bahgia",
+      "indonesian": "bahagia"
     },
     {
-      "id": "58",
-      "indonesian": "bangga",
-      "acehnese": "seunang"
+      "id": 58,
+      "acehnese": "bahie",
+      "indonesian": "pesolek"
     },
     {
-      "id": "59",
-      "indonesian": "bantu",
-      "acehnese": "bantu"
+      "id": 59,
+      "acehnese": "bahue",
+      "indonesian": "seret"
     },
     {
-      "id": "60",
-      "indonesian": "bantu",
-      "acehnese": "tulong"
+      "id": 60,
+      "acehnese": "bahya",
+      "indonesian": "bahaya"
     },
     {
-      "id": "61",
-      "indonesian": "batal",
-      "acehnese": "bantai"
+      "id": 61,
+      "acehnese": "bajeueng",
+      "indonesian": "sundal jahat"
     },
     {
-      "id": "62",
-      "indonesian": "batal",
-      "acehnese": "bateu"
+      "id": 62,
+      "acehnese": "bak",
+      "indonesian": "pada"
     },
     {
-      "id": "63",
-      "indonesian": "batal",
-      "acehnese": "hana jadeh"
+      "id": 63,
+      "acehnese": "bakai",
+      "indonesian": "tampak kasar tidak sopan"
     },
     {
-      "id": "64",
-      "indonesian": "batas",
-      "acehnese": "batah"
+      "id": 64,
+      "acehnese": "bakeusih",
+      "indonesian": "hadiah"
     },
     {
-      "id": "65",
-      "indonesian": "batas",
-      "acehnese": "ceu"
+      "id": 65,
+      "acehnese": "baki",
+      "indonesian": "sisa"
     },
     {
-      "id": "66",
-      "indonesian": "batas",
-      "acehnese": "ceue"
+      "id": 66,
+      "acehnese": "bako",
+      "indonesian": "keturunan baik-baik"
     },
     {
-      "id": "67",
-      "indonesian": "bebas",
-      "acehnese": "bebaih"
+      "id": 67,
+      "acehnese": "bakoe",
+      "indonesian": "cerdas"
     },
     {
-      "id": "68",
-      "indonesian": "bebas",
-      "acehnese": "bibeueh"
+      "id": 68,
+      "acehnese": "bakôi",
+      "indonesian": "bakul keranjang"
     },
     {
-      "id": "69",
-      "indonesian": "bebas",
-      "acehnese": "merdeka"
+      "id": 69,
+      "acehnese": "bala",
+      "indonesian": "bencana"
     },
     {
-      "id": "70",
-      "indonesian": "beberapa",
-      "acehnese": "ladom"
+      "id": 70,
+      "acehnese": "balah",
+      "indonesian": "membalas menggantikan"
     },
     {
-      "id": "71",
-      "indonesian": "beberapa",
-      "acehnese": "meupadum"
+      "id": 71,
+      "acehnese": "balak",
+      "indonesian": "banyak sekali bertumpuk-tumpuk"
     },
     {
-      "id": "72",
-      "indonesian": "bela",
-      "acehnese": "bela"
+      "id": 72,
+      "acehnese": "balék",
+      "indonesian": "kembali"
     },
     {
-      "id": "73",
-      "indonesian": "bela",
-      "acehnese": "bila"
+      "id": 73,
+      "acehnese": "balo",
+      "indonesian": "menghabiskan menghilang"
     },
     {
-      "id": "74",
-      "indonesian": "belakang",
-      "acehnese": "likot"
+      "id": 74,
+      "acehnese": "baloe",
+      "indonesian": "membelai membujuk"
     },
     {
-      "id": "75",
-      "indonesian": "benar",
-      "acehnese": "beutoi"
+      "id": 75,
+      "acehnese": "balôh",
+      "indonesian": "cocok sesuai sepadan"
     },
     {
-      "id": "76",
-      "indonesian": "benar",
-      "acehnese": "keubit"
+      "id": 76,
+      "acehnese": "balom",
+      "indonesian": "kabur tidak jelas kusam"
     },
     {
-      "id": "77",
-      "indonesian": "benar",
-      "acehnese": "lagee na"
+      "id": 77,
+      "acehnese": "baluem",
+      "indonesian": "kantong karung"
     },
     {
-      "id": "78",
-      "indonesian": "benar",
-      "acehnese": "saheh"
+      "id": 78,
+      "acehnese": "banci",
+      "indonesian": "benci"
     },
     {
-      "id": "79",
-      "indonesian": "bencana",
-      "acehnese": "bala"
+      "id": 79,
+      "acehnese": "bandôt",
+      "indonesian": "panji bendera"
     },
     {
-      "id": "80",
-      "indonesian": "bencana",
-      "acehnese": "beuncana"
+      "id": 80,
+      "acehnese": "bang'a",
+      "indonesian": "berbau busuk"
     },
     {
-      "id": "81",
-      "indonesian": "bencana",
-      "acehnese": "musibah"
+      "id": 81,
+      "acehnese": "bangai",
+      "indonesian": "bodoh"
     },
     {
-      "id": "82",
-      "indonesian": "bencana",
-      "acehnese": "peutaka"
+      "id": 82,
+      "acehnese": "bangga",
+      "indonesian": "bangga"
     },
     {
-      "id": "83",
-      "indonesian": "benci",
-      "acehnese": "banci"
+      "id": 83,
+      "acehnese": "bangkéh",
+      "indonesian": "kurus kerempeng"
     },
     {
-      "id": "84",
-      "indonesian": "benci",
-      "acehnese": "glak"
+      "id": 84,
+      "acehnese": "bang'oe",
+      "indonesian": "wangi berbau harum"
     },
     {
-      "id": "85",
-      "indonesian": "benci",
-      "acehnese": "hana galak"
+      "id": 85,
+      "acehnese": "bantaban",
+      "indonesian": "bebal bandel"
     },
     {
-      "id": "86",
-      "indonesian": "berani",
-      "acehnese": "beube"
+      "id": 86,
+      "acehnese": "bantai",
+      "indonesian": "batal"
     },
     {
-      "id": "87",
-      "indonesian": "berani",
-      "acehnese": "beuhe"
+      "id": 87,
+      "acehnese": "bantu",
+      "indonesian": "bantu; dukung"
     },
     {
-      "id": "88",
-      "indonesian": "berani",
-      "acehnese": "keujeut"
+      "id": 88,
+      "acehnese": "bantuan",
+      "indonesian": "dukungan"
     },
     {
-      "id": "89",
-      "indonesian": "berarti",
-      "acehnese": "berarti"
+      "id": 89,
+      "acehnese": "barah",
+      "indonesian": "bisul"
     },
     {
-      "id": "90",
-      "indonesian": "berarti",
-      "acehnese": "beurarti"
+      "id": 90,
+      "acehnese": "baréng",
+      "indonesian": "menyindir"
     },
     {
-      "id": "91",
-      "indonesian": "berarti",
-      "acehnese": "meukeusan"
+      "id": 91,
+      "acehnese": "basoe",
+      "indonesian": "penyakit gembung bengkak di badan"
     },
     {
-      "id": "92",
-      "indonesian": "berat",
-      "acehnese": "brat"
+      "id": 92,
+      "acehnese": "basôh",
+      "indonesian": "bengkak di badan"
     },
     {
-      "id": "93",
-      "indonesian": "berat",
-      "acehnese": "geuhon"
+      "id": 93,
+      "acehnese": "batah",
+      "indonesian": "batas"
     },
     {
-      "id": "94",
-      "indonesian": "berbahaya",
-      "acehnese": "bahya"
+      "id": 94,
+      "acehnese": "bateu",
+      "indonesian": "batal"
     },
     {
-      "id": "95",
-      "indonesian": "berbahaya",
-      "acehnese": "meubahaya"
+      "id": 95,
+      "acehnese": "bateue",
+      "indonesian": "keras kepala tegar degil"
     },
     {
-      "id": "96",
-      "indonesian": "berdarah",
-      "acehnese": "meudarah"
+      "id": 96,
+      "acehnese": "baweue",
+      "indonesian": "omong kosong"
     },
     {
-      "id": "97",
-      "indonesian": "berdoa",
-      "acehnese": "lakee doa"
+      "id": 97,
+      "acehnese": "bawôih",
+      "indonesian": "kurang semakin berkurang"
     },
     {
-      "id": "98",
-      "indonesian": "berdoa",
-      "acehnese": "meudoa"
+      "id": 98,
+      "acehnese": "bebaih",
+      "indonesian": "bebas"
     },
     {
-      "id": "99",
-      "indonesian": "berduka",
-      "acehnese": "meuduka"
+      "id": 99,
+      "acehnese": "bela",
+      "indonesian": "bela"
     },
     {
-      "id": "100",
-      "indonesian": "berduka",
-      "acehnese": "meuseudeh"
+      "id": 100,
+      "acehnese": "berarti",
+      "indonesian": "berarti"
     },
     {
-      "id": "101",
-      "indonesian": "berguna",
-      "acehnese": "meuguna"
+      "id": 101,
+      "acehnese": "berhak",
+      "indonesian": "berhak"
     },
     {
-      "id": "102",
-      "indonesian": "berguna",
-      "acehnese": "ngeui"
+      "id": 102,
+      "acehnese": "beu",
+      "indonesian": "semoga"
     },
     {
-      "id": "103",
-      "indonesian": "berhak",
-      "acehnese": "berhak"
+      "id": 103,
+      "acehnese": "beuaih",
+      "indonesian": "tidak menaruh perhatian sembrono"
     },
     {
-      "id": "104",
-      "indonesian": "berhak",
-      "acehnese": "na hak"
+      "id": 104,
+      "acehnese": "beube",
+      "indonesian": "berani"
     },
     {
-      "id": "105",
-      "indonesian": "berhak",
-      "acehnese": "patot"
+      "id": 105,
+      "acehnese": "beudöh",
+      "indonesian": "sadar"
     },
     {
-      "id": "106",
-      "indonesian": "berharap",
-      "acehnese": "meuharap"
+      "id": 106,
+      "acehnese": "beuhê",
+      "indonesian": "berani"
     },
     {
-      "id": "107",
-      "indonesian": "beri",
-      "acehnese": "bi"
+      "id": 107,
+      "acehnese": "beujroh",
+      "indonesian": "hati-hati"
     },
     {
-      "id": "108",
-      "indonesian": "beri",
-      "acehnese": "bri"
+      "id": 108,
+      "acehnese": "beukah",
+      "indonesian": "pecah"
     },
     {
-      "id": "109",
-      "indonesian": "beri",
-      "acehnese": "jok"
+      "id": 109,
+      "acehnese": "beuncana",
+      "indonesian": "bencana"
     },
     {
-      "id": "110",
-      "indonesian": "berkomitmen",
-      "acehnese": "meudong"
+      "id": 110,
+      "acehnese": "beunci",
+      "indonesian": "benci"
     },
     {
-      "id": "111",
-      "indonesian": "berkomitmen",
-      "acehnese": "meukomitmen"
+      "id": 111,
+      "acehnese": "beungèh",
+      "indonesian": "marah; murka"
     },
     {
-      "id": "112",
-      "indonesian": "berlebihan",
-      "acehnese": "meuleumpah"
+      "id": 112,
+      "acehnese": "beung'u",
+      "indonesian": "muak jemu akan sesuatu"
     },
     {
-      "id": "113",
-      "indonesian": "berlebihan",
-      "acehnese": "teuleubeh-leubeh"
+      "id": 113,
+      "acehnese": "beupak",
+      "indonesian": "tolol"
     },
     {
-      "id": "114",
-      "indonesian": "bermanfaat",
-      "acehnese": "beumanfaat"
+      "id": 114,
+      "acehnese": "beurarti",
+      "indonesian": "berarti"
     },
     {
-      "id": "115",
-      "indonesian": "bermanfaat",
-      "acehnese": "meuguna"
+      "id": 115,
+      "acehnese": "beureu ôn",
+      "indonesian": "bergelembung"
     },
     {
-      "id": "116",
-      "indonesian": "bersaing",
-      "acehnese": "meusaeng"
+      "id": 116,
+      "acehnese": "beureusén",
+      "indonesian": "bersin"
     },
     {
-      "id": "117",
-      "indonesian": "bersaing",
-      "acehnese": "meusayeng"
+      "id": 117,
+      "acehnese": "beureutôh",
+      "indonesian": "meletus. meletup"
     },
     {
-      "id": "118",
-      "indonesian": "bersama",
-      "acehnese": "meusaban"
+      "id": 118,
+      "acehnese": "beurigèen",
+      "indonesian": "suka menangis licik banyak akal"
     },
     {
-      "id": "119",
-      "indonesian": "bersama",
-      "acehnese": "sajan"
+      "id": 119,
+      "acehnese": "beusôt",
+      "indonesian": "tembus berlubang bocor"
     },
     {
-      "id": "120",
-      "indonesian": "bersama",
-      "acehnese": "sama-sama"
+      "id": 120,
+      "acehnese": "beutéh",
+      "indonesian": "betis"
     },
     {
-      "id": "121",
-      "indonesian": "bersedih",
-      "acehnese": "meuseudeh"
+      "id": 121,
+      "acehnese": "beuténg",
+      "indonesian": "gembung perut masuk angin akan keluar"
     },
     {
-      "id": "122",
-      "indonesian": "bersedih",
-      "acehnese": "meuweueh"
+      "id": 122,
+      "acehnese": "beuteugôh",
+      "indonesian": "hati-hati; waspada"
     },
     {
-      "id": "123",
-      "indonesian": "bersedih",
-      "acehnese": "weuh hatee"
+      "id": 123,
+      "acehnese": "beutôh",
+      "indonesian": "baru besar; baru meningkat umur dewasa"
     },
     {
-      "id": "124",
-      "indonesian": "bersembunyi",
-      "acehnese": "meusom"
+      "id": 124,
+      "acehnese": "beutôi",
+      "indonesian": "benar"
     },
     {
-      "id": "125",
-      "indonesian": "bersorak",
-      "acehnese": "meusurak"
+      "id": 125,
+      "acehnese": "bhah",
+      "indonesian": "hal; masalah; tentang"
     },
     {
-      "id": "126",
-      "indonesian": "bersorak",
-      "acehnese": "peukra"
+      "id": 126,
+      "acehnese": "bhak",
+      "indonesian": "bercahaya gemerlapan"
     },
     {
-      "id": "127",
-      "indonesian": "bersorak",
-      "acehnese": "surak"
+      "id": 127,
+      "acehnese": "bhan",
+      "indonesian": "ban"
     },
     {
-      "id": "128",
-      "indonesian": "besar",
-      "acehnese": "raya"
+      "id": 128,
+      "acehnese": "bhoe",
+      "indonesian": "bor"
     },
     {
-      "id": "129",
-      "indonesian": "besar",
-      "acehnese": "rayek"
+      "id": 129,
+      "acehnese": "bhong",
+      "indonesian": "tidak memperdulikan orang lain sombong"
     },
     {
-      "id": "130",
-      "indonesian": "besar",
-      "acehnese": "rayeuk"
+      "id": 130,
+      "acehnese": "bhuek",
+      "indonesian": "tenggelam"
     },
     {
-      "id": "131",
-      "indonesian": "biadab",
-      "acehnese": "biadab"
+      "id": 131,
+      "acehnese": "bi",
+      "indonesian": "beri"
     },
     {
-      "id": "132",
-      "indonesian": "biadab",
-      "acehnese": "hana adab"
+      "id": 132,
+      "acehnese": "biadab",
+      "indonesian": "biadab; hana adab"
     },
     {
-      "id": "133",
-      "indonesian": "biaya",
-      "acehnese": "biaya"
+      "id": 133,
+      "acehnese": "biaya",
+      "indonesian": "biaya; harga"
     },
     {
-      "id": "134",
-      "indonesian": "biaya",
-      "acehnese": "peng"
+      "id": 134,
+      "acehnese": "bibeueh",
+      "indonesian": "bebas"
     },
     {
-      "id": "135",
-      "indonesian": "bingung",
-      "acehnese": "bingong"
+      "id": 135,
+      "acehnese": "bicah",
+      "indonesian": "pecah"
     },
     {
-      "id": "136",
-      "indonesian": "bingung",
-      "acehnese": "mumang"
+      "id": 136,
+      "acehnese": "biduen",
+      "indonesian": "wanita pelacur jalang"
     },
     {
-      "id": "137",
-      "indonesian": "bodoh",
-      "acehnese": "bangai"
+      "id": 137,
+      "acehnese": "bieng",
+      "indonesian": "kepiting"
     },
     {
-      "id": "138",
-      "indonesian": "bodoh",
-      "acehnese": "ngeut"
+      "id": 138,
+      "acehnese": "biheue",
+      "indonesian": "nakal jahat tak dpt ditegur"
     },
     {
-      "id": "139",
-      "indonesian": "bohong",
-      "acehnese": "hana beutoi"
+      "id": 139,
+      "acehnese": "bijak",
+      "indonesian": "tegas"
     },
     {
-      "id": "140",
-      "indonesian": "bohong",
-      "acehnese": "peungeut"
+      "id": 140,
+      "acehnese": "bijoe",
+      "indonesian": "orang yg makannya terlalu sedikit sehingga tubuhnya kurus"
     },
     {
-      "id": "141",
-      "indonesian": "bohong",
-      "acehnese": "sulet"
+      "id": 141,
+      "acehnese": "bila",
+      "indonesian": "bela"
     },
     {
-      "id": "142",
-      "indonesian": "bom",
-      "acehnese": "bom"
+      "id": 142,
+      "acehnese": "bileueng",
+      "indonesian": "menghitung"
     },
     {
-      "id": "143",
-      "indonesian": "buka",
-      "acehnese": "buka"
+      "id": 143,
+      "acehnese": "binasa",
+      "indonesian": "binasa; hancur"
     },
     {
-      "id": "144",
-      "indonesian": "buka",
-      "acehnese": "peuhah"
+      "id": 144,
+      "acehnese": "binèh",
+      "indonesian": "samping"
     },
     {
-      "id": "145",
-      "indonesian": "buka",
-      "acehnese": "teuhah"
+      "id": 145,
+      "acehnese": "bingkèeng",
+      "indonesian": "pemarah pemanas hati"
     },
     {
-      "id": "146",
-      "indonesian": "bunga",
-      "acehnese": "bungoeng"
+      "id": 146,
+      "acehnese": "bingkéh",
+      "indonesian": "membungkus menyita"
     },
     {
-      "id": "147",
-      "indonesian": "bunga",
-      "acehnese": "bungong"
+      "id": 147,
+      "acehnese": "biyeue",
+      "indonesian": "abaikan"
     },
     {
-      "id": "148",
-      "indonesian": "bunga",
-      "acehnese": "keumang"
+      "id": 148,
+      "acehnese": "bleuet",
+      "indonesian": "anyaman daun kelapa"
     },
     {
-      "id": "149",
-      "indonesian": "bunga",
-      "acehnese": "keumbee"
+      "id": 149,
+      "acehnese": "bleutèe",
+      "indonesian": "suka bicara suka bertanya rewel"
     },
     {
-      "id": "150",
-      "indonesian": "bungkam",
-      "acehnese": "iem"
+      "id": 150,
+      "acehnese": "bom",
+      "indonesian": "bom"
     },
     {
-      "id": "151",
-      "indonesian": "bungkam",
-      "acehnese": "seungap"
+      "id": 151,
+      "acehnese": "brat",
+      "indonesian": "berat"
     },
     {
-      "id": "152",
-      "indonesian": "bunuh",
-      "acehnese": "peumatee"
+      "id": 152,
+      "acehnese": "bri",
+      "indonesian": "beri"
     },
     {
-      "id": "153",
-      "indonesian": "bunuh",
-      "acehnese": "poh"
+      "id": 153,
+      "acehnese": "brôk",
+      "indonesian": "buruk; jelek"
     },
     {
-      "id": "154",
-      "indonesian": "bunuh diri",
-      "acehnese": "peumatee droe"
+      "id": 154,
+      "acehnese": "bubông",
+      "indonesian": "atap"
     },
     {
-      "id": "155",
-      "indonesian": "bunuh diri",
-      "acehnese": "poh droe"
+      "id": 155,
+      "acehnese": "budom",
+      "indonesian": "bermalam lamalama pada suatu tempat"
     },
     {
-      "id": "156",
-      "indonesian": "buruk",
-      "acehnese": "brok"
+      "id": 156,
+      "acehnese": "buet",
+      "indonesian": "karya"
     },
     {
-      "id": "157",
-      "indonesian": "buta",
-      "acehnese": "buta"
+      "id": 157,
+      "acehnese": "buka",
+      "indonesian": "buka"
     },
     {
-      "id": "158",
-      "indonesian": "buta",
-      "acehnese": "seupot mata"
+      "id": 158,
+      "acehnese": "bungkôh",
+      "indonesian": "bungkus"
     },
     {
-      "id": "159",
-      "indonesian": "cantik",
-      "acehnese": "ceudah"
+      "id": 159,
+      "acehnese": "bungoeng",
+      "indonesian": "bunga"
     },
     {
-      "id": "160",
-      "indonesian": "cantik",
-      "acehnese": "lagak"
+      "id": 160,
+      "acehnese": "bunthok",
+      "indonesian": "bulat"
     },
     {
-      "id": "161",
-      "indonesian": "cantik",
-      "acehnese": "tari"
+      "id": 161,
+      "acehnese": "burat",
+      "indonesian": "berontak"
     },
     {
-      "id": "162",
-      "indonesian": "capai",
-      "acehnese": "hek"
+      "id": 162,
+      "acehnese": "buta",
+      "indonesian": "buta"
     },
     {
-      "id": "163",
-      "indonesian": "capai",
-      "acehnese": "trok"
+      "id": 163,
+      "acehnese": "cabak",
+      "indonesian": "lasak"
     },
     {
-      "id": "164",
-      "indonesian": "cari",
-      "acehnese": "eu"
+      "id": 164,
+      "acehnese": "calitra",
+      "indonesian": "cerita"
     },
     {
-      "id": "165",
-      "indonesian": "cari",
-      "acehnese": "mita"
+      "id": 165,
+      "acehnese": "candén",
+      "indonesian": "cantik jelita"
     },
     {
-      "id": "166",
-      "indonesian": "cedera",
-      "acehnese": "cidra"
+      "id": 166,
+      "acehnese": "cang",
+      "indonesian": "potong"
     },
     {
-      "id": "167",
-      "indonesian": "cedera",
-      "acehnese": "luka"
+      "id": 167,
+      "acehnese": "cangguek",
+      "indonesian": "katak kodok"
     },
     {
-      "id": "168",
-      "indonesian": "cedera",
-      "acehnese": "saket"
+      "id": 168,
+      "acehnese": "cangké",
+      "indonesian": "cangkir"
     },
     {
-      "id": "169",
-      "indonesian": "cedera",
-      "acehnese": "teupeh"
+      "id": 169,
+      "acehnese": "can'ok",
+      "indonesian": "tahi ayam"
     },
     {
-      "id": "170",
-      "indonesian": "cegah",
-      "acehnese": "ceugah"
+      "id": 170,
+      "acehnese": "capah",
+      "indonesian": "piring besar"
     },
     {
-      "id": "171",
-      "indonesian": "cegah",
-      "acehnese": "tham"
+      "id": 171,
+      "acehnese": "capiek",
+      "indonesian": "pincang"
     },
     {
-      "id": "172",
-      "indonesian": "cegah",
-      "acehnese": "theuen"
+      "id": 172,
+      "acehnese": "caröng",
+      "indonesian": "cerdas; pintar"
     },
     {
-      "id": "173",
-      "indonesian": "cemas",
-      "acehnese": "dawok"
+      "id": 173,
+      "acehnese": "carôt",
+      "indonesian": "memaki"
     },
     {
-      "id": "174",
-      "indonesian": "cemas",
-      "acehnese": "hayut"
+      "id": 174,
+      "acehnese": "car'ueh",
+      "indonesian": "mengikat"
     },
     {
-      "id": "175",
-      "indonesian": "cemas",
-      "acehnese": "khawate"
+      "id": 175,
+      "acehnese": "cawan",
+      "indonesian": "mangkok"
     },
     {
-      "id": "176",
-      "indonesian": "cemas",
-      "acehnese": "meh-moh"
+      "id": 176,
+      "acehnese": "cawö",
+      "indonesian": "mengaduk"
     },
     {
-      "id": "177",
-      "indonesian": "cepat",
-      "acehnese": "bagah"
+      "id": 177,
+      "acehnese": "cawöi",
+      "indonesian": "kusut ruwet"
     },
     {
-      "id": "178",
-      "indonesian": "cepat",
-      "acehnese": "laju"
+      "id": 178,
+      "acehnese": "cerdik",
+      "indonesian": "cerdas"
     },
     {
-      "id": "179",
-      "indonesian": "cepat",
-      "acehnese": "ligat"
+      "id": 179,
+      "acehnese": "ceu",
+      "indonesian": "batas"
     },
     {
-      "id": "180",
-      "indonesian": "cerdas",
-      "acehnese": "bakoe"
+      "id": 180,
+      "acehnese": "ceudah",
+      "indonesian": "cantik; indah"
     },
     {
-      "id": "181",
-      "indonesian": "cerdas",
-      "acehnese": "caroeng"
+      "id": 181,
+      "acehnese": "ceugah",
+      "indonesian": "cegah; antisipasi"
     },
     {
-      "id": "182",
-      "indonesian": "cerdas",
-      "acehnese": "carong"
+      "id": 182,
+      "acehnese": "ceukang",
+      "indonesian": "tegang"
     },
     {
-      "id": "183",
-      "indonesian": "cerdas",
-      "acehnese": "cerdik"
+      "id": 183,
+      "acehnese": "ceuköt",
+      "indonesian": "memutar"
     },
     {
-      "id": "184",
-      "indonesian": "cinta",
-      "acehnese": "cinta"
+      "id": 184,
+      "acehnese": "ceuleunga",
+      "indonesian": "gagal"
     },
     {
-      "id": "185",
-      "indonesian": "cinta",
-      "acehnese": "galak"
+      "id": 185,
+      "acehnese": "chik",
+      "indonesian": "tua"
     },
     {
-      "id": "186",
-      "indonesian": "cinta",
-      "acehnese": "sayang"
+      "id": 186,
+      "acehnese": "ch'oe",
+      "indonesian": "sengau"
     },
     {
-      "id": "187",
-      "indonesian": "cium",
-      "acehnese": "com"
+      "id": 187,
+      "acehnese": "cidra",
+      "indonesian": "cedera; luka"
     },
     {
-      "id": "188",
-      "indonesian": "cium",
-      "acehnese": "tuah"
+      "id": 188,
+      "acehnese": "c'ieb",
+      "indonesian": "penyet"
     },
     {
-      "id": "189",
-      "indonesian": "cocok",
-      "acehnese": "cocok"
+      "id": 189,
+      "acehnese": "cinta",
+      "indonesian": "cinta"
     },
     {
-      "id": "190",
-      "indonesian": "cocok",
-      "acehnese": "meukeunong"
+      "id": 190,
+      "acehnese": "cipèe'",
+      "indonesian": "ceper"
     },
     {
-      "id": "191",
-      "indonesian": "cocok",
-      "acehnese": "pah"
+      "id": 191,
+      "acehnese": "cocok",
+      "indonesian": "cocok"
     },
     {
-      "id": "192",
-      "indonesian": "copet",
-      "acehnese": "copet"
+      "id": 192,
+      "acehnese": "cok",
+      "indonesian": "ambil; adopsi"
     },
     {
-      "id": "193",
-      "indonesian": "copet",
-      "acehnese": "pancuri"
+      "id": 193,
+      "acehnese": "côm",
+      "indonesian": "cium"
     },
     {
-      "id": "194",
-      "indonesian": "damai",
-      "acehnese": "dame"
+      "id": 194,
+      "acehnese": "cu",
+      "indonesian": "curi"
     },
     {
-      "id": "195",
-      "indonesian": "damai",
-      "acehnese": "damee"
+      "id": 195,
+      "acehnese": "culék",
+      "indonesian": "mencukil mengorek"
     },
     {
-      "id": "196",
-      "indonesian": "damai",
-      "acehnese": "tentram"
+      "id": 196,
+      "acehnese": "curiga",
+      "indonesian": "curiga"
     },
     {
-      "id": "197",
-      "indonesian": "dapat",
-      "acehnese": "meuteumee"
+      "id": 197,
+      "acehnese": "cut'iet",
+      "indonesian": "mencubit"
     },
     {
-      "id": "198",
-      "indonesian": "dapat",
-      "acehnese": "meuteumeu"
+      "id": 198,
+      "acehnese": "dabèe",
+      "indonesian": "mendung redup"
     },
     {
-      "id": "199",
-      "indonesian": "dapat",
-      "acehnese": "roh"
+      "id": 199,
+      "acehnese": "dabeueh",
+      "indonesian": "barang"
     },
     {
-      "id": "200",
-      "indonesian": "dapat",
-      "acehnese": "teumee"
+      "id": 200,
+      "acehnese": "dahsyat",
+      "indonesian": "hebat"
     },
     {
-      "id": "201",
-      "indonesian": "dapat",
-      "acehnese": "teumeueng"
+      "id": 201,
+      "acehnese": "daih",
+      "indonesian": "sumbu lampu"
     },
     {
-      "id": "202",
-      "indonesian": "daya",
-      "acehnese": "daya"
+      "id": 202,
+      "acehnese": "dalèeh",
+      "indonesian": "alasan"
     },
     {
-      "id": "203",
-      "indonesian": "daya",
-      "acehnese": "wat"
+      "id": 203,
+      "acehnese": "daléh",
+      "indonesian": "alasan"
     },
     {
-      "id": "204",
-      "indonesian": "diabaikan",
-      "acehnese": "biyeue"
+      "id": 204,
+      "acehnese": "damèe",
+      "indonesian": "damai"
     },
     {
-      "id": "205",
-      "indonesian": "diabaikan",
-      "acehnese": "han dipereumeun"
+      "id": 205,
+      "acehnese": "dampéng",
+      "indonesian": "mendampingi"
     },
     {
-      "id": "206",
-      "indonesian": "diabaikan",
-      "acehnese": "tan jihiroe"
+      "id": 206,
+      "acehnese": "dangdhöt",
+      "indonesian": "sibuk"
     },
     {
-      "id": "207",
-      "indonesian": "diam",
-      "acehnese": "iem"
+      "id": 207,
+      "acehnese": "dapha",
+      "indonesian": "upah bayaran"
     },
     {
-      "id": "208",
-      "indonesian": "diam",
-      "acehnese": "seungap"
+      "id": 208,
+      "acehnese": "darohaka",
+      "indonesian": "durhaka"
     },
     {
-      "id": "209",
-      "indonesian": "diancam",
-      "acehnese": "diancam"
+      "id": 209,
+      "acehnese": "darôi",
+      "indonesian": "tempat negeri"
     },
     {
-      "id": "210",
-      "indonesian": "diancam",
-      "acehnese": "dipeuagak"
+      "id": 210,
+      "acehnese": "dawok",
+      "indonesian": "selalu perhatian"
     },
     {
-      "id": "211",
-      "indonesian": "dibersihkan",
-      "acehnese": "dipeugleh"
+      "id": 211,
+      "acehnese": "daya",
+      "indonesian": "daya; kekuatan"
     },
     {
-      "id": "212",
-      "indonesian": "dibersihkan",
-      "acehnese": "jipeugleh"
+      "id": 212,
+      "acehnese": "dèesya",
+      "indonesian": "dosa"
     },
     {
-      "id": "213",
-      "indonesian": "dicuri",
-      "acehnese": "dicu"
+      "id": 213,
+      "acehnese": "déndén",
+      "indonesian": "capung"
     },
     {
-      "id": "214",
-      "indonesian": "dicuri",
-      "acehnese": "jicue"
+      "id": 214,
+      "acehnese": "deuh",
+      "indonesian": "lihat"
     },
     {
-      "id": "215",
-      "indonesian": "dihukum",
-      "acehnese": "dihukom"
+      "id": 215,
+      "acehnese": "deuk",
+      "indonesian": "kelaparan"
     },
     {
-      "id": "216",
-      "indonesian": "dihukum",
-      "acehnese": "jihukom"
+      "id": 216,
+      "acehnese": "deumpék",
+      "indonesian": "tempiksorak; bersorak keras-keras"
     },
     {
-      "id": "217",
-      "indonesian": "dikalahkan",
-      "acehnese": "dipeutaloe"
+      "id": 217,
+      "acehnese": "deurita",
+      "indonesian": "derita"
     },
     {
-      "id": "218",
-      "indonesian": "dikalahkan",
-      "acehnese": "jipeutalo"
+      "id": 218,
+      "acehnese": "deuru",
+      "indonesian": "sangat cepat menembus menusuk"
     },
     {
-      "id": "219",
-      "indonesian": "dipercaya",
-      "acehnese": "dipateh"
+      "id": 219,
+      "acehnese": "dhiet",
+      "indonesian": "anggun; bagus"
     },
     {
-      "id": "220",
-      "indonesian": "dipercaya",
-      "acehnese": "dipeucaya"
+      "id": 220,
+      "acehnese": "dhôi",
+      "indonesian": "debu pada benda"
     },
     {
-      "id": "221",
-      "indonesian": "dipercaya",
-      "acehnese": "jipateh"
+      "id": 221,
+      "acehnese": "dhôt",
+      "indonesian": "membentak"
     },
     {
-      "id": "222",
-      "indonesian": "dipermalukan",
-      "acehnese": "dipeumalee"
+      "id": 222,
+      "acehnese": "do’a",
+      "indonesian": "doa"
     },
     {
-      "id": "223",
-      "indonesian": "dipermalukan",
-      "acehnese": "jiseumalee"
+      "id": 223,
+      "acehnese": "drop",
+      "indonesian": "tangkap"
     },
     {
-      "id": "224",
-      "indonesian": "dipertanyakan",
-      "acehnese": "dipeusoal"
+      "id": 224,
+      "acehnese": "dugom",
+      "indonesian": "tiarap telungkup"
     },
     {
-      "id": "225",
-      "indonesian": "dipertanyakan",
-      "acehnese": "ditanyoeng"
+      "id": 225,
+      "acehnese": "duka",
+      "indonesian": "duka"
     },
     {
-      "id": "226",
-      "indonesian": "dipertanyakan",
-      "acehnese": "jitanyong"
+      "id": 226,
+      "acehnese": "duk-döng",
+      "indonesian": "panik"
     },
     {
-      "id": "227",
-      "indonesian": "diprovokasi",
-      "acehnese": "dipeukompho"
+      "id": 227,
+      "acehnese": "dukông",
+      "indonesian": "dukung"
     },
     {
-      "id": "228",
-      "indonesian": "diprovokasi",
-      "acehnese": "dipeusuum"
+      "id": 228,
+      "acehnese": "dukung",
+      "indonesian": "dukung"
     },
     {
-      "id": "229",
-      "indonesian": "diprovokasi",
-      "acehnese": "diprovokasi"
+      "id": 229,
+      "acehnese": "dung'ok",
+      "indonesian": "dungu bodoh"
     },
     {
-      "id": "230",
-      "indonesian": "disebut-sebut",
-      "acehnese": "diteuoh"
+      "id": 230,
+      "acehnese": "èejeuba",
+      "indonesian": "hukuman ketidaksenangan karena difitnah"
     },
     {
-      "id": "231",
-      "indonesian": "disebut-sebut",
-      "acehnese": "diungket"
+      "id": 231,
+      "acehnese": "èek",
+      "indonesian": "tahi kotoran"
     },
     {
-      "id": "232",
-      "indonesian": "disebut-sebut",
-      "acehnese": "fitnah"
+      "id": 232,
+      "acehnese": "èekeulaih",
+      "indonesian": "ikhlas"
     },
     {
-      "id": "233",
-      "indonesian": "ditakuti",
-      "acehnese": "dipeuyo"
+      "id": 233,
+      "acehnese": "èekheutieue",
+      "indonesian": "ikhtiar untuk memperoleh sesuatu"
     },
     {
-      "id": "234",
-      "indonesian": "ditakuti",
-      "acehnese": "disegan"
+      "id": 234,
+      "acehnese": "èektikeuet",
+      "indonesian": "iktikad maksud"
     },
     {
-      "id": "235",
-      "indonesian": "ditakuti",
-      "acehnese": "jipeutakot"
+      "id": 235,
+      "acehnese": "èeleumèe",
+      "indonesian": "ilmu pengetahuan"
     },
     {
-      "id": "236",
-      "indonesian": "ditangkap",
-      "acehnese": "dipeudrop"
+      "id": 236,
+      "acehnese": "èeng-èeng",
+      "indonesian": "suara nyanyian"
     },
     {
-      "id": "237",
-      "indonesian": "ditangkap",
-      "acehnese": "jidrop"
+      "id": 237,
+      "acehnese": "ék",
+      "indonesian": "sanggup; mampu"
     },
     {
-      "id": "238",
-      "indonesian": "diteror",
-      "acehnese": "dipeukaru"
+      "id": 238,
+      "acehnese": "éktidai",
+      "indonesian": "iktidal"
     },
     {
-      "id": "239",
-      "indonesian": "diteror",
-      "acehnese": "diteror"
+      "id": 239,
+      "acehnese": "éndatu",
+      "indonesian": "nenek moyang"
     },
     {
-      "id": "240",
-      "indonesian": "diteror",
-      "acehnese": "jiteror"
+      "id": 240,
+      "acehnese": "eu",
+      "indonesian": "lihat"
     },
     {
-      "id": "241",
-      "indonesian": "ditinggalkan",
-      "acehnese": "ditinggai"
+      "id": 241,
+      "acehnese": "eu",
+      "indonesian": "cari"
     },
     {
-      "id": "242",
-      "indonesian": "ditinggalkan",
-      "acehnese": "jitinggai"
+      "id": 242,
+      "acehnese": "eumpang",
+      "indonesian": "karung beras"
     },
     {
-      "id": "243",
-      "indonesian": "ditingkatkan",
-      "acehnese": "ditingkatkan"
+      "id": 243,
+      "acehnese": "eumpeuen",
+      "indonesian": "umpan; makanan hewan"
     },
     {
-      "id": "244",
-      "indonesian": "ditingkatkan",
-      "acehnese": "jipeuek"
+      "id": 244,
+      "acehnese": "eumpieng",
+      "indonesian": "emping padi"
     },
     {
-      "id": "245",
-      "indonesian": "dituduh",
-      "acehnese": "ditudoh"
+      "id": 245,
+      "acehnese": "eumpung",
+      "indonesian": "sarang kandang sangkar"
     },
     {
-      "id": "246",
-      "indonesian": "dituduh",
-      "acehnese": "jitudoh"
+      "id": 246,
+      "acehnese": "euncit",
+      "indonesian": "bekas"
     },
     {
-      "id": "247",
-      "indonesian": "ditunda",
-      "acehnese": "dipeueunteuk"
+      "id": 247,
+      "acehnese": "eunteuk",
+      "indonesian": "nanti"
     },
     {
-      "id": "248",
-      "indonesian": "ditunda",
-      "acehnese": "dipeutanggoh"
+      "id": 248,
+      "acehnese": "euntreut",
+      "indonesian": "menggosok menyentuh"
     },
     {
-      "id": "249",
-      "indonesian": "ditunda",
-      "acehnese": "jitunda"
+      "id": 249,
+      "acehnese": "fitnah",
+      "indonesian": "fitnah"
     },
     {
-      "id": "250",
-      "indonesian": "doa",
-      "acehnese": "doa"
+      "id": 250,
+      "acehnese": "fokus",
+      "indonesian": "fokus"
     },
     {
-      "id": "251",
-      "indonesian": "doa",
-      "acehnese": "du'a"
+      "id": 251,
+      "acehnese": "gab",
+      "indonesian": "kokoh tetap"
     },
     {
-      "id": "252",
-      "indonesian": "doktrin",
-      "acehnese": "doktrin"
+      "id": 252,
+      "acehnese": "gabuek",
+      "indonesian": "heboh"
     },
     {
-      "id": "253",
-      "indonesian": "duka",
-      "acehnese": "duka"
+      "id": 253,
+      "acehnese": "gaca",
+      "indonesian": "tanaman inai pacar"
     },
     {
-      "id": "254",
-      "indonesian": "duka",
-      "acehnese": "seudeh"
+      "id": 254,
+      "acehnese": "gadèe",
+      "indonesian": "meminta-minta mengharapkan"
     },
     {
-      "id": "255",
-      "indonesian": "duka",
-      "acehnese": "weueh"
+      "id": 255,
+      "acehnese": "gadéng",
+      "indonesian": "gading (gajah)"
     },
     {
-      "id": "256",
-      "indonesian": "dukung",
-      "acehnese": "bantu"
+      "id": 256,
+      "acehnese": "gadöh",
+      "indonesian": "hilang; lenyap"
     },
     {
-      "id": "257",
-      "indonesian": "dukung",
-      "acehnese": "dukung"
+      "id": 257,
+      "acehnese": "gagah",
+      "indonesian": "gagah"
     },
     {
-      "id": "258",
-      "indonesian": "dukung",
-      "acehnese": "sokong"
+      "id": 258,
+      "acehnese": "gagai",
+      "indonesian": "gagal"
     },
     {
-      "id": "259",
-      "indonesian": "dukungan",
-      "acehnese": "bantuan"
+      "id": 259,
+      "acehnese": "gaki",
+      "indonesian": "kaki"
     },
     {
-      "id": "260",
-      "indonesian": "dukungan",
-      "acehnese": "beunantu"
+      "id": 260,
+      "acehnese": "galak",
+      "indonesian": "cinta; senang; suka"
     },
     {
-      "id": "261",
-      "indonesian": "dukungan",
-      "acehnese": "dukungan"
+      "id": 261,
+      "acehnese": "gameum",
+      "indonesian": "bingung"
     },
     {
-      "id": "262",
-      "indonesian": "efektif",
-      "acehnese": "efektif"
+      "id": 262,
+      "acehnese": "ganggu",
+      "indonesian": "ganggu"
     },
     {
-      "id": "263",
-      "indonesian": "efektif",
-      "acehnese": "pah"
+      "id": 263,
+      "acehnese": "ganjé",
+      "indonesian": "ganjil; aneh"
     },
     {
-      "id": "264",
-      "indonesian": "eksklusif",
-      "acehnese": "eksklusif"
+      "id": 264,
+      "acehnese": "gantông",
+      "indonesian": "gantung"
     },
     {
-      "id": "265",
-      "indonesian": "eksklusif",
-      "acehnese": "khusus"
+      "id": 265,
+      "acehnese": "gapah",
+      "indonesian": "lemak"
     },
     {
-      "id": "266",
-      "indonesian": "empati",
-      "acehnese": "iba"
+      "id": 266,
+      "acehnese": "gapeueh",
+      "indonesian": "kapas"
     },
     {
-      "id": "267",
-      "indonesian": "empati",
-      "acehnese": "weueh"
+      "id": 267,
+      "acehnese": "gapiet",
+      "indonesian": "jepit"
     },
     {
-      "id": "268",
-      "indonesian": "empati",
-      "acehnese": "weuh"
+      "id": 268,
+      "acehnese": "gari",
+      "indonesian": "roda"
     },
     {
-      "id": "269",
-      "indonesian": "fitnah",
-      "acehnese": "fitnah"
+      "id": 269,
+      "acehnese": "garô",
+      "indonesian": "menggaruk"
     },
     {
-      "id": "270",
-      "indonesian": "fitnah",
-      "acehnese": "haba hana beutoi"
+      "id": 270,
+      "acehnese": "gasien",
+      "indonesian": "miskin"
     },
     {
-      "id": "271",
-      "indonesian": "fokus",
-      "acehnese": "fokus"
+      "id": 271,
+      "acehnese": "gaya",
+      "indonesian": "gaya"
     },
     {
-      "id": "272",
-      "indonesian": "fokus",
-      "acehnese": "peurati"
+      "id": 272,
+      "acehnese": "gembira",
+      "indonesian": "bahagia"
     },
     {
-      "id": "273",
-      "indonesian": "gagah",
-      "acehnese": "gagah"
+      "id": 273,
+      "acehnese": "geuhön",
+      "indonesian": "berat"
     },
     {
-      "id": "274",
-      "indonesian": "gagah",
-      "acehnese": "meuagam"
+      "id": 274,
+      "acehnese": "geumbira",
+      "indonesian": "senang"
     },
     {
-      "id": "275",
-      "indonesian": "gagah",
-      "acehnese": "peukasa"
+      "id": 275,
+      "acehnese": "geuniréng",
+      "indonesian": "samping"
     },
     {
-      "id": "276",
-      "indonesian": "gagal",
-      "acehnese": "ceuleunga"
+      "id": 276,
+      "acehnese": "geunta",
+      "indonesian": "guncang"
     },
     {
-      "id": "277",
-      "indonesian": "gagal",
-      "acehnese": "gagal"
+      "id": 277,
+      "acehnese": "geunténg",
+      "indonesian": "genting ramping"
     },
     {
-      "id": "278",
-      "indonesian": "gagal",
-      "acehnese": "hana meuhasee"
+      "id": 278,
+      "acehnese": "geunuku",
+      "indonesian": "kukuran kelapa"
     },
     {
-      "id": "279",
-      "indonesian": "gagal",
-      "acehnese": "taloe"
+      "id": 279,
+      "acehnese": "geuny'ie",
+      "indonesian": "mengelim"
     },
     {
-      "id": "280",
-      "indonesian": "gampang",
-      "acehnese": "mudah"
+      "id": 280,
+      "acehnese": "geurtak",
+      "indonesian": "gertak"
     },
     {
-      "id": "281",
-      "indonesian": "ganggu",
-      "acehnese": "karu"
+      "id": 281,
+      "acehnese": "geusuen",
+      "indonesian": "pengecut"
     },
     {
-      "id": "282",
-      "indonesian": "ganggu",
-      "acehnese": "peuayang"
+      "id": 282,
+      "acehnese": "gisa",
+      "indonesian": "kembali"
     },
     {
-      "id": "283",
-      "indonesian": "ganggu",
-      "acehnese": "peukaru"
+      "id": 283,
+      "acehnese": "glah",
+      "indonesian": "jelas"
     },
     {
-      "id": "284",
-      "indonesian": "gaya",
-      "acehnese": "gaya"
+      "id": 284,
+      "acehnese": "glah",
+      "indonesian": "tingkat"
     },
     {
-      "id": "285",
-      "indonesian": "gelap",
-      "acehnese": "klap"
+      "id": 285,
+      "acehnese": "glak",
+      "indonesian": "benci"
     },
     {
-      "id": "286",
-      "indonesian": "gelap",
-      "acehnese": "seupot"
+      "id": 286,
+      "acehnese": "gleh",
+      "indonesian": "bersih"
     },
     {
-      "id": "287",
-      "indonesian": "gentar",
-      "acehnese": "gok"
+      "id": 287,
+      "acehnese": "gok",
+      "indonesian": "gentar"
     },
     {
-      "id": "288",
-      "indonesian": "gentar",
-      "acehnese": "goyang"
+      "id": 288,
+      "acehnese": "gok-gok",
+      "indonesian": "guncang"
     },
     {
-      "id": "289",
-      "indonesian": "gentar",
-      "acehnese": "yo"
+      "id": 289,
+      "acehnese": "goncang",
+      "indonesian": "guncang"
     },
     {
-      "id": "290",
-      "indonesian": "gertak",
-      "acehnese": "geureutak"
+      "id": 290,
+      "acehnese": "göt",
+      "indonesian": "bagus; baik"
     },
     {
-      "id": "291",
-      "indonesian": "gertak",
-      "acehnese": "geurtak"
+      "id": 291,
+      "acehnese": "göt",
+      "indonesian": "ucapan mengiyakan"
     },
     {
-      "id": "292",
-      "indonesian": "gertak",
-      "acehnese": "kacak"
+      "id": 292,
+      "acehnese": "göt-göt",
+      "indonesian": "hati-hati"
     },
     {
-      "id": "293",
-      "indonesian": "gila",
-      "acehnese": "mabok"
+      "id": 293,
+      "acehnese": "goyang",
+      "indonesian": "gentar; guncang"
     },
     {
-      "id": "294",
-      "indonesian": "gila",
-      "acehnese": "pungo"
+      "id": 294,
+      "acehnese": "gubra",
+      "indonesian": "ribut"
     },
     {
-      "id": "295",
-      "indonesian": "gila",
-      "acehnese": "setreh"
+      "id": 295,
+      "acehnese": "gulam",
+      "indonesian": "memikul"
     },
     {
-      "id": "296",
-      "indonesian": "guncang",
-      "acehnese": "geunta"
+      "id": 296,
+      "acehnese": "gulé",
+      "indonesian": "menggulingkan"
     },
     {
-      "id": "297",
-      "indonesian": "guncang",
-      "acehnese": "gok-gok"
+      "id": 297,
+      "acehnese": "gumoe",
+      "indonesian": "bergumul memegang kuat-kuat"
     },
     {
-      "id": "298",
-      "indonesian": "guncang",
-      "acehnese": "goncang"
+      "id": 298,
+      "acehnese": "gumpai",
+      "indonesian": "gumpal"
     },
     {
-      "id": "299",
-      "indonesian": "guncang",
-      "acehnese": "goyang"
+      "id": 299,
+      "acehnese": "guna",
+      "indonesian": "guna"
     },
     {
-      "id": "300",
-      "indonesian": "guncangan",
-      "acehnese": "meugeunta"
+      "id": 300,
+      "acehnese": "guntoe",
+      "indonesian": "pendek gemuk"
     },
     {
-      "id": "301",
-      "indonesian": "guncangan",
-      "acehnese": "meugok-gok"
+      "id": 301,
+      "acehnese": "guroe",
+      "indonesian": "guci tanah"
     },
     {
-      "id": "302",
-      "indonesian": "ha",
-      "acehnese": "ha"
+      "id": 302,
+      "acehnese": "h’iem",
+      "indonesian": "teka-teki"
     },
     {
-      "id": "303",
-      "indonesian": "ha",
-      "acehnese": "o po"
+      "id": 303,
+      "acehnese": "hai",
+      "indonesian": "hal"
     },
     {
-      "id": "304",
-      "indonesian": "habis",
-      "acehnese": "abeh"
+      "id": 304,
+      "acehnese": "hajat",
+      "indonesian": "ingin"
     },
     {
-      "id": "305",
-      "indonesian": "habis",
-      "acehnese": "hana le"
+      "id": 305,
+      "acehnese": "haleumab",
+      "indonesian": "rakus"
     },
     {
-      "id": "306",
-      "indonesian": "hal",
-      "acehnese": "bhah"
+      "id": 306,
+      "acehnese": "halia",
+      "indonesian": "jahe"
     },
     {
-      "id": "307",
-      "indonesian": "hal",
-      "acehnese": "hai"
+      "id": 307,
+      "acehnese": "haling",
+      "indonesian": "melontarkan melemparkan"
     },
     {
-      "id": "308",
-      "indonesian": "hal",
-      "acehnese": "peukara"
+      "id": 308,
+      "acehnese": "hambô",
+      "indonesian": "hambur"
     },
     {
-      "id": "309",
-      "indonesian": "hancur",
-      "acehnese": "anco"
+      "id": 309,
+      "acehnese": "han",
+      "indonesian": "tidak"
     },
     {
-      "id": "310",
-      "indonesian": "hantu",
-      "acehnese": "hantu"
+      "id": 310,
+      "acehnese": "hana",
+      "indonesian": "tidak"
     },
     {
-      "id": "311",
-      "indonesian": "hantu",
-      "acehnese": "jen"
+      "id": 311,
+      "acehnese": "hangèek",
+      "indonesian": "berbau angit"
     },
     {
-      "id": "312",
-      "indonesian": "harapan",
-      "acehnese": "harapan"
+      "id": 312,
+      "acehnese": "hanggô",
+      "indonesian": "anggur"
     },
     {
-      "id": "313",
-      "indonesian": "harga",
-      "acehnese": "yum"
+      "id": 313,
+      "acehnese": "hantu",
+      "indonesian": "hantu"
     },
     {
-      "id": "314",
-      "indonesian": "harta",
-      "acehnese": "areuta"
+      "id": 314,
+      "acehnese": "hany'ang",
+      "indonesian": "membanting"
     },
     {
-      "id": "315",
-      "indonesian": "harta",
-      "acehnese": "hareuta"
+      "id": 315,
+      "acehnese": "hany'i",
+      "indonesian": "anyir"
     },
     {
-      "id": "316",
-      "indonesian": "hasil",
-      "acehnese": "hase"
+      "id": 316,
+      "acehnese": "harapan",
+      "indonesian": "harapan"
     },
     {
-      "id": "317",
-      "indonesian": "hasil",
-      "acehnese": "hasee"
+      "id": 317,
+      "acehnese": "hareuta",
+      "indonesian": "harta"
     },
     {
-      "id": "318",
-      "indonesian": "hasil",
-      "acehnese": "wase"
+      "id": 318,
+      "acehnese": "hareutoe",
+      "indonesian": "arti makna uraian"
     },
     {
-      "id": "319",
-      "indonesian": "hati",
-      "acehnese": "atee"
+      "id": 319,
+      "acehnese": "harôh",
+      "indonesian": "wajib"
     },
     {
-      "id": "320",
-      "indonesian": "hati",
-      "acehnese": "hate"
+      "id": 320,
+      "acehnese": "harôih",
+      "indonesian": "harus"
     },
     {
-      "id": "321",
-      "indonesian": "hati-hati",
-      "acehnese": "beuget-get"
+      "id": 321,
+      "acehnese": "harôk",
+      "indonesian": "senang; suka"
     },
     {
-      "id": "322",
-      "indonesian": "hati-hati",
-      "acehnese": "beujroh"
+      "id": 322,
+      "acehnese": "harök",
+      "indonesian": "bergelora huru-hara marah"
     },
     {
-      "id": "323",
-      "indonesian": "hati-hati",
-      "acehnese": "beuteugoh"
+      "id": 323,
+      "acehnese": "hasèe",
+      "indonesian": "hasil"
     },
     {
-      "id": "324",
-      "indonesian": "hati-hati",
-      "acehnese": "got-got"
+      "id": 324,
+      "acehnese": "hatèe",
+      "indonesian": "hati"
     },
     {
-      "id": "325",
-      "indonesian": "hebat",
-      "acehnese": "dahsyat"
+      "id": 325,
+      "acehnese": "hawa",
+      "indonesian": "ingin"
     },
     {
-      "id": "326",
-      "indonesian": "hebat",
-      "acehnese": "hayeue"
+      "id": 326,
+      "acehnese": "hayeu",
+      "indonesian": "hebat; keren"
     },
     {
-      "id": "327",
-      "indonesian": "hebat",
-      "acehnese": "hebat"
+      "id": 327,
+      "acehnese": "hayuet",
+      "indonesian": "ngeri; seram; cemas"
     },
     {
-      "id": "328",
-      "indonesian": "heboh",
-      "acehnese": "gabuek"
+      "id": 328,
+      "acehnese": "hebat",
+      "indonesian": "hebat"
     },
     {
-      "id": "329",
-      "indonesian": "heboh",
-      "acehnese": "hayeu"
+      "id": 329,
+      "acehnese": "hèek",
+      "indonesian": "lelah penat"
     },
     {
-      "id": "330",
-      "indonesian": "heroik",
-      "acehnese": "kha"
+      "id": 330,
+      "acehnese": "hei",
+      "indonesian": "sapa"
     },
     {
-      "id": "331",
-      "indonesian": "heroik",
-      "acehnese": "lagee pahlawan"
+      "id": 331,
+      "acehnese": "hek",
+      "indonesian": "capai"
     },
     {
-      "id": "332",
-      "indonesian": "hidup",
-      "acehnese": "udep"
+      "id": 332,
+      "acehnese": "heut",
+      "indonesian": "ingin"
     },
     {
-      "id": "333",
-      "indonesian": "hilang",
-      "acehnese": "gadoh"
+      "id": 333,
+      "acehnese": "hilam",
+      "indonesian": "berwarna gelap"
     },
     {
-      "id": "334",
-      "indonesian": "hukum",
-      "acehnese": "hukom"
+      "id": 334,
+      "acehnese": "himpôn",
+      "indonesian": "himpun kumpul"
     },
     {
-      "id": "335",
-      "indonesian": "ikut",
-      "acehnese": "iku"
+      "id": 335,
+      "acehnese": "hiram",
+      "indonesian": "muram surammarah"
     },
     {
-      "id": "336",
-      "indonesian": "ikut",
-      "acehnese": "jak"
+      "id": 336,
+      "acehnese": "hirö",
+      "indonesian": "memperdulikan"
     },
     {
-      "id": "337",
-      "indonesian": "ikut",
-      "acehnese": "seutot"
+      "id": 337,
+      "acehnese": "hiroe",
+      "indonesian": "urus; peduli"
     },
     {
-      "id": "338",
-      "indonesian": "ilham",
-      "acehnese": "ileuham"
+      "id": 338,
+      "acehnese": "hirôp",
+      "indonesian": "menghirup"
     },
     {
-      "id": "339",
-      "indonesian": "ilham",
-      "acehnese": "ilham"
+      "id": 339,
+      "acehnese": "hormat",
+      "indonesian": "salut"
     },
     {
-      "id": "340",
-      "indonesian": "iman",
-      "acehnese": "iman"
+      "id": 340,
+      "acehnese": "huek",
+      "indonesian": "ketulangan"
     },
     {
-      "id": "341",
-      "indonesian": "indah",
-      "acehnese": "ceudah"
+      "id": 341,
+      "acehnese": "hugôb",
+      "indonesian": " perasaan panas"
     },
     {
-      "id": "342",
-      "indonesian": "indah",
-      "acehnese": "lagak"
+      "id": 342,
+      "acehnese": "hukom",
+      "indonesian": "hukum"
     },
     {
-      "id": "343",
-      "indonesian": "indah",
-      "acehnese": "tari"
+      "id": 343,
+      "acehnese": "hukôm",
+      "indonesian": "hukum"
     },
     {
-      "id": "344",
-      "indonesian": "ingat",
-      "acehnese": "ingat"
+      "id": 344,
+      "acehnese": "iba",
+      "indonesian": "empati; kasihan"
     },
     {
-      "id": "345",
-      "indonesian": "ingin",
-      "acehnese": "hajat"
+      "id": 345,
+      "acehnese": "idan-idan",
+      "indonesian": "pikun"
     },
     {
-      "id": "346",
-      "indonesian": "ingin",
-      "acehnese": "hawa"
+      "id": 346,
+      "acehnese": "iem",
+      "indonesian": "bungkam; diam"
     },
     {
-      "id": "347",
-      "indonesian": "ingin",
-      "acehnese": "heuet"
+      "id": 347,
+      "acehnese": "ikhlas",
+      "indonesian": "rela"
     },
     {
-      "id": "348",
-      "indonesian": "ingin",
-      "acehnese": "keuneuk"
+      "id": 348,
+      "acehnese": "iku",
+      "indonesian": "ikut"
     },
     {
-      "id": "349",
-      "indonesian": "ingin",
-      "acehnese": "meuheut"
+      "id": 349,
+      "acehnese": "ilat",
+      "indonesian": "curang"
     },
     {
-      "id": "350",
-      "indonesian": "interogasi",
-      "acehnese": "interogasi"
+      "id": 350,
+      "acehnese": "ilham",
+      "indonesian": "ilham"
     },
     {
-      "id": "351",
-      "indonesian": "interogasi",
-      "acehnese": "teumanyoeng"
+      "id": 351,
+      "acehnese": "iman",
+      "indonesian": "iman"
     },
     {
-      "id": "352",
-      "indonesian": "isi",
-      "acehnese": "asoe"
+      "id": 352,
+      "acehnese": "ingat",
+      "indonesian": "ingat; pikir"
     },
     {
-      "id": "353",
-      "indonesian": "istimewa",
-      "acehnese": "istimewa"
+      "id": 353,
+      "acehnese": "ingkang",
+      "indonesian": "mengangkang"
     },
     {
-      "id": "354",
-      "indonesian": "jahat",
-      "acehnese": "jahee"
+      "id": 354,
+      "acehnese": "ingoih",
+      "indonesian": "batang hidung"
     },
     {
-      "id": "355",
-      "indonesian": "jahat",
-      "acehnese": "jeuheuet"
+      "id": 355,
+      "acehnese": "intat",
+      "indonesian": "bawa antar"
     },
     {
-      "id": "356",
-      "indonesian": "jahat",
-      "acehnese": "jeuheut"
+      "id": 356,
+      "acehnese": "interogasi",
+      "indonesian": "interogasi"
     },
     {
-      "id": "357",
-      "indonesian": "jamin",
-      "acehnese": "jamin"
+      "id": 357,
+      "acehnese": "iréh",
+      "indonesian": "iris"
     },
     {
-      "id": "358",
-      "indonesian": "jatuh",
-      "acehnese": "reubah"
+      "id": 358,
+      "acehnese": "Irôt",
+      "indonesian": "mencong"
     },
     {
-      "id": "359",
-      "indonesian": "jatuh",
-      "acehnese": "rhot"
+      "id": 359,
+      "acehnese": "istimewa",
+      "indonesian": "istimewa"
     },
     {
-      "id": "360",
-      "indonesian": "jawab",
-      "acehnese": "jaweub"
+      "id": 360,
+      "acehnese": "ja éh",
+      "indonesian": "kemungkinan"
     },
     {
-      "id": "361",
-      "indonesian": "jawab",
-      "acehnese": "jaweueb"
+      "id": 361,
+      "acehnese": "jaban",
+      "indonesian": "peruntungan nasib"
     },
     {
-      "id": "362",
-      "indonesian": "jaya",
-      "acehnese": "jaya"
+      "id": 362,
+      "acehnese": "jadeh",
+      "indonesian": "jadi"
     },
     {
-      "id": "363",
-      "indonesian": "jaya",
-      "acehnese": "maju"
+      "id": 363,
+      "acehnese": "jaga",
+      "indonesian": "jaga; melindungi"
     },
     {
-      "id": "364",
-      "indonesian": "jelas",
-      "acehnese": "glah"
+      "id": 364,
+      "acehnese": "jaga",
+      "indonesian": "sadar"
     },
     {
-      "id": "365",
-      "indonesian": "jelas",
-      "acehnese": "jeulah"
+      "id": 365,
+      "acehnese": "jagön",
+      "indonesian": "setengah masak keras"
     },
     {
-      "id": "366",
-      "indonesian": "jelas",
-      "acehnese": "trang"
+      "id": 366,
+      "acehnese": "jahée",
+      "indonesian": "jahat"
     },
     {
-      "id": "367",
-      "indonesian": "jelek",
-      "acehnese": "brok"
+      "id": 367,
+      "acehnese": "jaja",
+      "indonesian": "berjalan ke mana-mana"
     },
     {
-      "id": "368",
-      "indonesian": "jenis",
-      "acehnese": "jeuneh"
+      "id": 368,
+      "acehnese": "jak",
+      "indonesian": "ikut"
     },
     {
-      "id": "369",
-      "indonesian": "jual",
-      "acehnese": "meukat"
+      "id": 369,
+      "acehnese": "jakhab",
+      "indonesian": "menerkam"
     },
     {
-      "id": "370",
-      "indonesian": "jual",
-      "acehnese": "publoe"
+      "id": 370,
+      "acehnese": "jalô",
+      "indonesian": "perahu jenis terkecil di aceh"
     },
     {
-      "id": "371",
-      "indonesian": "kalah",
-      "acehnese": "talo"
+      "id": 371,
+      "acehnese": "jalök",
+      "indonesian": "curiga sangka"
     },
     {
-      "id": "372",
-      "indonesian": "kalimat",
-      "acehnese": "kalimat"
+      "id": 372,
+      "acehnese": "jamin",
+      "indonesian": "jamin"
     },
     {
-      "id": "373",
-      "indonesian": "kapal",
-      "acehnese": "kapai"
+      "id": 373,
+      "acehnese": "jang'eun",
+      "indonesian": "bersenandung"
     },
     {
-      "id": "374",
-      "indonesian": "karya",
-      "acehnese": "buet"
+      "id": 374,
+      "acehnese": "janggai",
+      "indonesian": "aneh"
     },
     {
-      "id": "375",
-      "indonesian": "karya",
-      "acehnese": "karya"
+      "id": 375,
+      "acehnese": "jangkét",
+      "indonesian": "menular"
     },
     {
-      "id": "376",
-      "indonesian": "kasihan",
-      "acehnese": "iba"
+      "id": 376,
+      "acehnese": "jaweub",
+      "indonesian": "jawab"
     },
     {
-      "id": "377",
-      "indonesian": "kasihan",
-      "acehnese": "sayang"
+      "id": 377,
+      "acehnese": "jawie",
+      "indonesian": "kidal"
     },
     {
-      "id": "378",
-      "indonesian": "kasihan",
-      "acehnese": "weueh"
+      "id": 378,
+      "acehnese": "jaya",
+      "indonesian": "jaya"
     },
     {
-      "id": "379",
-      "indonesian": "kasihan",
-      "acehnese": "weuh"
+      "id": 379,
+      "acehnese": "jayéh",
+      "indonesian": "tidak berarti"
     },
     {
-      "id": "380",
-      "indonesian": "kaya",
-      "acehnese": "kaya"
+      "id": 380,
+      "acehnese": "jén",
+      "indonesian": "hantu"
     },
     {
-      "id": "381",
-      "indonesian": "keadilan",
-      "acehnese": "ade"
+      "id": 381,
+      "acehnese": "jeuet",
+      "indonesian": "silahkan"
     },
     {
-      "id": "382",
-      "indonesian": "keamanan",
-      "acehnese": "aman"
+      "id": 382,
+      "acehnese": "jeuheut",
+      "indonesian": "jahat"
     },
     {
-      "id": "383",
-      "indonesian": "keamanan",
-      "acehnese": "kemanan"
+      "id": 383,
+      "acehnese": "jeujaih",
+      "indonesian": "berkeringat meruap"
     },
     {
-      "id": "384",
-      "indonesian": "kebaikan",
-      "acehnese": "get"
+      "id": 384,
+      "acehnese": "jeulah",
+      "indonesian": "jelas"
     },
     {
-      "id": "385",
-      "indonesian": "kebaikan",
-      "acehnese": "kebaikan"
+      "id": 385,
+      "acehnese": "jeumba",
+      "indonesian": "bagian"
     },
     {
-      "id": "386",
-      "indonesian": "kebencian",
-      "acehnese": "banci"
+      "id": 386,
+      "acehnese": "jeunaka",
+      "indonesian": "lucu"
     },
     {
-      "id": "387",
-      "indonesian": "kebencian",
-      "acehnese": "kebencian"
+      "id": 387,
+      "acehnese": "jeunéh",
+      "indonesian": "jenis"
     },
     {
-      "id": "388",
-      "indonesian": "kebencian",
-      "acehnese": "luwat"
+      "id": 388,
+      "acehnese": "jeuneurob",
+      "indonesian": "tiang-tiang yang dihunjam dalam tanah utuk menyekat"
     },
     {
-      "id": "389",
-      "indonesian": "keberanian",
-      "acehnese": "beuhe"
+      "id": 389,
+      "acehnese": "jeut",
+      "indonesian": "layak; mampu"
     },
     {
-      "id": "390",
-      "indonesian": "keberanian",
-      "acehnese": "kha"
+      "id": 390,
+      "acehnese": "jôk",
+      "indonesian": "beri"
     },
     {
-      "id": "391",
-      "indonesian": "kebetulan",
-      "acehnese": "hana sahaja"
+      "id": 391,
+      "acehnese": "jra",
+      "indonesian": "derita; susah"
     },
     {
-      "id": "392",
-      "indonesian": "kebetulan",
-      "acehnese": "keubeutulan"
+      "id": 392,
+      "acehnese": "jroh",
+      "indonesian": "baik; selamat"
     },
     {
-      "id": "393",
-      "indonesian": "kecewa",
-      "acehnese": "cut atee"
+      "id": 393,
+      "acehnese": "juang",
+      "indonesian": "juang"
     },
     {
-      "id": "394",
-      "indonesian": "kecewa",
-      "acehnese": "keucewa"
+      "id": 394,
+      "acehnese": "kacak",
+      "indonesian": "gertak"
     },
     {
-      "id": "395",
-      "indonesian": "kecewa",
-      "acehnese": "teulah"
+      "id": 395,
+      "acehnese": "kachoe",
+      "indonesian": "mengacaukan"
     },
     {
-      "id": "396",
-      "indonesian": "kehancuran",
-      "acehnese": "anco"
+      "id": 396,
+      "acehnese": "kai",
+      "indonesian": "ukuran isi"
     },
     {
-      "id": "397",
-      "indonesian": "kehancuran",
-      "acehnese": "binasa"
+      "id": 397,
+      "acehnese": "kalang-kalôt",
+      "indonesian": "berjalan ke sana ke mari"
     },
     {
-      "id": "398",
-      "indonesian": "kehilangan",
-      "acehnese": "binasa"
+      "id": 398,
+      "acehnese": "kalheuh",
+      "indonesian": "selesai"
     },
     {
-      "id": "399",
-      "indonesian": "kehilangan",
-      "acehnese": "gadoh"
+      "id": 399,
+      "acehnese": "kalimat",
+      "indonesian": "kalimat"
     },
     {
-      "id": "400",
-      "indonesian": "kehilangan",
-      "acehnese": "geunadoh"
+      "id": 400,
+      "acehnese": "kalön",
+      "indonesian": "lihat"
     },
     {
-      "id": "401",
-      "indonesian": "kejahatan",
-      "acehnese": "buet jahee"
+      "id": 401,
+      "acehnese": "kalôt",
+      "indonesian": "sibuk huru-hara"
     },
     {
-      "id": "402",
-      "indonesian": "kejahatan",
-      "acehnese": "buet jeuheut"
+      "id": 402,
+      "acehnese": "kams'èen (Ingg)",
+      "indonesian": "uang komisi"
     },
     {
-      "id": "403",
-      "indonesian": "kejahatan",
-      "acehnese": "jeuheuet"
+      "id": 403,
+      "acehnese": "kamue",
+      "indonesian": "rayap"
     },
     {
-      "id": "404",
-      "indonesian": "kejam",
-      "acehnese": "angkara"
+      "id": 404,
+      "acehnese": "kancôt",
+      "indonesian": "menjahit"
     },
     {
-      "id": "405",
-      "indonesian": "kejam",
-      "acehnese": "kejam"
+      "id": 405,
+      "acehnese": "kanot",
+      "indonesian": "periuk"
     },
     {
-      "id": "406",
-      "indonesian": "kejam",
-      "acehnese": "keujam"
+      "id": 406,
+      "acehnese": "kapai",
+      "indonesian": "kapal"
     },
     {
-      "id": "407",
-      "indonesian": "keji",
-      "acehnese": "kabeh"
+      "id": 407,
+      "acehnese": "kapalo",
+      "indonesian": "aduh"
     },
     {
-      "id": "408",
-      "indonesian": "keji",
-      "acehnese": "keuji"
+      "id": 408,
+      "acehnese": "kareuna",
+      "indonesian": "sebab"
     },
     {
-      "id": "409",
-      "indonesian": "kekayaan",
-      "acehnese": "areuta"
+      "id": 409,
+      "acehnese": "karu",
+      "indonesian": "ganggu; konflik"
     },
     {
-      "id": "410",
-      "indonesian": "kekayaan",
-      "acehnese": "kaya"
+      "id": 410,
+      "acehnese": "karya",
+      "indonesian": "karya"
     },
     {
-      "id": "411",
-      "indonesian": "kekayaan",
-      "acehnese": "keuneubah"
+      "id": 411,
+      "acehnese": "kasab",
+      "indonesian": "benang logam yang disepuh perak emas"
     },
     {
-      "id": "412",
-      "indonesian": "kekayaan",
-      "acehnese": "khazanah"
+      "id": 412,
+      "acehnese": "kaya",
+      "indonesian": "kaya"
     },
     {
-      "id": "413",
-      "indonesian": "kekerasan",
-      "acehnese": "kreuh"
+      "id": 413,
+      "acehnese": "kekuatan",
+      "indonesian": "kekuatan"
     },
     {
-      "id": "414",
-      "indonesian": "kekerasan",
-      "acehnese": "semeupoh"
+      "id": 414,
+      "acehnese": "kemanan",
+      "indonesian": "keamanan"
     },
     {
-      "id": "415",
-      "indonesian": "kekuatan",
-      "acehnese": "daya"
+      "id": 415,
+      "acehnese": "kesan",
+      "indonesian": "kesan"
     },
     {
-      "id": "416",
-      "indonesian": "kekuatan",
-      "acehnese": "ek"
+      "id": 416,
+      "acehnese": "keu",
+      "indonesian": "bagi"
     },
     {
-      "id": "417",
-      "indonesian": "kekuatan",
-      "acehnese": "kekuatan"
+      "id": 417,
+      "acehnese": "keubeueng",
+      "indonesian": "petak sawah"
     },
     {
-      "id": "418",
-      "indonesian": "kekuatan",
-      "acehnese": "keukuatan"
+      "id": 418,
+      "acehnese": "keubit",
+      "indonesian": "benar"
     },
     {
-      "id": "419",
-      "indonesian": "kekuatan",
-      "acehnese": "kha"
+      "id": 419,
+      "acehnese": "keucewa",
+      "indonesian": "kecewa"
     },
     {
-      "id": "420",
-      "indonesian": "kelaparan",
-      "acehnese": "deuek"
+      "id": 420,
+      "acehnese": "keudöt",
+      "indonesian": "kisut"
     },
     {
-      "id": "421",
-      "indonesian": "kelaparan",
-      "acehnese": "kla"
+      "id": 421,
+      "acehnese": "keudroe",
+      "indonesian": "sendiri"
     },
     {
-      "id": "422",
-      "indonesian": "kelaparan",
-      "acehnese": "teudeuk-deuk"
+      "id": 422,
+      "acehnese": "keujadian",
+      "indonesian": "tragedi"
     },
     {
-      "id": "423",
-      "indonesian": "keluar",
-      "acehnese": "teubiet"
+      "id": 423,
+      "acehnese": "keujam",
+      "indonesian": "kejam"
     },
     {
-      "id": "424",
-      "indonesian": "keluar",
-      "acehnese": "teubit"
+      "id": 424,
+      "acehnese": "keujeut",
+      "indonesian": "berani"
     },
     {
-      "id": "425",
-      "indonesian": "kematian",
-      "acehnese": "ajai"
+      "id": 425,
+      "acehnese": "keuji",
+      "indonesian": "keji"
     },
     {
-      "id": "426",
-      "indonesian": "kematian",
-      "acehnese": "mate"
+      "id": 426,
+      "acehnese": "keujôt",
+      "indonesian": "kejut"
     },
     {
-      "id": "427",
-      "indonesian": "kematian",
-      "acehnese": "mawot"
+      "id": 427,
+      "acehnese": "keukuatan",
+      "indonesian": "kekuatan"
     },
     {
-      "id": "428",
-      "indonesian": "kembali",
-      "acehnese": "balek"
+      "id": 428,
+      "acehnese": "keululu",
+      "indonesian": "jenis lipan kecil"
     },
     {
-      "id": "429",
-      "indonesian": "kembali",
-      "acehnese": "gisa"
+      "id": 429,
+      "acehnese": "keumah",
+      "indonesian": "siap"
     },
     {
-      "id": "430",
-      "indonesian": "kembali",
-      "acehnese": "riwang"
+      "id": 430,
+      "acehnese": "keumang",
+      "indonesian": "bunga"
     },
     {
-      "id": "431",
-      "indonesian": "kembali",
-      "acehnese": "woe"
+      "id": 431,
+      "acehnese": "keum'ang",
+      "indonesian": "berkembang"
     },
     {
-      "id": "432",
-      "indonesian": "kena",
-      "acehnese": "keunong"
+      "id": 432,
+      "acehnese": "keumat",
+      "indonesian": "melekat"
     },
     {
-      "id": "433",
-      "indonesian": "kena",
-      "acehnese": "teupeh"
+      "id": 433,
+      "acehnese": "keumbèe",
+      "indonesian": "bunga"
     },
     {
-      "id": "434",
-      "indonesian": "kenal",
-      "acehnese": "turi"
+      "id": 434,
+      "acehnese": "keumbeue",
+      "indonesian": "kembar"
     },
     {
-      "id": "435",
-      "indonesian": "kenal",
-      "acehnese": "tusoe"
+      "id": 435,
+      "acehnese": "keum'iet",
+      "indonesian": "menjaga mengawal"
     },
     {
-      "id": "436",
-      "indonesian": "kenyamanan",
-      "acehnese": "mangat"
+      "id": 436,
+      "acehnese": "keumiroe",
+      "indonesian": "kemiri"
     },
     {
-      "id": "437",
-      "indonesian": "kenyamanan",
-      "acehnese": "seuniya"
+      "id": 437,
+      "acehnese": "keumöng",
+      "indonesian": "embung"
     },
     {
-      "id": "438",
-      "indonesian": "kepentingan",
-      "acehnese": "kepentingan"
+      "id": 438,
+      "acehnese": "keumudèe",
+      "indonesian": "mengkudu"
     },
     {
-      "id": "439",
-      "indonesian": "kepentingan",
-      "acehnese": "keupeuntengan"
+      "id": 439,
+      "acehnese": "keumunjông",
+      "indonesian": "kunjung"
     },
     {
-      "id": "440",
-      "indonesian": "keras",
-      "acehnese": "kreueh"
+      "id": 440,
+      "acehnese": "keuneubah",
+      "indonesian": "kekayaan"
     },
     {
-      "id": "441",
-      "indonesian": "keras",
-      "acehnese": "kreuh"
+      "id": 441,
+      "acehnese": "keuneuk",
+      "indonesian": "ingin"
     },
     {
-      "id": "442",
-      "indonesian": "keren",
-      "acehnese": "hayeu"
+      "id": 442,
+      "acehnese": "keunöng",
+      "indonesian": "kena"
     },
     {
-      "id": "443",
-      "indonesian": "keren",
-      "acehnese": "hayeue"
+      "id": 443,
+      "acehnese": "keupông",
+      "indonesian": "kepung"
     },
     {
-      "id": "444",
-      "indonesian": "kerugian",
-      "acehnese": "rugoe"
+      "id": 444,
+      "acehnese": "keuprak",
+      "indonesian": "bertepuk tangan"
     },
     {
-      "id": "445",
-      "indonesian": "kerusakan",
-      "acehnese": "reuloh"
+      "id": 445,
+      "acehnese": "keureukôih",
+      "indonesian": "bertepuk tangan"
     },
     {
-      "id": "446",
-      "indonesian": "kesalahan",
-      "acehnese": "khilaf"
+      "id": 446,
+      "acehnese": "keureutaih",
+      "indonesian": "kertas"
     },
     {
-      "id": "447",
-      "indonesian": "kesalahan",
-      "acehnese": "salah"
+      "id": 447,
+      "acehnese": "keusan",
+      "indonesian": "kesan"
     },
     {
-      "id": "448",
-      "indonesian": "kesalahan",
-      "acehnese": "silap"
+      "id": 448,
+      "acehnese": "keutat",
+      "indonesian": "ketat"
     },
     {
-      "id": "449",
-      "indonesian": "kesan",
-      "acehnese": "kesan"
+      "id": 449,
+      "acehnese": "keutupéng",
+      "indonesian": "badut"
     },
     {
-      "id": "450",
-      "indonesian": "kesan",
-      "acehnese": "keusan"
+      "id": 450,
+      "acehnese": "kh’eb",
+      "indonesian": "berbau busuk"
     },
     {
-      "id": "451",
-      "indonesian": "kesempatan",
-      "acehnese": "peluang"
+      "id": 451,
+      "acehnese": "kh’ök",
+      "indonesian": "tabrak"
     },
     {
-      "id": "452",
-      "indonesian": "kesempatan",
-      "acehnese": "watee"
+      "id": 452,
+      "acehnese": "kha",
+      "indonesian": "heroik; berani; kuat"
     },
     {
-      "id": "453",
-      "indonesian": "kesepian",
-      "acehnese": "seungu"
+      "id": 453,
+      "acehnese": "khawatée",
+      "indonesian": "cemas"
     },
     {
-      "id": "454",
-      "indonesian": "kesepian",
-      "acehnese": "seungue"
+      "id": 454,
+      "acehnese": "khazanah",
+      "indonesian": "kekayaan"
     },
     {
-      "id": "455",
-      "indonesian": "kesulitan",
-      "acehnese": "payah"
+      "id": 455,
+      "acehnese": "khém",
+      "indonesian": "senyum"
     },
     {
-      "id": "456",
-      "indonesian": "kesulitan",
-      "acehnese": "susah"
+      "id": 456,
+      "acehnese": "khie",
+      "indonesian": "tengik"
     },
     {
-      "id": "457",
-      "indonesian": "ketakutan",
-      "acehnese": "teumakot"
+      "id": 457,
+      "acehnese": "khilaf",
+      "indonesian": "kesalahan"
     },
     {
-      "id": "458",
-      "indonesian": "ketat",
-      "acehnese": "arat"
+      "id": 458,
+      "acehnese": "khusus",
+      "indonesian": "eksklusif"
     },
     {
-      "id": "459",
-      "indonesian": "ketat",
-      "acehnese": "keutat"
+      "id": 459,
+      "acehnese": "kinca",
+      "indonesian": "mengaduk"
     },
     {
-      "id": "460",
-      "indonesian": "ketat",
-      "acehnese": "meubungkoh"
+      "id": 460,
+      "acehnese": "kirèe",
+      "indonesian": "belut"
     },
     {
-      "id": "461",
-      "indonesian": "ketegangan",
-      "acehnese": "teugang"
+      "id": 461,
+      "acehnese": "kireueh",
+      "indonesian": "mengais"
     },
     {
-      "id": "462",
-      "indonesian": "kompak",
-      "acehnese": "konco"
+      "id": 462,
+      "acehnese": "kiwieng",
+      "indonesian": "bengkok bungkuk"
     },
     {
-      "id": "463",
-      "indonesian": "kompak",
-      "acehnese": "sabee"
+      "id": 463,
+      "acehnese": "kla",
+      "indonesian": "kelaparan"
     },
     {
-      "id": "464",
-      "indonesian": "kompak",
-      "acehnese": "sapeue pakat"
+      "id": 464,
+      "acehnese": "klap",
+      "indonesian": "gelap"
     },
     {
-      "id": "465",
-      "indonesian": "konflik",
-      "acehnese": "karu"
+      "id": 465,
+      "acehnese": "klik",
+      "indonesian": "tangis"
     },
     {
-      "id": "466",
-      "indonesian": "konflik",
-      "acehnese": "konflik"
+      "id": 466,
+      "acehnese": "koh",
+      "indonesian": "potong"
     },
     {
-      "id": "467",
-      "indonesian": "konspirasi",
-      "acehnese": "haba hana jeulah"
+      "id": 467,
+      "acehnese": "konflik",
+      "indonesian": "konflik"
     },
     {
-      "id": "468",
-      "indonesian": "konspirasi",
-      "acehnese": "konspirasi"
+      "id": 468,
+      "acehnese": "köng",
+      "indonesian": "kuat"
     },
     {
-      "id": "469",
-      "indonesian": "korban",
-      "acehnese": "korban"
+      "id": 469,
+      "acehnese": "konspirasi",
+      "indonesian": "konspirasi"
     },
     {
-      "id": "470",
-      "indonesian": "korban",
-      "acehnese": "kurbeuen"
+      "id": 470,
+      "acehnese": "korban",
+      "indonesian": "korban"
     },
     {
-      "id": "471",
-      "indonesian": "korban jiwa",
-      "acehnese": "abeh umu"
+      "id": 471,
+      "acehnese": "kret",
+      "indonesian": "potong"
     },
     {
-      "id": "472",
-      "indonesian": "korban jiwa",
-      "acehnese": "korban nyawong"
+      "id": 472,
+      "acehnese": "kreuh",
+      "indonesian": "keras; padat"
     },
     {
-      "id": "473",
-      "indonesian": "kosong",
-      "acehnese": "soh"
+      "id": 473,
+      "acehnese": "krib",
+      "indonesian": "teriak"
     },
     {
-      "id": "474",
-      "indonesian": "kotor",
-      "acehnese": "kuto"
+      "id": 474,
+      "acehnese": "kurbeuen",
+      "indonesian": "korban"
     },
     {
-      "id": "475",
-      "indonesian": "kuat",
-      "acehnese": "kong"
+      "id": 475,
+      "acehnese": "kureung",
+      "indonesian": "kurang"
     },
     {
-      "id": "476",
-      "indonesian": "kuat",
-      "acehnese": "teuga"
+      "id": 476,
+      "acehnese": "kuto",
+      "indonesian": "kotor"
     },
     {
-      "id": "477",
-      "indonesian": "kurang",
-      "acehnese": "kureueng"
+      "id": 477,
+      "acehnese": "kutôk",
+      "indonesian": "kutuk"
     },
     {
-      "id": "478",
-      "indonesian": "kurang",
-      "acehnese": "kureung"
+      "id": 478,
+      "acehnese": "la’èeh",
+      "indonesian": "lemah"
     },
     {
-      "id": "479",
-      "indonesian": "kutuk",
-      "acehnese": "kutok"
+      "id": 479,
+      "acehnese": "laba",
+      "indonesian": "untung"
     },
     {
-      "id": "480",
-      "indonesian": "kutuk",
-      "acehnese": "laknat"
+      "id": 480,
+      "acehnese": "laböh",
+      "indonesian": "membuang melemparkan"
     },
     {
-      "id": "481",
-      "indonesian": "kutukan",
-      "acehnese": "kutok"
+      "id": 481,
+      "acehnese": "labön",
+      "indonesian": "memukul menghantam"
     },
     {
-      "id": "482",
-      "indonesian": "kutukan",
-      "acehnese": "laknat"
+      "id": 482,
+      "acehnese": "ladôm",
+      "indonesian": "beberapa"
     },
     {
-      "id": "483",
-      "indonesian": "langgar",
-      "acehnese": "han pateh"
+      "id": 483,
+      "acehnese": "lagak",
+      "indonesian": "bagus; cantik"
     },
     {
-      "id": "484",
-      "indonesian": "langgar",
-      "acehnese": "langga"
+      "id": 484,
+      "acehnese": "lagèe",
+      "indonesian": "seperti"
     },
     {
-      "id": "485",
-      "indonesian": "langgar",
-      "acehnese": "langgeh"
+      "id": 485,
+      "acehnese": "lagôt",
+      "indonesian": "laku"
     },
     {
-      "id": "486",
-      "indonesian": "larang",
-      "acehnese": "tham"
+      "id": 486,
+      "acehnese": "laju",
+      "indonesian": "cepat"
     },
     {
-      "id": "487",
-      "indonesian": "larangan",
-      "acehnese": "pantangan"
+      "id": 487,
+      "acehnese": "lakèe",
+      "indonesian": "minta"
     },
     {
-      "id": "488",
-      "indonesian": "larangan",
-      "acehnese": "tham"
+      "id": 488,
+      "acehnese": "laknat",
+      "indonesian": "kutuk"
     },
     {
-      "id": "489",
-      "indonesian": "lawan",
-      "acehnese": "han pateh"
+      "id": 489,
+      "acehnese": "lalèe",
+      "indonesian": "lalai lengah"
     },
     {
-      "id": "490",
-      "indonesian": "lawan",
-      "acehnese": "lawan"
+      "id": 490,
+      "acehnese": "lambé",
+      "indonesian": "melambai"
     },
     {
-      "id": "491",
-      "indonesian": "layak",
-      "acehnese": "jeut"
+      "id": 491,
+      "acehnese": "lampôih",
+      "indonesian": "kebun"
     },
     {
-      "id": "492",
-      "indonesian": "layak",
-      "acehnese": "layak"
+      "id": 492,
+      "acehnese": "landông",
+      "indonesian": "terhimpun tertahan"
     },
     {
-      "id": "493",
-      "indonesian": "lebih",
-      "acehnese": "leubeh"
+      "id": 493,
+      "acehnese": "langga",
+      "indonesian": "langgar"
     },
     {
-      "id": "494",
-      "indonesian": "lebih baik",
-      "acehnese": "leubeh get"
+      "id": 494,
+      "acehnese": "langgéh",
+      "indonesian": "langgar"
     },
     {
-      "id": "495",
-      "indonesian": "lembut",
-      "acehnese": "aloh"
+      "id": 495,
+      "acehnese": "langkôt",
+      "indonesian": "penularan"
     },
     {
-      "id": "496",
-      "indonesian": "lembut",
-      "acehnese": "leumoh"
+      "id": 496,
+      "acehnese": "lapéh",
+      "indonesian": "tingkat"
     },
     {
-      "id": "497",
-      "indonesian": "lengkap",
-      "acehnese": "lengkap"
+      "id": 497,
+      "acehnese": "latèh",
+      "indonesian": "mengurus"
     },
     {
-      "id": "498",
-      "indonesian": "lengkap",
-      "acehnese": "leungkap"
+      "id": 498,
+      "acehnese": "lawan",
+      "indonesian": "lawan"
     },
     {
-      "id": "499",
-      "indonesian": "lenyap",
-      "acehnese": "gadoh"
+      "id": 499,
+      "acehnese": "layak",
+      "indonesian": "layak"
     },
     {
-      "id": "500",
-      "indonesian": "lewat",
-      "acehnese": "leupah"
+      "id": 500,
+      "acehnese": "layôh",
+      "indonesian": "mengantuk"
     },
     {
-      "id": "501",
-      "indonesian": "lewat",
-      "acehnese": "lewat"
+      "id": 501,
+      "acehnese": "lé",
+      "indonesian": "oleh"
     },
     {
-      "id": "502",
-      "indonesian": "lewat",
-      "acehnese": "liwat"
+      "id": 502,
+      "acehnese": "lengkap",
+      "indonesian": "lengkap"
     },
     {
-      "id": "503",
-      "indonesian": "lewat",
-      "acehnese": "rot"
+      "id": 503,
+      "acehnese": "lét",
+      "indonesian": "mengusir"
     },
     {
-      "id": "504",
-      "indonesian": "lihat",
-      "acehnese": "deuh"
+      "id": 504,
+      "acehnese": "leubeh",
+      "indonesian": "lebih"
     },
     {
-      "id": "505",
-      "indonesian": "lihat",
-      "acehnese": "eu"
+      "id": 505,
+      "acehnese": "leubrêh",
+      "indonesian": "lebih"
     },
     {
-      "id": "506",
-      "indonesian": "lihat",
-      "acehnese": "kalon"
+      "id": 506,
+      "acehnese": "leumah",
+      "indonesian": "lihat"
     },
     {
-      "id": "507",
-      "indonesian": "lihat",
-      "acehnese": "leumah"
+      "id": 507,
+      "acehnese": "leumöh",
+      "indonesian": "lembut"
     },
     {
-      "id": "508",
-      "indonesian": "lmao",
-      "acehnese": "han ek takhem lee"
+      "id": 508,
+      "acehnese": "leupah",
+      "indonesian": "lewat"
     },
     {
-      "id": "509",
-      "indonesian": "lmao",
-      "acehnese": "khak"
+      "id": 509,
+      "acehnese": "leupah",
+      "indonesian": "sangat; amat"
     },
     {
-      "id": "510",
-      "indonesian": "luar biasa",
-      "acehnese": "luar biasa"
+      "id": 510,
+      "acehnese": "lewat",
+      "indonesian": "lewat"
     },
     {
-      "id": "511",
-      "indonesian": "luar biasa",
-      "acehnese": "luwa biasa"
+      "id": 511,
+      "acehnese": "lham",
+      "indonesian": "tenggelam"
     },
     {
-      "id": "512",
-      "indonesian": "lucu",
-      "acehnese": "jeunaka"
+      "id": 512,
+      "acehnese": "lheueh",
+      "indonesian": "siap"
     },
     {
-      "id": "513",
-      "indonesian": "lucu",
-      "acehnese": "lucu"
+      "id": 513,
+      "acehnese": "lheuh",
+      "indonesian": "selesai"
     },
     {
-      "id": "514",
-      "indonesian": "lucu",
-      "acehnese": "ulok"
+      "id": 514,
+      "acehnese": "lhöh",
+      "indonesian": "bongkar"
     },
     {
-      "id": "515",
-      "indonesian": "luka",
-      "acehnese": "cidra"
+      "id": 515,
+      "acehnese": "ligat",
+      "indonesian": "cepat; sigap"
     },
     {
-      "id": "516",
-      "indonesian": "luka",
-      "acehnese": "luka"
+      "id": 516,
+      "acehnese": "likôt",
+      "indonesian": "belakang"
     },
     {
-      "id": "517",
-      "indonesian": "luka",
-      "acehnese": "teupeh"
+      "id": 517,
+      "acehnese": "lindông",
+      "indonesian": "melindungi"
     },
     {
-      "id": "518",
-      "indonesian": "lupa",
-      "acehnese": "tuwo"
+      "id": 518,
+      "acehnese": "lôn",
+      "indonesian": "aku"
     },
     {
-      "id": "519",
-      "indonesian": "lupa",
-      "acehnese": "tuwoe"
+      "id": 519,
+      "acehnese": "lucu",
+      "indonesian": "lucu"
     },
     {
-      "id": "520",
-      "indonesian": "maaf",
-      "acehnese": "meu'ah"
+      "id": 520,
+      "acehnese": "luka",
+      "indonesian": "luka; cedera"
     },
     {
-      "id": "521",
-      "indonesian": "maaf",
-      "acehnese": "meuah"
+      "id": 521,
+      "acehnese": "luwat",
+      "indonesian": "benci"
     },
     {
-      "id": "522",
-      "indonesian": "mahal",
-      "acehnese": "meuhai"
+      "id": 522,
+      "acehnese": "mabôk",
+      "indonesian": "gila"
     },
     {
-      "id": "523",
-      "indonesian": "mampu",
-      "acehnese": "ek"
+      "id": 523,
+      "acehnese": "madeueng",
+      "indonesian": "berdiang atau mengeringkan badan pada api"
     },
     {
-      "id": "524",
-      "indonesian": "mampu",
-      "acehnese": "jeut"
+      "id": 524,
+      "acehnese": "maju",
+      "indonesian": "jaya"
     },
     {
-      "id": "525",
-      "indonesian": "mampu",
-      "acehnese": "mampu"
+      "id": 525,
+      "acehnese": "malèe",
+      "indonesian": "malu"
     },
     {
-      "id": "526",
-      "indonesian": "mampu",
-      "acehnese": "sanggop"
+      "id": 526,
+      "acehnese": "maleulum",
+      "indonesian": "tertindak tertekan"
     },
     {
-      "id": "527",
-      "indonesian": "marah",
-      "acehnese": "beungeh"
+      "id": 527,
+      "acehnese": "mamöh",
+      "indonesian": "memamah"
     },
     {
-      "id": "528",
-      "indonesian": "masalah",
-      "acehnese": "bhah"
+      "id": 528,
+      "acehnese": "mampu",
+      "indonesian": "mampu"
     },
     {
-      "id": "529",
-      "indonesian": "masalah",
-      "acehnese": "masaalah"
+      "id": 529,
+      "acehnese": "manfaat",
+      "indonesian": "manfaat"
     },
     {
-      "id": "530",
-      "indonesian": "masalah",
-      "acehnese": "masalah"
+      "id": 530,
+      "acehnese": "mangat",
+      "indonesian": "kenyamanan"
     },
     {
-      "id": "531",
-      "indonesian": "masalah",
-      "acehnese": "peukara"
+      "id": 531,
+      "acehnese": "mantap",
+      "indonesian": "bagus"
     },
     {
-      "id": "532",
-      "indonesian": "mati",
-      "acehnese": "ajai"
+      "id": 532,
+      "acehnese": "manyét",
+      "indonesian": "mayat"
     },
     {
-      "id": "533",
-      "indonesian": "mati",
-      "acehnese": "mate"
+      "id": 533,
+      "acehnese": "marèeh",
+      "indonesian": "kerongkongan"
     },
     {
-      "id": "534",
-      "indonesian": "mati",
-      "acehnese": "matee"
+      "id": 534,
+      "acehnese": "mariet",
+      "indonesian": "berkata-kata mengoceh"
     },
     {
-      "id": "535",
-      "indonesian": "mati",
-      "acehnese": "mawot"
+      "id": 535,
+      "acehnese": "masaalah",
+      "indonesian": "masalah"
     },
     {
-      "id": "536",
-      "indonesian": "mati",
-      "acehnese": "meuninggai"
+      "id": 536,
+      "acehnese": "masalah",
+      "indonesian": "masalah"
     },
     {
-      "id": "537",
-      "indonesian": "mati",
-      "acehnese": "wafeut"
+      "id": 537,
+      "acehnese": "masli",
+      "indonesian": "masuk"
     },
     {
-      "id": "538",
-      "indonesian": "mayat",
-      "acehnese": "manyet"
+      "id": 538,
+      "acehnese": "mate",
+      "indonesian": "mati"
     },
     {
-      "id": "539",
-      "indonesian": "mayat",
-      "acehnese": "mayet"
+      "id": 539,
+      "acehnese": "matée",
+      "indonesian": "mati; meninggal"
     },
     {
-      "id": "540",
-      "indonesian": "melakukan",
-      "acehnese": "peulaku"
+      "id": 540,
+      "acehnese": "mayét",
+      "indonesian": "mayat"
     },
     {
-      "id": "541",
-      "indonesian": "melakukan",
-      "acehnese": "pubuet"
+      "id": 541,
+      "acehnese": "mbôh",
+      "indonesian": "menghembuskan meniup"
     },
     {
-      "id": "542",
-      "indonesian": "melanggar",
-      "acehnese": "langga"
+      "id": 542,
+      "acehnese": "mèh-moh",
+      "indonesian": "cemas"
     },
     {
-      "id": "543",
-      "indonesian": "melanggar",
-      "acehnese": "meulanggeh"
+      "id": 543,
+      "acehnese": "merdeka",
+      "indonesian": "bebas"
     },
     {
-      "id": "544",
-      "indonesian": "melemahkan",
-      "acehnese": "peuleumoh"
+      "id": 544,
+      "acehnese": "meu’ah",
+      "indonesian": "maaf"
     },
     {
-      "id": "545",
-      "indonesian": "melindungi",
-      "acehnese": "jaga"
+      "id": 545,
+      "acehnese": "meuagam",
+      "indonesian": "gagah"
     },
     {
-      "id": "546",
-      "indonesian": "melindungi",
-      "acehnese": "lindong"
+      "id": 546,
+      "acehnese": "meudöng",
+      "indonesian": "berkomitmen"
     },
     {
-      "id": "547",
-      "indonesian": "melindungi",
-      "acehnese": "peulindong"
+      "id": 547,
+      "acehnese": "meugoe",
+      "indonesian": "mengolah sawah atau ladang bertani"
     },
     {
-      "id": "548",
-      "indonesian": "melumpuhkan",
-      "acehnese": "peulumpuh"
+      "id": 548,
+      "acehnese": "meuhai",
+      "indonesian": "mahal"
     },
     {
-      "id": "549",
-      "indonesian": "melumpuhkan",
-      "acehnese": "peureubah"
+      "id": 549,
+      "acehnese": "meuharap",
+      "indonesian": "berharap"
     },
     {
-      "id": "550",
-      "indonesian": "memastikan",
-      "acehnese": "peupasti"
+      "id": 550,
+      "acehnese": "meuheut",
+      "indonesian": "ingin"
     },
     {
-      "id": "551",
-      "indonesian": "memastikan",
-      "acehnese": "peuteuntee"
+      "id": 551,
+      "acehnese": "meuk",
+      "indonesian": "bunga api"
     },
     {
-      "id": "552",
-      "indonesian": "membahayakan",
-      "acehnese": "membahayakan"
+      "id": 552,
+      "acehnese": "meukat",
+      "indonesian": "jualan"
     },
     {
-      "id": "553",
-      "indonesian": "membahayakan",
-      "acehnese": "peubahya"
+      "id": 553,
+      "acehnese": "meukeunöng",
+      "indonesian": "cocok"
     },
     {
-      "id": "554",
-      "indonesian": "membantu",
-      "acehnese": "bantu"
+      "id": 554,
+      "acehnese": "meukeusan",
+      "indonesian": "berarti"
     },
     {
-      "id": "555",
-      "indonesian": "membatalkan",
-      "acehnese": "peubateu"
+      "id": 555,
+      "acehnese": "meulanggéh",
+      "indonesian": "melanggar"
     },
     {
-      "id": "556",
-      "indonesian": "membatalkan",
-      "acehnese": "peubateue"
+      "id": 556,
+      "acehnese": "meuninggai",
+      "indonesian": "mati"
     },
     {
-      "id": "557",
-      "indonesian": "membenci",
-      "acehnese": "banci"
+      "id": 557,
+      "acehnese": "meupadum",
+      "indonesian": "beberapa"
     },
     {
-      "id": "558",
-      "indonesian": "membenci",
-      "acehnese": "beunci"
+      "id": 558,
+      "acehnese": "meuphôm",
+      "indonesian": "ngerti"
     },
     {
-      "id": "559",
-      "indonesian": "membenci",
-      "acehnese": "luwat"
+      "id": 559,
+      "acehnese": "meuraông",
+      "indonesian": "teriak"
     },
     {
-      "id": "560",
-      "indonesian": "membuka",
-      "acehnese": "buka"
+      "id": 560,
+      "acehnese": "meurasa",
+      "indonesian": "asyik"
     },
     {
-      "id": "561",
-      "indonesian": "membuka",
-      "acehnese": "peuhah"
+      "id": 561,
+      "acehnese": "meuria-ria",
+      "indonesian": "bahagia"
     },
     {
-      "id": "562",
-      "indonesian": "membunuh",
-      "acehnese": "poh"
+      "id": 562,
+      "acehnese": "meuri-ri",
+      "indonesian": "tertentu"
     },
     {
-      "id": "563",
-      "indonesian": "membunuh",
-      "acehnese": "poh matee"
+      "id": 563,
+      "acehnese": "meusak-sak",
+      "indonesian": "padat"
     },
     {
-      "id": "564",
-      "indonesian": "memerangi",
-      "acehnese": "meuprang"
+      "id": 564,
+      "acehnese": "meuseughôi",
+      "indonesian": "masygul susah hati"
     },
     {
-      "id": "565",
-      "indonesian": "memerangi",
-      "acehnese": "prang"
+      "id": 565,
+      "acehnese": "meusom",
+      "indonesian": "sembunyi"
     },
     {
-      "id": "566",
-      "indonesian": "mempertanyakan",
-      "acehnese": "tanyong"
+      "id": 566,
+      "acehnese": "meusurak",
+      "indonesian": "bersorak"
     },
     {
-      "id": "567",
-      "indonesian": "mempertanyakan",
-      "acehnese": "teumanyong"
+      "id": 567,
+      "acehnese": "meusyeuhu",
+      "indonesian": "populer"
     },
     {
-      "id": "568",
-      "indonesian": "memuji",
-      "acehnese": "meumujoe"
+      "id": 568,
+      "acehnese": "meuteumeung",
+      "indonesian": "sempat"
     },
     {
-      "id": "569",
-      "indonesian": "memuji",
-      "acehnese": "pujoe"
+      "id": 569,
+      "acehnese": "meuteuntèe",
+      "indonesian": "tertentu"
     },
     {
-      "id": "570",
-      "indonesian": "menahan",
-      "acehnese": "peutheun"
+      "id": 570,
+      "acehnese": "meutöh",
+      "indonesian": "tertentu"
     },
     {
-      "id": "571",
-      "indonesian": "menahan",
-      "acehnese": "theuen"
+      "id": 571,
+      "acehnese": "meutöh-töh",
+      "indonesian": "tertentu"
     },
     {
-      "id": "572",
-      "indonesian": "menanti",
-      "acehnese": "meupreh"
+      "id": 572,
+      "acehnese": "mita",
+      "indonesian": "cari"
     },
     {
-      "id": "573",
-      "indonesian": "menanti",
-      "acehnese": "preh"
+      "id": 573,
+      "acehnese": "mo",
+      "indonesian": "tangis"
     },
     {
-      "id": "574",
-      "indonesian": "menarik",
-      "acehnese": "meunarek"
+      "id": 574,
+      "acehnese": "muda",
+      "indonesian": "muda"
     },
     {
-      "id": "575",
-      "indonesian": "menarik",
-      "acehnese": "tarek"
+      "id": 575,
+      "acehnese": "mudah",
+      "indonesian": "mudah; gampang"
     },
     {
-      "id": "576",
-      "indonesian": "mencurigakan",
-      "acehnese": "curiga"
+      "id": 576,
+      "acehnese": "mudah-mudahan",
+      "indonesian": "semoga"
     },
     {
-      "id": "577",
-      "indonesian": "mencurigakan",
-      "acehnese": "roh teujalok"
+      "id": 577,
+      "acehnese": "muka",
+      "indonesian": "muka"
     },
     {
-      "id": "578",
-      "indonesian": "mendapatkan",
-      "acehnese": "meuteumee"
+      "id": 578,
+      "acehnese": "muliya",
+      "indonesian": "mulia"
     },
     {
-      "id": "579",
-      "indonesian": "mendapatkan",
-      "acehnese": "meuteumeu"
+      "id": 579,
+      "acehnese": "mumang",
+      "indonesian": "pusing; bingung"
     },
     {
-      "id": "580",
-      "indonesian": "menderita",
-      "acehnese": "awoh"
+      "id": 580,
+      "acehnese": "murah",
+      "indonesian": "murah"
     },
     {
-      "id": "581",
-      "indonesian": "menderita",
-      "acehnese": "jra"
+      "id": 581,
+      "acehnese": "murka",
+      "indonesian": "murka"
     },
     {
-      "id": "582",
-      "indonesian": "menderita",
-      "acehnese": "mendeurita"
+      "id": 582,
+      "acehnese": "musibah",
+      "indonesian": "bencana"
     },
     {
-      "id": "583",
-      "indonesian": "mendoktrin",
-      "acehnese": "jidoktrin"
+      "id": 583,
+      "acehnese": "musôh",
+      "indonesian": "musuh"
     },
     {
-      "id": "584",
-      "indonesian": "mendoktrin",
-      "acehnese": "pasoe haba lam ulee"
+      "id": 584,
+      "acehnese": "musti",
+      "indonesian": "wajib"
     },
     {
-      "id": "585",
-      "indonesian": "mendorong",
-      "acehnese": "tulak"
+      "id": 585,
+      "acehnese": "na hak",
+      "indonesian": "berhak"
     },
     {
-      "id": "586",
-      "indonesian": "mendukung",
-      "acehnese": "dukong"
+      "id": 586,
+      "acehnese": "nadak",
+      "indonesian": "di keadaan hendak meninggal"
     },
     {
-      "id": "587",
-      "indonesian": "mendukung",
-      "acehnese": "jidukung"
+      "id": 587,
+      "acehnese": "nekat",
+      "indonesian": "nekat"
     },
     {
-      "id": "588",
-      "indonesian": "mendukung",
-      "acehnese": "jisokong"
+      "id": 588,
+      "acehnese": "ngeri",
+      "indonesian": "ngeri"
     },
     {
-      "id": "589",
-      "indonesian": "mendung",
-      "acehnese": "reudok"
+      "id": 589,
+      "acehnese": "ng'eue",
+      "indonesian": "arang"
     },
     {
-      "id": "590",
-      "indonesian": "menembak",
-      "acehnese": "teumimbak"
+      "id": 590,
+      "acehnese": "ngeui",
+      "indonesian": "berguna"
     },
     {
-      "id": "591",
-      "indonesian": "menembak",
-      "acehnese": "timbak"
+      "id": 591,
+      "acehnese": "ngeut",
+      "indonesian": "bodoh"
     },
     {
-      "id": "592",
-      "indonesian": "menerima",
-      "acehnese": "meuterimong"
+      "id": 592,
+      "acehnese": "ngön",
+      "indonesian": "sama"
     },
     {
-      "id": "593",
-      "indonesian": "menerima",
-      "acehnese": "teurimong"
+      "id": 593,
+      "acehnese": "nilai",
+      "indonesian": "nilai"
     },
     {
-      "id": "594",
-      "indonesian": "mengakui",
-      "acehnese": "aku"
+      "id": 594,
+      "acehnese": "niréng",
+      "indonesian": "samping"
     },
     {
-      "id": "595",
-      "indonesian": "mengakui",
-      "acehnese": "peuaku"
+      "id": 595,
+      "acehnese": "numbôi",
+      "indonesian": "nomor"
     },
     {
-      "id": "596",
-      "indonesian": "mengamankan",
-      "acehnese": "peuaman"
+      "id": 596,
+      "acehnese": "nuraka",
+      "indonesian": "neraka"
     },
     {
-      "id": "597",
-      "indonesian": "mengeluarkan",
-      "acehnese": "peuteubiet"
+      "id": 597,
+      "acehnese": "nyèeb-nyèeb",
+      "indonesian": "merengek-rengek"
     },
     {
-      "id": "598",
-      "indonesian": "mengeluarkan",
-      "acehnese": "peuteubit"
+      "id": 598,
+      "acehnese": "ny'èeh",
+      "indonesian": "menggerumit menggerogoti"
     },
     {
-      "id": "599",
-      "indonesian": "mengembalikan",
-      "acehnese": "jipulang"
+      "id": 599,
+      "acehnese": "nyo",
+      "indonesian": "ya"
     },
     {
-      "id": "600",
-      "indonesian": "mengembalikan",
-      "acehnese": "pulang"
+      "id": 600,
+      "acehnese": "nyum",
+      "indonesian": "perasaan"
     },
     {
-      "id": "601",
-      "indonesian": "mengerikan",
-      "acehnese": "garang"
+      "id": 601,
+      "acehnese": "oke",
+      "indonesian": "oke"
     },
     {
-      "id": "602",
-      "indonesian": "mengerikan",
-      "acehnese": "hayut"
+      "id": 602,
+      "acehnese": "omak",
+      "indonesian": "wow"
     },
     {
-      "id": "603",
-      "indonesian": "mengerikan",
-      "acehnese": "ngeri"
+      "id": 603,
+      "acehnese": "padat",
+      "indonesian": "padat"
     },
     {
-      "id": "604",
-      "indonesian": "mengerikan",
-      "acehnese": "teumakot"
+      "id": 604,
+      "acehnese": "padoe",
+      "indonesian": "berhenti sembuh"
     },
     {
-      "id": "605",
-      "indonesian": "menghancurkan",
-      "acehnese": "peuanco"
+      "id": 605,
+      "acehnese": "padök",
+      "indonesian": "tutup"
     },
     {
-      "id": "606",
-      "indonesian": "menghargai",
-      "acehnese": "boh yum"
+      "id": 606,
+      "acehnese": "padra",
+      "indonesian": "sama sepadan"
     },
     {
-      "id": "607",
-      "indonesian": "menghindari",
-      "acehnese": "hindari"
+      "id": 607,
+      "acehnese": "pah",
+      "indonesian": "cocok"
     },
     {
-      "id": "608",
-      "indonesian": "menghindari",
-      "acehnese": "peuse"
+      "id": 608,
+      "acehnese": "pahlawan",
+      "indonesian": "pahlawan"
     },
     {
-      "id": "609",
-      "indonesian": "mengusir",
-      "acehnese": "let"
+      "id": 609,
+      "acehnese": "paléh",
+      "indonesian": "badass"
     },
     {
-      "id": "610",
-      "indonesian": "mengusir",
-      "acehnese": "peuusee"
+      "id": 610,
+      "acehnese": "palét",
+      "indonesian": "lilit"
     },
     {
-      "id": "611",
-      "indonesian": "mengutuk",
-      "acehnese": "kutok"
+      "id": 611,
+      "acehnese": "paleueng",
+      "indonesian": "gundul botak"
     },
     {
-      "id": "612",
-      "indonesian": "meninggal",
-      "acehnese": "meuninggai"
+      "id": 612,
+      "acehnese": "palsu",
+      "indonesian": "palsu"
     },
     {
-      "id": "613",
-      "indonesian": "meningkatkan",
-      "acehnese": "peu'ek"
+      "id": 613,
+      "acehnese": "pancuri",
+      "indonesian": "copet"
     },
     {
-      "id": "614",
-      "indonesian": "meningkatkan",
-      "acehnese": "peuek"
+      "id": 614,
+      "acehnese": "paneuk",
+      "indonesian": "pendek rendah"
     },
     {
-      "id": "615",
-      "indonesian": "meningkatkan",
-      "acehnese": "peutingkat"
+      "id": 615,
+      "acehnese": "panik",
+      "indonesian": "panik"
     },
     {
-      "id": "616",
-      "indonesian": "menolak",
-      "acehnese": "tulak"
+      "id": 616,
+      "acehnese": "pansan",
+      "indonesian": "pinsan tidak ingat"
     },
     {
-      "id": "617",
-      "indonesian": "menunggu",
-      "acehnese": "preh"
+      "id": 617,
+      "acehnese": "pantangan",
+      "indonesian": "larangan"
     },
     {
-      "id": "618",
-      "indonesian": "menurunkan",
-      "acehnese": "peutron"
+      "id": 618,
+      "acehnese": "panyang",
+      "indonesian": "panjang"
     },
     {
-      "id": "619",
-      "indonesian": "menyadari",
-      "acehnese": "sadar"
+      "id": 619,
+      "acehnese": "papa",
+      "indonesian": "miskin"
     },
     {
-      "id": "620",
-      "indonesian": "menyadari",
-      "acehnese": "thee"
+      "id": 620,
+      "acehnese": "papah",
+      "indonesian": "memelihara merawat"
     },
     {
-      "id": "621",
-      "indonesian": "menyalahkan",
-      "acehnese": "peusalah"
+      "id": 621,
+      "acehnese": "parék",
+      "indonesian": "parit selokan"
     },
     {
-      "id": "622",
-      "indonesian": "menyambut",
-      "acehnese": "sambot"
+      "id": 622,
+      "acehnese": "paréksa",
+      "indonesian": "selidik"
     },
     {
-      "id": "623",
-      "indonesian": "menyebabkan",
-      "acehnese": "peuseubab"
+      "id": 623,
+      "acehnese": "pasét",
+      "indonesian": "rusak keliru"
     },
     {
-      "id": "624",
-      "indonesian": "menyebabkan",
-      "acehnese": "saweub"
+      "id": 624,
+      "acehnese": "pasti",
+      "indonesian": "pasti"
     },
     {
-      "id": "625",
-      "indonesian": "menyebabkan",
-      "acehnese": "seubab"
+      "id": 625,
+      "acehnese": "patéh",
+      "indonesian": "percaya; taat"
     },
     {
-      "id": "626",
-      "indonesian": "menyerang",
-      "acehnese": "jiseurang"
+      "id": 626,
+      "acehnese": "pateuen",
+      "indonesian": "setengah masak"
     },
     {
-      "id": "627",
-      "indonesian": "menyerang",
-      "acehnese": "meutajo"
+      "id": 627,
+      "acehnese": "patôt",
+      "indonesian": "berhak"
     },
     {
-      "id": "628",
-      "indonesian": "menyeret",
-      "acehnese": "bahu"
+      "id": 628,
+      "acehnese": "pawôk",
+      "indonesian": "sekitar daerah wilayah"
     },
     {
-      "id": "629",
-      "indonesian": "menyeret",
-      "acehnese": "bahue"
+      "id": 629,
+      "acehnese": "payah",
+      "indonesian": "sulit; susah"
     },
     {
-      "id": "630",
-      "indonesian": "menyeret",
-      "acehnese": "sireuk"
+      "id": 630,
+      "acehnese": "peduli",
+      "indonesian": "peduli"
     },
     {
-      "id": "631",
-      "indonesian": "menyesatkan",
-      "acehnese": "peuseusat"
+      "id": 631,
+      "acehnese": "peluang",
+      "indonesian": "kesempatan"
     },
     {
-      "id": "632",
-      "indonesian": "menyesatkan",
-      "acehnese": "peusisat"
+      "id": 632,
+      "acehnese": "pèng",
+      "indonesian": "uang"
     },
     {
-      "id": "633",
-      "indonesian": "menyita",
-      "acehnese": "jisita"
+      "id": 633,
+      "acehnese": "pereumeun",
+      "indonesian": "peduli"
     },
     {
-      "id": "634",
-      "indonesian": "menyita",
-      "acehnese": "rampah"
+      "id": 634,
+      "acehnese": "peuayang",
+      "indonesian": "ganggu"
     },
     {
-      "id": "635",
-      "indonesian": "menyita",
-      "acehnese": "sita"
+      "id": 635,
+      "acehnese": "peubloe",
+      "indonesian": "jual"
     },
     {
-      "id": "636",
-      "indonesian": "meragukan",
-      "acehnese": "ragu"
+      "id": 636,
+      "acehnese": "peucaya",
+      "indonesian": "percaya"
     },
     {
-      "id": "637",
-      "indonesian": "meragukan",
-      "acehnese": "sangsi"
+      "id": 637,
+      "acehnese": "peucrok",
+      "indonesian": "mengejar memburu"
     },
     {
-      "id": "638",
-      "indonesian": "meruntuhkan",
-      "acehnese": "jipeurhot"
+      "id": 638,
+      "acehnese": "peu'ék",
+      "indonesian": "meningkatkan"
     },
     {
-      "id": "639",
-      "indonesian": "meruntuhkan",
-      "acehnese": "peubinasa"
+      "id": 639,
+      "acehnese": "peugah",
+      "indonesian": "sebut"
     },
     {
-      "id": "640",
-      "indonesian": "meruntuhkan",
-      "acehnese": "peuruntoh"
+      "id": 640,
+      "acehnese": "peuhah",
+      "indonesian": "buka"
     },
     {
-      "id": "641",
-      "indonesian": "minta",
-      "acehnese": "lakee"
+      "id": 641,
+      "acehnese": "peuingat",
+      "indonesian": "saran"
     },
     {
-      "id": "642",
-      "indonesian": "minta maaf",
-      "acehnese": "lakee meu'ah"
+      "id": 642,
+      "acehnese": "peujam",
+      "indonesian": "menghilang"
     },
     {
-      "id": "643",
-      "indonesian": "minta maaf",
-      "acehnese": "lakee meuah"
+      "id": 643,
+      "acehnese": "peukara",
+      "indonesian": "hal; masalah"
     },
     {
-      "id": "644",
-      "indonesian": "miskin",
-      "acehnese": "gasien"
+      "id": 644,
+      "acehnese": "peukaru",
+      "indonesian": "ganggu; teror"
     },
     {
-      "id": "645",
-      "indonesian": "miskin",
-      "acehnese": "gasin"
+      "id": 645,
+      "acehnese": "peukasa",
+      "indonesian": "gagah"
     },
     {
-      "id": "646",
-      "indonesian": "miskin",
-      "acehnese": "papa"
+      "id": 646,
+      "acehnese": "peukra",
+      "indonesian": "bersorak"
     },
     {
-      "id": "647",
-      "indonesian": "moga",
-      "acehnese": "beu"
+      "id": 647,
+      "acehnese": "peulaku",
+      "indonesian": "pelaku"
     },
     {
-      "id": "648",
-      "indonesian": "moga",
-      "acehnese": "mudah-mudahan"
+      "id": 648,
+      "acehnese": "peuleumöh",
+      "indonesian": "melemahkan"
     },
     {
-      "id": "649",
-      "indonesian": "muda",
-      "acehnese": "muda"
+      "id": 649,
+      "acehnese": "peungarôh",
+      "indonesian": "pengaruh"
     },
     {
-      "id": "650",
-      "indonesian": "mudah",
-      "acehnese": "mudah"
+      "id": 650,
+      "acehnese": "peung'euh",
+      "indonesian": "terang jelas"
     },
     {
-      "id": "651",
-      "indonesian": "muka",
-      "acehnese": "muka"
+      "id": 651,
+      "acehnese": "peungeut",
+      "indonesian": "bohong"
     },
     {
-      "id": "652",
-      "indonesian": "mulia",
-      "acehnese": "mulia"
+      "id": 652,
+      "acehnese": "peunjara",
+      "indonesian": "penjara"
     },
     {
-      "id": "653",
-      "indonesian": "mulia",
-      "acehnese": "muliya"
+      "id": 653,
+      "acehnese": "peunôh",
+      "indonesian": "penuh"
     },
     {
-      "id": "654",
-      "indonesian": "mundur",
-      "acehnese": "surot"
+      "id": 654,
+      "acehnese": "peunténg",
+      "indonesian": "penting"
     },
     {
-      "id": "655",
-      "indonesian": "murah",
-      "acehnese": "murah"
+      "id": 655,
+      "acehnese": "peuprèh",
+      "indonesian": "tunda"
     },
     {
-      "id": "656",
-      "indonesian": "murka",
-      "acehnese": "beungeh"
+      "id": 656,
+      "acehnese": "peurampok",
+      "indonesian": "perampok"
     },
     {
-      "id": "657",
-      "indonesian": "murka",
-      "acehnese": "murka"
+      "id": 657,
+      "acehnese": "peurasaan",
+      "indonesian": "perasaan"
     },
     {
-      "id": "658",
-      "indonesian": "musuh",
-      "acehnese": "musoh"
+      "id": 658,
+      "acehnese": "peurati",
+      "indonesian": "fokus"
     },
     {
-      "id": "659",
-      "indonesian": "nanti",
-      "acehnese": "eunteuk"
+      "id": 659,
+      "acehnese": "peureumeun",
+      "indonesian": "peduli"
     },
     {
-      "id": "660",
-      "indonesian": "nanti",
-      "acehnese": "singoh"
+      "id": 660,
+      "acehnese": "peurua",
+      "indonesian": "peduli"
     },
     {
-      "id": "661",
-      "indonesian": "nekat",
-      "acehnese": "nekat"
+      "id": 661,
+      "acehnese": "peusèe",
+      "indonesian": "hindar"
     },
     {
-      "id": "662",
-      "indonesian": "nekat",
-      "acehnese": "nikat"
+      "id": 662,
+      "acehnese": "peutaka",
+      "indonesian": "bahaya; bencana"
     },
     {
-      "id": "663",
-      "indonesian": "neraka",
-      "acehnese": "nuraka"
+      "id": 663,
+      "acehnese": "peutrên",
+      "indonesian": "menurunkan"
     },
     {
-      "id": "664",
-      "indonesian": "ngeri",
-      "acehnese": "hayuet"
+      "id": 664,
+      "acehnese": "pikée",
+      "indonesian": "pikir"
     },
     {
-      "id": "665",
-      "indonesian": "ngeri",
-      "acehnese": "ngeri"
+      "id": 665,
+      "acehnese": "piyôh",
+      "indonesian": "santai"
     },
     {
-      "id": "666",
-      "indonesian": "ngeri",
-      "acehnese": "takot"
+      "id": 666,
+      "acehnese": "poh",
+      "indonesian": "pukul; bunuh"
     },
     {
-      "id": "667",
-      "indonesian": "ngeri",
-      "acehnese": "yo"
+      "id": 667,
+      "acehnese": "pök",
+      "indonesian": "tabrak"
     },
     {
-      "id": "668",
-      "indonesian": "ngerti",
-      "acehnese": "meuphom"
+      "id": 668,
+      "acehnese": "positif",
+      "indonesian": "positif"
     },
     {
-      "id": "669",
-      "indonesian": "ngerti",
-      "acehnese": "tu'oh"
+      "id": 669,
+      "acehnese": "prang",
+      "indonesian": "perang"
     },
     {
-      "id": "670",
-      "indonesian": "nilai",
-      "acehnese": "nilai"
+      "id": 670,
+      "acehnese": "prèh",
+      "indonesian": "menanti; tunggu"
     },
     {
-      "id": "671",
-      "indonesian": "oke",
-      "acehnese": "oke"
+      "id": 671,
+      "acehnese": "pubuet",
+      "indonesian": "melakukan"
     },
     {
-      "id": "672",
-      "indonesian": "oleh",
-      "acehnese": "le"
+      "id": 672,
+      "acehnese": "puja",
+      "indonesian": "puja"
     },
     {
-      "id": "673",
-      "indonesian": "orang bodoh",
-      "acehnese": "ureueng bangai"
+      "id": 673,
+      "acehnese": "pujoe",
+      "indonesian": "puji; apresiasi"
     },
     {
-      "id": "674",
-      "indonesian": "orang bodoh",
-      "acehnese": "ureung bangai"
+      "id": 674,
+      "acehnese": "pulang",
+      "indonesian": "kembali"
     },
     {
-      "id": "675",
-      "indonesian": "orang bodoh",
-      "acehnese": "ureung ngeut"
+      "id": 675,
+      "acehnese": "puléh",
+      "indonesian": "pulih"
     },
     {
-      "id": "676",
-      "indonesian": "pada",
-      "acehnese": "bak"
+      "id": 676,
+      "acehnese": "punggông",
+      "indonesian": "pantat"
     },
     {
-      "id": "677",
-      "indonesian": "padat",
-      "acehnese": "kreueh"
+      "id": 677,
+      "acehnese": "pungo",
+      "indonesian": "gila"
     },
     {
-      "id": "678",
-      "indonesian": "padat",
-      "acehnese": "meusak-sak"
+      "id": 678,
+      "acehnese": "pura",
+      "indonesian": "pura"
     },
     {
-      "id": "679",
-      "indonesian": "padat",
-      "acehnese": "padat"
+      "id": 679,
+      "acehnese": "ra’i",
+      "indonesian": "memerintah"
     },
     {
-      "id": "680",
-      "indonesian": "padat",
-      "acehnese": "padek"
+      "id": 680,
+      "acehnese": "rabak",
+      "indonesian": "koyak-koyak"
     },
     {
-      "id": "681",
-      "indonesian": "pahlawan",
-      "acehnese": "pahlawan"
+      "id": 681,
+      "acehnese": "rabé",
+      "indonesian": "mengembalakan"
     },
     {
-      "id": "682",
-      "indonesian": "palsu",
-      "acehnese": "hana aseuli"
+      "id": 682,
+      "acehnese": "rabông",
+      "indonesian": "ruang samping perkarangan samping rumah"
     },
     {
-      "id": "683",
-      "indonesian": "palsu",
-      "acehnese": "palsu"
+      "id": 683,
+      "acehnese": "racôn",
+      "indonesian": "racun"
     },
     {
-      "id": "684",
-      "indonesian": "panas",
-      "acehnese": "suum"
+      "id": 684,
+      "acehnese": "radöt",
+      "indonesian": "menambal"
     },
     {
-      "id": "685",
-      "indonesian": "panik",
-      "acehnese": "duk-dong"
+      "id": 685,
+      "acehnese": "ragu",
+      "indonesian": "ragu"
     },
     {
-      "id": "686",
-      "indonesian": "panik",
-      "acehnese": "panik"
+      "id": 686,
+      "acehnese": "rahmat",
+      "indonesian": "rahmat; anugerah"
     },
     {
-      "id": "687",
-      "indonesian": "panjang",
-      "acehnese": "panyang"
+      "id": 687,
+      "acehnese": "rampah",
+      "indonesian": "rampas; sita"
     },
     {
-      "id": "688",
-      "indonesian": "pantat",
-      "acehnese": "punggong"
+      "id": 688,
+      "acehnese": "ras",
+      "indonesian": "ras"
     },
     {
-      "id": "689",
-      "indonesian": "parodi",
-      "acehnese": "buet peuget khem"
+      "id": 689,
+      "acehnese": "raya",
+      "indonesian": "besar; raya"
     },
     {
-      "id": "690",
-      "indonesian": "parodi",
-      "acehnese": "parodi"
+      "id": 690,
+      "acehnese": "rayêk",
+      "indonesian": "besar"
     },
     {
-      "id": "691",
-      "indonesian": "pasti",
-      "acehnese": "pasti"
+      "id": 691,
+      "acehnese": "rela",
+      "indonesian": "rela"
     },
     {
-      "id": "692",
-      "indonesian": "pasti",
-      "acehnese": "teuntee"
+      "id": 692,
+      "acehnese": "reubah",
+      "indonesian": "jatuh; lumpuh"
     },
     {
-      "id": "693",
-      "indonesian": "pecah",
-      "acehnese": "beukah"
+      "id": 693,
+      "acehnese": "reudôk",
+      "indonesian": "mendung"
     },
     {
-      "id": "694",
-      "indonesian": "peduli",
-      "acehnese": "hiroe"
+      "id": 694,
+      "acehnese": "reulöh",
+      "indonesian": "kerusakan"
     },
     {
-      "id": "695",
-      "indonesian": "peduli",
-      "acehnese": "peduli"
+      "id": 695,
+      "acehnese": "reupah",
+      "indonesian": "rampas"
     },
     {
-      "id": "696",
-      "indonesian": "peduli",
-      "acehnese": "peureumeun"
+      "id": 696,
+      "acehnese": "reutak",
+      "indonesian": "tingkat"
     },
     {
-      "id": "697",
-      "indonesian": "pelaku",
-      "acehnese": "peulaku"
+      "id": 697,
+      "acehnese": "rhöt",
+      "indonesian": "jatuh; runtuh"
     },
     {
-      "id": "698",
-      "indonesian": "pelaku",
-      "acehnese": "ureueng pubuet"
+      "id": 698,
+      "acehnese": "rihôn",
+      "indonesian": "rindu"
     },
     {
-      "id": "699",
-      "indonesian": "pelaku kejahatan",
-      "acehnese": "awak peulaku bhah jahee"
+      "id": 699,
+      "acehnese": "rindu",
+      "indonesian": "rindu"
     },
     {
-      "id": "700",
-      "indonesian": "pelaku kejahatan",
-      "acehnese": "ureueng pubuet buet jeuheuet"
+      "id": 700,
+      "acehnese": "riwang",
+      "indonesian": "kembali"
     },
     {
-      "id": "701",
-      "indonesian": "pembela",
-      "acehnese": "awak bila"
+      "id": 701,
+      "acehnese": "rôh",
+      "indonesian": "dapat"
     },
     {
-      "id": "702",
-      "indonesian": "pembela",
-      "acehnese": "ureueng bela"
+      "id": 702,
+      "acehnese": "röt",
+      "indonesian": "lewat"
     },
     {
-      "id": "703",
-      "indonesian": "pemberani",
-      "acehnese": "beuhe"
+      "id": 703,
+      "acehnese": "rugoe",
+      "indonesian": "kerugian"
     },
     {
-      "id": "704",
-      "indonesian": "pemberontakan",
-      "acehnese": "burat"
+      "id": 704,
+      "acehnese": "runtôh",
+      "indonesian": "runtuh"
     },
     {
-      "id": "705",
-      "indonesian": "pemberontakan",
-      "acehnese": "peumbeurontak"
+      "id": 705,
+      "acehnese": "saba",
+      "indonesian": "tabah"
     },
     {
-      "id": "706",
-      "indonesian": "penangkapan",
-      "acehnese": "drop"
+      "id": 706,
+      "acehnese": "saban",
+      "indonesian": "sama"
     },
     {
-      "id": "707",
-      "indonesian": "penangkapan",
-      "acehnese": "peudrop"
+      "id": 707,
+      "acehnese": "saboh",
+      "indonesian": "utuh"
     },
     {
-      "id": "708",
-      "indonesian": "pendukung",
-      "acehnese": "nyang dukong"
+      "id": 708,
+      "acehnese": "sadar",
+      "indonesian": "menyadari"
     },
     {
-      "id": "709",
-      "indonesian": "pendukung",
-      "acehnese": "pendukung"
+      "id": 709,
+      "acehnese": "saéng",
+      "indonesian": "bersaing"
     },
     {
-      "id": "710",
-      "indonesian": "penembakan",
-      "acehnese": "nyang timbak"
+      "id": 710,
+      "acehnese": "saham",
+      "indonesian": "saham"
     },
     {
-      "id": "711",
-      "indonesian": "penembakan",
-      "acehnese": "temimbak"
+      "id": 711,
+      "acehnese": "saheh",
+      "indonesian": "benar"
     },
     {
-      "id": "712",
-      "indonesian": "pengecut",
-      "acehnese": "geusuen"
+      "id": 712,
+      "acehnese": "sajan",
+      "indonesian": "bersama"
     },
     {
-      "id": "713",
-      "indonesian": "pengecut",
-      "acehnese": "teumakot"
+      "id": 713,
+      "acehnese": "sajöh",
+      "indonesian": "tetap pasti tentu"
     },
     {
-      "id": "714",
-      "indonesian": "pengunjung",
-      "acehnese": "awak keumunjong"
+      "id": 714,
+      "acehnese": "sakét",
+      "indonesian": "cedera; sakit"
     },
     {
-      "id": "715",
-      "indonesian": "pengunjung",
-      "acehnese": "ureueng jak"
+      "id": 715,
+      "acehnese": "salah",
+      "indonesian": "salah"
     },
     {
-      "id": "716",
-      "indonesian": "penjara",
-      "acehnese": "peunjara"
+      "id": 716,
+      "acehnese": "salam",
+      "indonesian": "salam"
     },
     {
-      "id": "717",
-      "indonesian": "penting",
-      "acehnese": "peunteng"
+      "id": 717,
+      "acehnese": "saleum",
+      "indonesian": "salam"
     },
     {
-      "id": "718",
-      "indonesian": "penuh",
-      "acehnese": "peunoh"
+      "id": 718,
+      "acehnese": "salôb",
+      "indonesian": "singkap"
     },
     {
-      "id": "719",
-      "indonesian": "penularan",
-      "acehnese": "langkot"
+      "id": 719,
+      "acehnese": "salut",
+      "indonesian": "salut"
     },
     {
-      "id": "720",
-      "indonesian": "penularan",
-      "acehnese": "penularan"
+      "id": 720,
+      "acehnese": "sama-sama",
+      "indonesian": "bersama"
     },
     {
-      "id": "721",
-      "indonesian": "penyelamat",
-      "acehnese": "juru selamat"
+      "id": 721,
+      "acehnese": "sambôt",
+      "indonesian": "menyambut"
     },
     {
-      "id": "722",
-      "indonesian": "penyelamat",
-      "acehnese": "nyang peuseulamat"
+      "id": 722,
+      "acehnese": "samön",
+      "indonesian": "menyambar mencekau"
     },
     {
-      "id": "723",
-      "indonesian": "penyelidikan",
-      "acehnese": "pareksa"
+      "id": 723,
+      "acehnese": "sampéng",
+      "indonesian": "samping"
     },
     {
-      "id": "724",
-      "indonesian": "penyelidikan",
-      "acehnese": "penyelidikan"
+      "id": 724,
+      "acehnese": "sanggôp",
+      "indonesian": "mampu"
     },
     {
-      "id": "725",
-      "indonesian": "perampok",
-      "acehnese": "perampok"
+      "id": 725,
+      "acehnese": "sanggróh",
+      "indonesian": "memanggil"
     },
     {
-      "id": "726",
-      "indonesian": "perampok",
-      "acehnese": "peurampok"
+      "id": 726,
+      "acehnese": "sangka",
+      "indonesian": "sangka"
     },
     {
-      "id": "727",
-      "indonesian": "perang",
-      "acehnese": "prang"
+      "id": 727,
+      "acehnese": "sangku",
+      "indonesian": "kukusan"
     },
     {
-      "id": "728",
-      "indonesian": "perasaan",
-      "acehnese": "nyum"
+      "id": 728,
+      "acehnese": "sangsi",
+      "indonesian": "ragu"
     },
     {
-      "id": "729",
-      "indonesian": "perasaan",
-      "acehnese": "peurasaan"
+      "id": 729,
+      "acehnese": "santai",
+      "indonesian": "santai"
     },
     {
-      "id": "730",
-      "indonesian": "percaya",
-      "acehnese": "pateh"
+      "id": 730,
+      "acehnese": "santök",
+      "indonesian": "terhambat"
     },
     {
-      "id": "731",
-      "indonesian": "percaya",
-      "acehnese": "peucaya"
+      "id": 731,
+      "acehnese": "sapa",
+      "indonesian": "sapa"
     },
     {
-      "id": "732",
-      "indonesian": "perdamaian",
-      "acehnese": "dame"
+      "id": 732,
+      "acehnese": "saran",
+      "indonesian": "saran"
     },
     {
-      "id": "733",
-      "indonesian": "perdamaian",
-      "acehnese": "perdamaian"
+      "id": 733,
+      "acehnese": "saweub",
+      "indonesian": "sebab"
     },
     {
-      "id": "734",
-      "indonesian": "peringatan",
-      "acehnese": "peuiingat"
+      "id": 734,
+      "acehnese": "sayang",
+      "indonesian": "sayang"
     },
     {
-      "id": "735",
-      "indonesian": "peringatan",
-      "acehnese": "peuingat"
+      "id": 735,
+      "acehnese": "sebab",
+      "indonesian": "sebab"
     },
     {
-      "id": "736",
-      "indonesian": "perjuangan",
-      "acehnese": "perjuangan"
+      "id": 736,
+      "acehnese": "sebut",
+      "indonesian": "sebut"
     },
     {
-      "id": "737",
-      "indonesian": "perjuangan",
-      "acehnese": "peujuangan"
+      "id": 737,
+      "acehnese": "selô",
+      "indonesian": "santai"
     },
     {
-      "id": "738",
-      "indonesian": "pertanyaan",
-      "acehnese": "soalan"
+      "id": 738,
+      "acehnese": "semeupoh",
+      "indonesian": "kekerasan"
     },
     {
-      "id": "739",
-      "indonesian": "pertanyaan",
-      "acehnese": "tanyong"
+      "id": 739,
+      "acehnese": "sempurna",
+      "indonesian": "utuh"
     },
     {
-      "id": "740",
-      "indonesian": "pertempuran",
-      "acehnese": "meukeupong"
+      "id": 740,
+      "acehnese": "senjata",
+      "indonesian": "senjata"
     },
     {
-      "id": "741",
-      "indonesian": "pertempuran",
-      "acehnese": "meulho"
+      "id": 741,
+      "acehnese": "seragam",
+      "indonesian": "seragam"
     },
     {
-      "id": "742",
-      "indonesian": "pertempuran",
-      "acehnese": "prang"
+      "id": 742,
+      "acehnese": "serang",
+      "indonesian": "serang"
     },
     {
-      "id": "743",
-      "indonesian": "pikir",
-      "acehnese": "ingat"
+      "id": 743,
+      "acehnese": "serikat",
+      "indonesian": "serikat"
     },
     {
-      "id": "744",
-      "indonesian": "pikir",
-      "acehnese": "pike"
+      "id": 744,
+      "acehnese": "seubab",
+      "indonesian": "sebab"
     },
     {
-      "id": "745",
-      "indonesian": "pikir",
-      "acehnese": "pikee"
+      "id": 745,
+      "acehnese": "seudéh",
+      "indonesian": "sedih; duka"
     },
     {
-      "id": "746",
-      "indonesian": "pintar",
-      "acehnese": "caroeng"
+      "id": 746,
+      "acehnese": "seugan",
+      "indonesian": "segan"
     },
     {
-      "id": "747",
-      "indonesian": "pintar",
-      "acehnese": "carong"
+      "id": 747,
+      "acehnese": "seulamat",
+      "indonesian": "selamat"
     },
     {
-      "id": "748",
-      "indonesian": "populer",
-      "acehnese": "dithee"
+      "id": 748,
+      "acehnese": "seuleuso",
+      "indonesian": "selesai"
     },
     {
-      "id": "749",
-      "indonesian": "populer",
-      "acehnese": "jithee"
+      "id": 749,
+      "acehnese": "seumangat",
+      "indonesian": "semangat"
     },
     {
-      "id": "750",
-      "indonesian": "populer",
-      "acehnese": "meusyeuhu"
+      "id": 750,
+      "acehnese": "seunang",
+      "indonesian": "bahagia"
     },
     {
-      "id": "751",
-      "indonesian": "populer",
-      "acehnese": "populer"
+      "id": 751,
+      "acehnese": "seungap",
+      "indonesian": "diam"
     },
     {
-      "id": "752",
-      "indonesian": "positif",
-      "acehnese": "positif"
+      "id": 752,
+      "acehnese": "seungu",
+      "indonesian": "sepi"
     },
     {
-      "id": "753",
-      "indonesian": "potong",
-      "acehnese": "koh"
+      "id": 753,
+      "acehnese": "seuniya",
+      "indonesian": "kenyamanan"
     },
     {
-      "id": "754",
-      "indonesian": "potong",
-      "acehnese": "kret"
+      "id": 754,
+      "acehnese": "seunjata",
+      "indonesian": "senjata"
     },
     {
-      "id": "755",
-      "indonesian": "puja",
-      "acehnese": "puja"
+      "id": 755,
+      "acehnese": "seupôt",
+      "indonesian": "gelap"
     },
     {
-      "id": "756",
-      "indonesian": "puja",
-      "acehnese": "pujoe"
+      "id": 756,
+      "acehnese": "seuram",
+      "indonesian": "seram"
     },
     {
-      "id": "757",
-      "indonesian": "puji",
-      "acehnese": "pujoe"
+      "id": 757,
+      "acehnese": "seurang",
+      "indonesian": "serang"
     },
     {
-      "id": "758",
-      "indonesian": "pukul",
-      "acehnese": "poh"
+      "id": 758,
+      "acehnese": "seusat",
+      "indonesian": "sesat"
     },
     {
-      "id": "759",
-      "indonesian": "pulih",
-      "acehnese": "puleh"
+      "id": 759,
+      "acehnese": "seutöt",
+      "indonesian": "ikut"
     },
     {
-      "id": "760",
-      "indonesian": "pura",
-      "acehnese": "pura"
+      "id": 760,
+      "acehnese": "seutreh",
+      "indonesian": "gila"
     },
     {
-      "id": "761",
-      "indonesian": "pusing",
-      "acehnese": "mumang"
+      "id": 761,
+      "acehnese": "seutrèh",
+      "indonesian": "stres"
     },
     {
-      "id": "762",
-      "indonesian": "racun",
-      "acehnese": "racon"
+      "id": 762,
+      "acehnese": "siap",
+      "indonesian": "siap"
     },
     {
-      "id": "763",
-      "indonesian": "racun",
-      "acehnese": "tuba"
+      "id": 763,
+      "acehnese": "sidroe",
+      "indonesian": "sendiri"
     },
     {
-      "id": "764",
-      "indonesian": "rahmat",
-      "acehnese": "rahmat"
+      "id": 764,
+      "acehnese": "sigap",
+      "indonesian": "sigap"
     },
     {
-      "id": "765",
-      "indonesian": "rampas",
-      "acehnese": "cok paksa"
+      "id": 765,
+      "acehnese": "silakan",
+      "indonesian": "silahkan"
     },
     {
-      "id": "766",
-      "indonesian": "rampas",
-      "acehnese": "rampah"
+      "id": 766,
+      "acehnese": "silap",
+      "indonesian": "kesalahan"
     },
     {
-      "id": "767",
-      "indonesian": "rampas",
-      "acehnese": "reupah"
+      "id": 767,
+      "acehnese": "simpati",
+      "indonesian": "simpati"
     },
     {
-      "id": "768",
-      "indonesian": "ras",
-      "acehnese": "ras"
+      "id": 768,
+      "acehnese": "singöh",
+      "indonesian": "nanti"
     },
     {
-      "id": "769",
-      "indonesian": "raya",
-      "acehnese": "raya"
+      "id": 769,
+      "acehnese": "sireuk",
+      "indonesian": "seret"
     },
     {
-      "id": "770",
-      "indonesian": "rela",
-      "acehnese": "ikhlas"
+      "id": 770,
+      "acehnese": "sisat",
+      "indonesian": "sesat"
     },
     {
-      "id": "771",
-      "indonesian": "rela",
-      "acehnese": "rela"
+      "id": 771,
+      "acehnese": "sita",
+      "indonesian": "sita"
     },
     {
-      "id": "772",
-      "indonesian": "rindu",
-      "acehnese": "meusyen"
+      "id": 772,
+      "acehnese": "soal",
+      "indonesian": "pertanyaan"
     },
     {
-      "id": "773",
-      "indonesian": "rindu",
-      "acehnese": "rihon"
+      "id": 773,
+      "acehnese": "soh",
+      "indonesian": "kosong"
     },
     {
-      "id": "774",
-      "indonesian": "rindu",
-      "acehnese": "rindu"
+      "id": 774,
+      "acehnese": "som",
+      "indonesian": "sembunyi"
     },
     {
-      "id": "775",
-      "indonesian": "runtuh",
-      "acehnese": "binasa"
+      "id": 775,
+      "acehnese": "sopan",
+      "indonesian": "sopan"
     },
     {
-      "id": "776",
-      "indonesian": "runtuh",
-      "acehnese": "rhot"
+      "id": 776,
+      "acehnese": "sulét",
+      "indonesian": "bohong"
     },
     {
-      "id": "777",
-      "indonesian": "runtuh",
-      "acehnese": "runtoh"
+      "id": 777,
+      "acehnese": "suleung",
+      "indonesian": "suap"
     },
     {
-      "id": "778",
-      "indonesian": "sadar",
-      "acehnese": "beudoh"
+      "id": 778,
+      "acehnese": "surah",
+      "indonesian": "sebut"
     },
     {
-      "id": "779",
-      "indonesian": "sadar",
-      "acehnese": "jaga"
+      "id": 779,
+      "acehnese": "surak",
+      "indonesian": "bersorak"
     },
     {
-      "id": "780",
-      "indonesian": "sadar",
-      "acehnese": "teupeu"
+      "id": 780,
+      "acehnese": "surôt",
+      "indonesian": "mundur"
     },
     {
-      "id": "781",
-      "indonesian": "sadar",
-      "acehnese": "thee"
+      "id": 781,
+      "acehnese": "susah",
+      "indonesian": "susah"
     },
     {
-      "id": "782",
-      "indonesian": "saham",
-      "acehnese": "saham"
+      "id": 782,
+      "acehnese": "suum",
+      "indonesian": "panas"
     },
     {
-      "id": "783",
-      "indonesian": "sakit",
-      "acehnese": "saket"
+      "id": 783,
+      "acehnese": "syarikat",
+      "indonesian": "serikat"
     },
     {
-      "id": "784",
-      "indonesian": "salah",
-      "acehnese": "salah"
+      "id": 784,
+      "acehnese": "syiruga",
+      "indonesian": "surga"
     },
     {
-      "id": "785",
-      "indonesian": "salam",
-      "acehnese": "salam"
+      "id": 785,
+      "acehnese": "tabah",
+      "indonesian": "tabah"
     },
     {
-      "id": "786",
-      "indonesian": "salam",
-      "acehnese": "saleum"
+      "id": 786,
+      "acehnese": "tajô",
+      "indonesian": "serang"
     },
     {
-      "id": "787",
-      "indonesian": "salut",
-      "acehnese": "hormat"
+      "id": 787,
+      "acehnese": "takôt",
+      "indonesian": "takut"
     },
     {
-      "id": "788",
-      "indonesian": "salut",
-      "acehnese": "salut"
+      "id": 788,
+      "acehnese": "talô",
+      "indonesian": "kalah"
     },
     {
-      "id": "789",
-      "indonesian": "sama",
-      "acehnese": "ngoen"
+      "id": 789,
+      "acehnese": "tambéh",
+      "indonesian": "teguran nasihat peringatan"
     },
     {
-      "id": "790",
-      "indonesian": "sama",
-      "acehnese": "saban"
+      "id": 790,
+      "acehnese": "tamsée",
+      "indonesian": "seperti"
     },
     {
-      "id": "791",
-      "indonesian": "samping",
-      "acehnese": "bineh"
+      "id": 791,
+      "acehnese": "tanggôh",
+      "indonesian": "tangguh; tunda"
     },
     {
-      "id": "792",
-      "indonesian": "samping",
-      "acehnese": "geunireng"
+      "id": 792,
+      "acehnese": "tanggong jaweub",
+      "indonesian": "tanggung jawab"
     },
     {
-      "id": "793",
-      "indonesian": "samping",
-      "acehnese": "nireng"
+      "id": 793,
+      "acehnese": "tangkôk",
+      "indonesian": "memperdaya menipu"
     },
     {
-      "id": "794",
-      "indonesian": "samping",
-      "acehnese": "sampeng"
+      "id": 794,
+      "acehnese": "tanyong",
+      "indonesian": "pertanyaan"
     },
     {
-      "id": "795",
-      "indonesian": "sangat",
-      "acehnese": "leupah"
+      "id": 795,
+      "acehnese": "tanyöng",
+      "indonesian": "tanya"
     },
     {
-      "id": "796",
-      "indonesian": "sangat",
-      "acehnese": "that"
+      "id": 796,
+      "acehnese": "tarék",
+      "indonesian": "tarik"
     },
     {
-      "id": "797",
-      "indonesian": "santai",
-      "acehnese": "piyoh"
+      "id": 797,
+      "acehnese": "tari",
+      "indonesian": "cantik; indah"
     },
     {
-      "id": "798",
-      "indonesian": "santai",
-      "acehnese": "santai"
+      "id": 798,
+      "acehnese": "tatéh",
+      "indonesian": "menatih; mengajar berjalan selangkah demi selangkah"
     },
     {
-      "id": "799",
-      "indonesian": "santai",
-      "acehnese": "selo"
+      "id": 799,
+      "acehnese": "tawôk",
+      "indonesian": "memanggil meminta"
     },
     {
-      "id": "800",
-      "indonesian": "santai",
-      "acehnese": "teunang"
+      "id": 800,
+      "acehnese": "tegas",
+      "indonesian": "tegas"
     },
     {
-      "id": "801",
-      "indonesian": "sapa",
-      "acehnese": "hoi"
+      "id": 801,
+      "acehnese": "tenang",
+      "indonesian": "tenang"
     },
     {
-      "id": "802",
-      "indonesian": "sapa",
-      "acehnese": "sapa"
+      "id": 802,
+      "acehnese": "tentang",
+      "indonesian": "tentang"
     },
     {
-      "id": "803",
-      "indonesian": "saran",
-      "acehnese": "peuingat"
+      "id": 803,
+      "acehnese": "tentram",
+      "indonesian": "damai"
     },
     {
-      "id": "804",
-      "indonesian": "saran",
-      "acehnese": "saran"
+      "id": 804,
+      "acehnese": "teu öh",
+      "indonesian": "sebut"
     },
     {
-      "id": "805",
-      "indonesian": "sayang",
-      "acehnese": "sayang"
+      "id": 805,
+      "acehnese": "teubiet",
+      "indonesian": "keluar"
     },
     {
-      "id": "806",
-      "indonesian": "sayang",
-      "acehnese": "weuh"
+      "id": 806,
+      "acehnese": "teuga",
+      "indonesian": "kuat"
     },
     {
-      "id": "807",
-      "indonesian": "sebab",
-      "acehnese": "kareuna"
+      "id": 807,
+      "acehnese": "teugang",
+      "indonesian": "tegang"
     },
     {
-      "id": "808",
-      "indonesian": "sebab",
-      "acehnese": "saweub"
+      "id": 808,
+      "acehnese": "teugogah",
+      "indonesian": "terganggu"
     },
     {
-      "id": "809",
-      "indonesian": "sebab",
-      "acehnese": "saweueb"
+      "id": 809,
+      "acehnese": "teuhah",
+      "indonesian": "buka"
     },
     {
-      "id": "810",
-      "indonesian": "sebab",
-      "acehnese": "sebab"
+      "id": 810,
+      "acehnese": "teujalök",
+      "indonesian": "curiga"
     },
     {
-      "id": "811",
-      "indonesian": "sebab",
-      "acehnese": "seubab"
+      "id": 811,
+      "acehnese": "teulah",
+      "indonesian": "kecewa"
     },
     {
-      "id": "812",
-      "indonesian": "sebut",
-      "acehnese": "peugah"
+      "id": 812,
+      "acehnese": "teuleupah",
+      "indonesian": "amat"
     },
     {
-      "id": "813",
-      "indonesian": "sebut",
-      "acehnese": "sebut"
+      "id": 813,
+      "acehnese": "teumakot",
+      "indonesian": "pengecut"
     },
     {
-      "id": "814",
-      "indonesian": "sebut",
-      "acehnese": "surah"
+      "id": 814,
+      "acehnese": "teumakôt",
+      "indonesian": "ketakutan"
     },
     {
-      "id": "815",
-      "indonesian": "sebut",
-      "acehnese": "teu-oh"
+      "id": 815,
+      "acehnese": "teumanyöng",
+      "indonesian": "interogasi"
     },
     {
-      "id": "816",
-      "indonesian": "sedih",
-      "acehnese": "seudeh"
+      "id": 816,
+      "acehnese": "teumat",
+      "indonesian": "menyulam; sulaman"
     },
     {
-      "id": "817",
-      "indonesian": "sedih",
-      "acehnese": "weueh"
+      "id": 817,
+      "acehnese": "teumèe",
+      "indonesian": "dapat"
     },
     {
-      "id": "818",
-      "indonesian": "sedih",
-      "acehnese": "weuh"
+      "id": 818,
+      "acehnese": "teumeueng",
+      "indonesian": "dapat"
     },
     {
-      "id": "819",
-      "indonesian": "segan",
-      "acehnese": "seugan"
+      "id": 819,
+      "acehnese": "teumeung",
+      "indonesian": "dapat"
     },
     {
-      "id": "820",
-      "indonesian": "selamat",
-      "acehnese": "jroh"
+      "id": 820,
+      "acehnese": "teumeunggông",
+      "indonesian": "luka besar yang dulu dan menahun"
     },
     {
-      "id": "821",
-      "indonesian": "selamat",
-      "acehnese": "seulamat"
+      "id": 821,
+      "acehnese": "teumeuntuek",
+      "indonesian": "hadiah pemberian"
     },
     {
-      "id": "822",
-      "indonesian": "selesai",
-      "acehnese": "kalheuh"
+      "id": 822,
+      "acehnese": "teumimbak",
+      "indonesian": "tembak"
     },
     {
-      "id": "823",
-      "indonesian": "selesai",
-      "acehnese": "lheueh"
+      "id": 823,
+      "acehnese": "teum'ok",
+      "indonesian": "menyendok"
     },
     {
-      "id": "824",
-      "indonesian": "selesai",
-      "acehnese": "seuleso"
+      "id": 824,
+      "acehnese": "teunang",
+      "indonesian": "tenang"
     },
     {
-      "id": "825",
-      "indonesian": "semangat",
-      "acehnese": "seumangat"
+      "id": 825,
+      "acehnese": "teunoem",
+      "indonesian": "tenggelam"
     },
     {
-      "id": "826",
-      "indonesian": "sembunyi",
-      "acehnese": "meusom"
+      "id": 826,
+      "acehnese": "teuntèe",
+      "indonesian": "pasti"
     },
     {
-      "id": "827",
-      "indonesian": "sembunyi",
-      "acehnese": "som"
+      "id": 827,
+      "acehnese": "teuntram",
+      "indonesian": "aman"
     },
     {
-      "id": "828",
-      "indonesian": "sembunyi",
-      "acehnese": "sorok"
+      "id": 828,
+      "acehnese": "teuöh",
+      "indonesian": "disebut-sebut"
     },
     {
-      "id": "829",
-      "indonesian": "semoga",
-      "acehnese": "beu"
+      "id": 829,
+      "acehnese": "teupèh",
+      "indonesian": "tersinggung"
     },
     {
-      "id": "830",
-      "indonesian": "semoga",
-      "acehnese": "mudah-mudahan"
+      "id": 830,
+      "acehnese": "teupeu",
+      "indonesian": "sadar"
     },
     {
-      "id": "831",
-      "indonesian": "sempat",
-      "acehnese": "meuteumeu"
+      "id": 831,
+      "acehnese": "teurimöng",
+      "indonesian": "terima"
     },
     {
-      "id": "832",
-      "indonesian": "sempat",
-      "acehnese": "na watee"
+      "id": 832,
+      "acehnese": "teurimöng geunaséh",
+      "indonesian": "terimakasih"
     },
     {
-      "id": "833",
-      "indonesian": "senang",
-      "acehnese": "galak"
+      "id": 833,
+      "acehnese": "tham",
+      "indonesian": "cegah"
     },
     {
-      "id": "834",
-      "indonesian": "senang",
-      "acehnese": "geumbira"
+      "id": 834,
+      "acehnese": "that",
+      "indonesian": "amat"
     },
     {
-      "id": "835",
-      "indonesian": "senang",
-      "acehnese": "harok"
+      "id": 835,
+      "acehnese": "thèe",
+      "indonesian": "populer"
     },
     {
-      "id": "836",
-      "indonesian": "senang",
-      "acehnese": "seunang"
+      "id": 836,
+      "acehnese": "thèe",
+      "indonesian": "sadar"
     },
     {
-      "id": "837",
-      "indonesian": "sendiri",
-      "acehnese": "keudroe"
+      "id": 837,
+      "acehnese": "theuen",
+      "indonesian": "cegah"
     },
     {
-      "id": "838",
-      "indonesian": "sendiri",
-      "acehnese": "sidroe"
+      "id": 838,
+      "acehnese": "theun",
+      "indonesian": "tahan"
     },
     {
-      "id": "839",
-      "indonesian": "senjata",
-      "acehnese": "senjata"
+      "id": 839,
+      "acehnese": "timbak",
+      "indonesian": "tembak"
     },
     {
-      "id": "840",
-      "indonesian": "senjata",
-      "acehnese": "seunjata"
+      "id": 840,
+      "acehnese": "tinggai",
+      "indonesian": "tinggal"
     },
     {
-      "id": "841",
-      "indonesian": "senyum",
-      "acehnese": "khem"
+      "id": 841,
+      "acehnese": "tingkat",
+      "indonesian": "tingkat"
     },
     {
-      "id": "842",
-      "indonesian": "seperti",
-      "acehnese": "lagee"
+      "id": 842,
+      "acehnese": "tôp",
+      "indonesian": "tutup"
     },
     {
-      "id": "843",
-      "indonesian": "seperti",
-      "acehnese": "tamse"
+      "id": 843,
+      "acehnese": "tragedi",
+      "indonesian": "tragedi"
     },
     {
-      "id": "844",
-      "indonesian": "sepi",
-      "acehnese": "seungu"
+      "id": 844,
+      "acehnese": "trang",
+      "indonesian": "jelas"
     },
     {
-      "id": "845",
-      "indonesian": "sepi",
-      "acehnese": "seungue"
+      "id": 845,
+      "acehnese": "trauma",
+      "indonesian": "trauma"
     },
     {
-      "id": "846",
-      "indonesian": "seragam",
-      "acehnese": "saban"
+      "id": 846,
+      "acehnese": "trên",
+      "indonesian": "turun"
     },
     {
-      "id": "847",
-      "indonesian": "seragam",
-      "acehnese": "sabee"
+      "id": 847,
+      "acehnese": "trôk",
+      "indonesian": "capai"
     },
     {
-      "id": "848",
-      "indonesian": "seragam",
-      "acehnese": "seragam"
+      "id": 848,
+      "acehnese": "tuah",
+      "indonesian": "cium"
     },
     {
-      "id": "849",
-      "indonesian": "seram",
-      "acehnese": "hayut"
+      "id": 849,
+      "acehnese": "tuan",
+      "indonesian": "ya"
     },
     {
-      "id": "850",
-      "indonesian": "seram",
-      "acehnese": "seuram"
+      "id": 850,
+      "acehnese": "tuba",
+      "indonesian": "racun"
     },
     {
-      "id": "851",
-      "indonesian": "serang",
-      "acehnese": "serang"
+      "id": 851,
+      "acehnese": "tubôh",
+      "indonesian": "tubuh"
     },
     {
-      "id": "852",
-      "indonesian": "serang",
-      "acehnese": "seurang"
+      "id": 852,
+      "acehnese": "tudôh",
+      "indonesian": "tuduh"
     },
     {
-      "id": "853",
-      "indonesian": "serang",
-      "acehnese": "tajo"
+      "id": 853,
+      "acehnese": "tulak",
+      "indonesian": "dorong"
     },
     {
-      "id": "854",
-      "indonesian": "serangan",
-      "acehnese": "serangan"
+      "id": 854,
+      "acehnese": "tulông",
+      "indonesian": "bantu"
     },
     {
-      "id": "855",
-      "indonesian": "serangan",
-      "acehnese": "seurang"
+      "id": 855,
+      "acehnese": "tunda",
+      "indonesian": "tunda"
     },
     {
-      "id": "856",
-      "indonesian": "serikat",
-      "acehnese": "serikat"
+      "id": 856,
+      "acehnese": "tung'ie",
+      "indonesian": "keras kepala"
     },
     {
-      "id": "857",
-      "indonesian": "serikat",
-      "acehnese": "syarikat"
+      "id": 857,
+      "acehnese": "tu'oeh",
+      "indonesian": "ngerti"
     },
     {
-      "id": "858",
-      "indonesian": "siap",
-      "acehnese": "keumah"
+      "id": 858,
+      "acehnese": "turi",
+      "indonesian": "kenal"
     },
     {
-      "id": "859",
-      "indonesian": "siap",
-      "acehnese": "lheueh"
+      "id": 859,
+      "acehnese": "tusoe",
+      "indonesian": "kenal"
     },
     {
-      "id": "860",
-      "indonesian": "siap",
-      "acehnese": "siap"
+      "id": 860,
+      "acehnese": "tuwö",
+      "indonesian": "lupa"
     },
     {
-      "id": "861",
-      "indonesian": "siap",
-      "acehnese": "siep"
+      "id": 861,
+      "acehnese": "tuwoe",
+      "indonesian": "lupa"
     },
     {
-      "id": "862",
-      "indonesian": "sigap",
-      "acehnese": "bagah"
+      "id": 862,
+      "acehnese": "ucé",
+      "indonesian": "manja"
     },
     {
-      "id": "863",
-      "indonesian": "sigap",
-      "acehnese": "ligat"
+      "id": 863,
+      "acehnese": "udep",
+      "indonesian": "hidup"
     },
     {
-      "id": "864",
-      "indonesian": "sigap",
-      "acehnese": "sigap"
+      "id": 864,
+      "acehnese": "ugah",
+      "indonesian": "takut gentar"
     },
     {
-      "id": "865",
-      "indonesian": "silahkan",
-      "acehnese": "jeuet"
+      "id": 865,
+      "acehnese": "ugoh",
+      "indonesian": "congkak sombong gagah"
     },
     {
-      "id": "866",
-      "indonesian": "silahkan",
-      "acehnese": "silakan"
+      "id": 866,
+      "acehnese": "ulok",
+      "indonesian": "lucu"
     },
     {
-      "id": "867",
-      "indonesian": "simpati",
-      "acehnese": "simpati"
+      "id": 867,
+      "acehnese": "ungkét",
+      "indonesian": "disebut-sebut"
     },
     {
-      "id": "868",
-      "indonesian": "simpatik",
-      "acehnese": "simpatik"
+      "id": 868,
+      "acehnese": "untông",
+      "indonesian": "untung"
     },
     {
-      "id": "869",
-      "indonesian": "solidaritas",
-      "acehnese": "solidaritas"
+      "id": 869,
+      "acehnese": "upa",
+      "indonesian": "menggosok dengan tangan"
     },
     {
-      "id": "870",
-      "indonesian": "sopan",
-      "acehnese": "sopan"
+      "id": 870,
+      "acehnese": "upie",
+      "indonesian": "memutar dengan jari-jari"
     },
     {
-      "id": "871",
-      "indonesian": "stres",
-      "acehnese": "setreh"
+      "id": 871,
+      "acehnese": "usée",
+      "indonesian": "usir"
     },
     {
-      "id": "872",
-      "indonesian": "stres",
-      "acehnese": "stres"
+      "id": 872,
+      "acehnese": "wafeut",
+      "indonesian": "mati"
     },
     {
-      "id": "873",
-      "indonesian": "striker",
-      "acehnese": "penyerang"
+      "id": 873,
+      "acehnese": "wah",
+      "indonesian": "wow"
     },
     {
-      "id": "874",
-      "indonesian": "striker",
-      "acehnese": "striker"
+      "id": 874,
+      "acehnese": "wah",
+      "indonesian": "merekah retak terbuka"
     },
     {
-      "id": "875",
-      "indonesian": "suap",
-      "acehnese": "ap"
+      "id": 875,
+      "acehnese": "wajéb",
+      "indonesian": "wajib"
     },
     {
-      "id": "876",
-      "indonesian": "suap",
-      "acehnese": "suleueng"
+      "id": 876,
+      "acehnese": "wasèe",
+      "indonesian": "hasil"
     },
     {
-      "id": "877",
-      "indonesian": "suap",
-      "acehnese": "suleung"
+      "id": 877,
+      "acehnese": "wat",
+      "indonesian": "daya"
     },
     {
-      "id": "878",
-      "indonesian": "suka",
-      "acehnese": "galak"
+      "id": 878,
+      "acehnese": "watèe",
+      "indonesian": "kesempatan"
     },
     {
-      "id": "879",
-      "indonesian": "suka",
-      "acehnese": "harok"
+      "id": 879,
+      "acehnese": "weue",
+      "indonesian": "kandang"
     },
     {
-      "id": "880",
-      "indonesian": "sulit",
-      "acehnese": "payah"
+      "id": 880,
+      "acehnese": "weuek",
+      "indonesian": "bagi"
     },
     {
-      "id": "881",
-      "indonesian": "sulit",
-      "acehnese": "susah"
+      "id": 881,
+      "acehnese": "weuh",
+      "indonesian": "sedih"
     },
     {
-      "id": "882",
-      "indonesian": "super",
-      "acehnese": "super"
+      "id": 882,
+      "acehnese": "woe",
+      "indonesian": "kembali"
     },
     {
-      "id": "883",
-      "indonesian": "surga",
-      "acehnese": "syiruga"
+      "id": 883,
+      "acehnese": "wow",
+      "indonesian": "wow"
     },
     {
-      "id": "884",
-      "indonesian": "susah",
-      "acehnese": "apoh-apah"
+      "id": 884,
+      "acehnese": "ya",
+      "indonesian": "ya"
     },
     {
-      "id": "885",
-      "indonesian": "susah",
-      "acehnese": "jra"
+      "id": 885,
+      "acehnese": "yakin",
+      "indonesian": "yakin"
     },
     {
-      "id": "886",
-      "indonesian": "susah",
-      "acehnese": "payah"
+      "id": 886,
+      "acehnese": "yö",
+      "indonesian": "takut; gentar"
     },
     {
-      "id": "887",
-      "indonesian": "susah",
-      "acehnese": "susah"
+      "id": 887,
+      "acehnese": "yok-yok",
+      "indonesian": "menggoyang-goyang"
     },
     {
-      "id": "888",
-      "indonesian": "tabah",
-      "acehnese": "iba"
+      "id": 888,
+      "acehnese": "yuek",
+      "indonesian": "menurun berkurang"
     },
     {
-      "id": "889",
-      "indonesian": "tabah",
-      "acehnese": "saba"
+      "id": 889,
+      "acehnese": "yum",
+      "indonesian": "harga"
     },
     {
-      "id": "890",
-      "indonesian": "tabah",
-      "acehnese": "tabah"
+      "id": 890,
+      "acehnese": "yum",
+      "indonesian": "harga"
     },
     {
-      "id": "891",
-      "indonesian": "tabrak",
-      "acehnese": "khok"
-    },
-    {
-      "id": "892",
-      "indonesian": "tabrak",
-      "acehnese": "pok"
-    },
-    {
-      "id": "893",
-      "indonesian": "tahan",
-      "acehnese": "theuen"
-    },
-    {
-      "id": "894",
-      "indonesian": "tahan",
-      "acehnese": "theun"
-    },
-    {
-      "id": "895",
-      "indonesian": "tahanan",
-      "acehnese": "tahanan"
-    },
-    {
-      "id": "896",
-      "indonesian": "tak kalah",
-      "acehnese": "hana talo"
-    },
-    {
-      "id": "897",
-      "indonesian": "tak kalah",
-      "acehnese": "hana taloe"
-    },
-    {
-      "id": "898",
-      "indonesian": "takut",
-      "acehnese": "takot"
-    },
-    {
-      "id": "899",
-      "indonesian": "takut",
-      "acehnese": "yo"
-    },
-    {
-      "id": "900",
-      "indonesian": "tanggung jawab",
-      "acehnese": "tanggong jaweub"
-    },
-    {
-      "id": "901",
-      "indonesian": "tanggung jawab",
-      "acehnese": "tanggong jaweueb"
-    },
-    {
-      "id": "902",
-      "indonesian": "tangis",
-      "acehnese": "klik"
-    },
-    {
-      "id": "903",
-      "indonesian": "tangis",
-      "acehnese": "mo"
-    },
-    {
-      "id": "904",
-      "indonesian": "tangkap",
-      "acehnese": "drop"
-    },
-    {
-      "id": "905",
-      "indonesian": "tantangan",
-      "acehnese": "tantangan"
-    },
-    {
-      "id": "906",
-      "indonesian": "tanya",
-      "acehnese": "tanyoeng"
-    },
-    {
-      "id": "907",
-      "indonesian": "tanya",
-      "acehnese": "tanyong"
-    },
-    {
-      "id": "908",
-      "indonesian": "tegang",
-      "acehnese": "ceukang"
-    },
-    {
-      "id": "909",
-      "indonesian": "tegang",
-      "acehnese": "teugang"
-    },
-    {
-      "id": "910",
-      "indonesian": "tegas",
-      "acehnese": "bijak"
-    },
-    {
-      "id": "911",
-      "indonesian": "tegas",
-      "acehnese": "jeulah"
-    },
-    {
-      "id": "912",
-      "indonesian": "tegas",
-      "acehnese": "tegas"
-    },
-    {
-      "id": "913",
-      "indonesian": "tembak",
-      "acehnese": "timbak"
-    },
-    {
-      "id": "914",
-      "indonesian": "tempur",
-      "acehnese": "cang"
-    },
-    {
-      "id": "915",
-      "indonesian": "tempur",
-      "acehnese": "prang"
-    },
-    {
-      "id": "916",
-      "indonesian": "tenang",
-      "acehnese": "tenang"
-    },
-    {
-      "id": "917",
-      "indonesian": "tenang",
-      "acehnese": "teunang"
-    },
-    {
-      "id": "918",
-      "indonesian": "tenggelam",
-      "acehnese": "bhuek"
-    },
-    {
-      "id": "919",
-      "indonesian": "tenggelam",
-      "acehnese": "lham"
-    },
-    {
-      "id": "920",
-      "indonesian": "tenggelam",
-      "acehnese": "teunom"
-    },
-    {
-      "id": "921",
-      "indonesian": "tentang",
-      "acehnese": "bhah"
-    },
-    {
-      "id": "922",
-      "indonesian": "tentang",
-      "acehnese": "tentang"
-    },
-    {
-      "id": "923",
-      "indonesian": "tentu",
-      "acehnese": "teuntee"
-    },
-    {
-      "id": "924",
-      "indonesian": "teramat",
-      "acehnese": "leupah"
-    },
-    {
-      "id": "925",
-      "indonesian": "teramat",
-      "acehnese": "that"
-    },
-    {
-      "id": "926",
-      "indonesian": "terbesar",
-      "acehnese": "paleng raya"
-    },
-    {
-      "id": "927",
-      "indonesian": "terbesar",
-      "acehnese": "paleng rayek"
-    },
-    {
-      "id": "928",
-      "indonesian": "terbesar",
-      "acehnese": "paleng rayeuk"
-    },
-    {
-      "id": "929",
-      "indonesian": "terbunuh",
-      "acehnese": "jipoh"
-    },
-    {
-      "id": "930",
-      "indonesian": "terbunuh",
-      "acehnese": "matee"
-    },
-    {
-      "id": "931",
-      "indonesian": "terganggu",
-      "acehnese": "teuganggu"
-    },
-    {
-      "id": "932",
-      "indonesian": "terganggu",
-      "acehnese": "teugogah"
-    },
-    {
-      "id": "933",
-      "indonesian": "tergantung",
-      "acehnese": "tergantung"
-    },
-    {
-      "id": "934",
-      "indonesian": "tergantung",
-      "acehnese": "teugantung"
-    },
-    {
-      "id": "935",
-      "indonesian": "teriak",
-      "acehnese": "klik"
-    },
-    {
-      "id": "936",
-      "indonesian": "teriak",
-      "acehnese": "krib"
-    },
-    {
-      "id": "937",
-      "indonesian": "teriak",
-      "acehnese": "meuraong"
-    },
-    {
-      "id": "938",
-      "indonesian": "teriakan",
-      "acehnese": "klik"
-    },
-    {
-      "id": "939",
-      "indonesian": "teriakan",
-      "acehnese": "krib"
-    },
-    {
-      "id": "940",
-      "indonesian": "terima",
-      "acehnese": "teurimoeng"
-    },
-    {
-      "id": "941",
-      "indonesian": "terima",
-      "acehnese": "teurimong"
-    },
-    {
-      "id": "942",
-      "indonesian": "terima kasih",
-      "acehnese": "terimong gaseh"
-    },
-    {
-      "id": "943",
-      "indonesian": "terima kasih",
-      "acehnese": "teurimong gaseh"
-    },
-    {
-      "id": "944",
-      "indonesian": "terimakasih",
-      "acehnese": "terimong gaseh"
-    },
-    {
-      "id": "945",
-      "indonesian": "terimakasih",
-      "acehnese": "teurimong gaseh"
-    },
-    {
-      "id": "946",
-      "indonesian": "terkejut",
-      "acehnese": "teukeujot"
-    },
-    {
-      "id": "947",
-      "indonesian": "terkejut",
-      "acehnese": "teukijot"
-    },
-    {
-      "id": "948",
-      "indonesian": "terkena",
-      "acehnese": "keunong"
-    },
-    {
-      "id": "949",
-      "indonesian": "terkena",
-      "acehnese": "teupeh"
-    },
-    {
-      "id": "950",
-      "indonesian": "terluka",
-      "acehnese": "cidra"
-    },
-    {
-      "id": "951",
-      "indonesian": "terluka",
-      "acehnese": "luka"
-    },
-    {
-      "id": "952",
-      "indonesian": "terluka",
-      "acehnese": "teupeh"
-    },
-    {
-      "id": "953",
-      "indonesian": "teror",
-      "acehnese": "peukaru"
-    },
-    {
-      "id": "954",
-      "indonesian": "teror",
-      "acehnese": "teror"
-    },
-    {
-      "id": "955",
-      "indonesian": "terpengaruh",
-      "acehnese": "meupeungaroh"
-    },
-    {
-      "id": "956",
-      "indonesian": "terpengaruh",
-      "acehnese": "teupeungaroh"
-    },
-    {
-      "id": "957",
-      "indonesian": "tersangka",
-      "acehnese": "teusangka"
-    },
-    {
-      "id": "958",
-      "indonesian": "tersinggung",
-      "acehnese": "teupeh"
-    },
-    {
-      "id": "959",
-      "indonesian": "tersinggung",
-      "acehnese": "teupeh atee"
-    },
-    {
-      "id": "960",
-      "indonesian": "tertarik",
-      "acehnese": "galak"
-    },
-    {
-      "id": "961",
-      "indonesian": "tertarik",
-      "acehnese": "teutarek"
-    },
-    {
-      "id": "962",
-      "indonesian": "tertentu",
-      "acehnese": "meuri-ri"
-    },
-    {
-      "id": "963",
-      "indonesian": "tertentu",
-      "acehnese": "meuteuntee"
-    },
-    {
-      "id": "964",
-      "indonesian": "tertentu",
-      "acehnese": "meutoh"
-    },
-    {
-      "id": "965",
-      "indonesian": "tertentu",
-      "acehnese": "meutoh-toh"
-    },
-    {
-      "id": "966",
-      "indonesian": "tertinggal",
-      "acehnese": "teutinggai"
-    },
-    {
-      "id": "967",
-      "indonesian": "tertinggal",
-      "acehnese": "tinggai"
-    },
-    {
-      "id": "968",
-      "indonesian": "tidak",
-      "acehnese": "han"
-    },
-    {
-      "id": "969",
-      "indonesian": "tidak",
-      "acehnese": "hana"
-    },
-    {
-      "id": "970",
-      "indonesian": "tidak aman",
-      "acehnese": "hana aman"
-    },
-    {
-      "id": "971",
-      "indonesian": "tinggal",
-      "acehnese": "tinggai"
-    },
-    {
-      "id": "972",
-      "indonesian": "tingkat",
-      "acehnese": "glah"
-    },
-    {
-      "id": "973",
-      "indonesian": "tingkat",
-      "acehnese": "lapeh"
-    },
-    {
-      "id": "974",
-      "indonesian": "tingkat",
-      "acehnese": "reutak"
-    },
-    {
-      "id": "975",
-      "indonesian": "tingkat",
-      "acehnese": "tingkat"
-    },
-    {
-      "id": "976",
-      "indonesian": "tragedi",
-      "acehnese": "kejadian"
-    },
-    {
-      "id": "977",
-      "indonesian": "tragedi",
-      "acehnese": "tragedi"
-    },
-    {
-      "id": "978",
-      "indonesian": "trauma",
-      "acehnese": "trauma"
-    },
-    {
-      "id": "979",
-      "indonesian": "tubuh",
-      "acehnese": "badan"
-    },
-    {
-      "id": "980",
-      "indonesian": "tubuh",
-      "acehnese": "tuboh"
-    },
-    {
-      "id": "981",
-      "indonesian": "tuduhan",
-      "acehnese": "tudoh"
-    },
-    {
-      "id": "982",
-      "indonesian": "tuduhan",
-      "acehnese": "tudohan"
-    },
-    {
-      "id": "983",
-      "indonesian": "tukang jualan",
-      "acehnese": "awak meukat"
-    },
-    {
-      "id": "984",
-      "indonesian": "tukang jualan",
-      "acehnese": "ureueng meukat"
-    },
-    {
-      "id": "985",
-      "indonesian": "tumpas",
-      "acehnese": "peuabeh"
-    },
-    {
-      "id": "986",
-      "indonesian": "tumpas",
-      "acehnese": "peugleh"
-    },
-    {
-      "id": "987",
-      "indonesian": "tunda",
-      "acehnese": "eunteuk"
-    },
-    {
-      "id": "988",
-      "indonesian": "tunda",
-      "acehnese": "peupreh"
-    },
-    {
-      "id": "989",
-      "indonesian": "tunda",
-      "acehnese": "tanggoh"
-    },
-    {
-      "id": "990",
-      "indonesian": "tunda",
-      "acehnese": "tunda"
-    },
-    {
-      "id": "991",
-      "indonesian": "tunggu",
-      "acehnese": "preh"
-    },
-    {
-      "id": "992",
-      "indonesian": "turun",
-      "acehnese": "tron"
-    },
-    {
-      "id": "993",
-      "indonesian": "tutup",
-      "acehnese": "tob"
-    },
-    {
-      "id": "994",
-      "indonesian": "tutup",
-      "acehnese": "top"
-    },
-    {
-      "id": "995",
-      "indonesian": "uang",
-      "acehnese": "peng"
-    },
-    {
-      "id": "996",
-      "indonesian": "untung",
-      "acehnese": "laba"
-    },
-    {
-      "id": "997",
-      "indonesian": "untung",
-      "acehnese": "untong"
-    },
-    {
-      "id": "998",
-      "indonesian": "utuh",
-      "acehnese": "lengkap"
-    },
-    {
-      "id": "999",
-      "indonesian": "utuh",
-      "acehnese": "saboh"
-    },
-    {
-      "id": "1000",
-      "indonesian": "utuh",
-      "acehnese": "sempurna"
-    },
-    {
-      "id": "1001",
-      "indonesian": "wajib",
-      "acehnese": "haroh"
-    },
-    {
-      "id": "1002",
-      "indonesian": "wajib",
-      "acehnese": "musti"
-    },
-    {
-      "id": "1003",
-      "indonesian": "wajib",
-      "acehnese": "wajeb"
-    },
-    {
-      "id": "1004",
-      "indonesian": "waspada",
-      "acehnese": "beuteugoh"
-    },
-    {
-      "id": "1005",
-      "indonesian": "wow",
-      "acehnese": "omak"
-    },
-    {
-      "id": "1006",
-      "indonesian": "wow",
-      "acehnese": "wah"
-    },
-    {
-      "id": "1007",
-      "indonesian": "wow",
-      "acehnese": "wow"
-    },
-    {
-      "id": "1008",
-      "indonesian": "ya",
-      "acehnese": "get"
-    },
-    {
-      "id": "1009",
-      "indonesian": "ya",
-      "acehnese": "nyo"
-    },
-    {
-      "id": "1010",
-      "indonesian": "ya",
-      "acehnese": "tuan"
-    },
-    {
-      "id": "1011",
-      "indonesian": "ya",
-      "acehnese": "ya"
-    },
-    {
-      "id": "1012",
-      "indonesian": "yakin",
-      "acehnese": "pasti"
-    },
-    {
-      "id": "1013",
-      "indonesian": "yakin",
-      "acehnese": "yakin"
+      "id": 891,
+      "acehnese": "yum",
+      "indonesian": "harga"
     }
   ]
 }

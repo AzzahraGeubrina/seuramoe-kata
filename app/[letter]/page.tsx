@@ -23,7 +23,7 @@ export default async function LetterPage({ params }: { params: Promise<Params> }
       <WordList letter={letter} />
 
       <div className="mt-6">
-      </div>
+    </div>
     </div>
   );
 }

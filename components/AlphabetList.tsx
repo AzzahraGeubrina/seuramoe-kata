@@ -8,6 +8,10 @@ export default function AlphabetList() {
   );
 
   return (
+    <div>
+      <div className="flex flex-col items-center justify-center">
+      <p className="italic text-sm">Indeks Huruf Kosakata Bahasa Aceh:</p>
+      </div>
     <div className="flex flex-wrap max-w-100 items-center justify-center">
       {letters.map((letter) => (
         <Link
@@ -19,6 +23,7 @@ export default function AlphabetList() {
           {letter}
         </Link>
       ))}
+    </div>
     </div>
   );
 }
