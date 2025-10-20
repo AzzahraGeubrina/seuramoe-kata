@@ -24,11 +24,11 @@ export default async function List() {
               {showHeader && (
                 <div className="font-bold text-2xl pt-7 pr-2 pl-2 text-center">{firstLetter}</div>
               )}
-              <div className="grid grid-cols-2 pt-1 pl-4 pr-4">
-                <div className="font-semibold">{item.acehnese}</div>
-                <div>{item.indonesian}</div>
-                <hr className="border-gray-400 mt-2"></hr>
-                <hr className="border-gray-400 mt-2"></hr>
+              <div className="grid grid-cols-2 items-start pt-1 pl-4 pr-4">
+                <p className="font-semibold">{item.acehnese}</p>
+                <p>{item.indonesian}</p>
+                <hr className="border-gray-400 mt-2" />
+                <hr className="border-gray-400 mt-2" />
               </div>
             </div>
           )
