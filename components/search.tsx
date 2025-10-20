@@ -34,7 +34,7 @@ export function Search() {
       const data = raw.list ?? [];
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       const filtered = data.filter((item: any)=>
-        item.acehnese.toLowerCase().includes(debouncedQuery.toLowerCase())
+        normalizeText(item.acehnese.toLowerCase()).includes(normalizeText((debouncedQuery.toLowerCase())))
       );
       setResult(filtered);
     } catch (error) {
@@ -50,9 +50,27 @@ export function Search() {
   }, [handleSearch]);
 
   function highligtQ(text: string, typed: string): string {
-    if(!typed.trim()) return text;
-    const regex = new RegExp(`(${typed})`, "gi");
-    return text.replace(regex, `<b>$1</b>`);
+    if (!typed.trim()) return text;
+
+    const normalize = (s: string) =>
+      s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
+    const normalizedText = normalize(text);
+    const normalizedTyped = normalize(typed);
+
+    const index = normalizedText.indexOf(normalizedTyped);
+    if (index === -1) return text;
+
+    const start = text.slice(0, index);
+    const match = text.slice(index, index + typed.length);
+    const end = text.slice(index + typed.length);
+
+    return `${start}<b>${match}</b>${end}`;
+  }
+
+
+  function normalizeText(text: string) {
+  return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
   }
 
   return (
