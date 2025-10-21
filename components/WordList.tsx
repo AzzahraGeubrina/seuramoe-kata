@@ -16,7 +16,7 @@ return (
                 {filteredWords.map((item) => (
                     <div
                     key={item.id}
-                    className="break-inside-avoid pl-4 pr-4 mb-4 text-gray-800 border-l border-gray-400"
+                    className="break-inside-avoid pl-4 pr-4 text-gray-800 border-l border-gray-400"
                     >
                     <div className="grid grid-cols-2 items-start pt-1 pl-4 pr-4">
                         <p className="font-semibold">{item.acehnese}</p>
