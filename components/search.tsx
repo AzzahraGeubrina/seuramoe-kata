@@ -81,7 +81,7 @@ export function Search() {
       alignItems: "center",
       flexDirection: "column",
     }}>
-      <h1 className="text-2xl sm:text-2xl md:text-4xl lg:text-4xl font-bold text-center pt-3">Yak Meurunoe Bahsa Aceh!</h1>
+      <h1 className="text-2xl sm:text-2xl md:text-4xl lg:text-4xl font-bold text-center pt-3">Yak Meurunóe Basa Acèh!</h1>
       <h2 className="text-lg sm:text-lg md:text-xl lg:text-2xl text-center pb-3">Mari Belajar Bahasa Aceh!</h2>      
       <div className="w-full max-w-sm min-w-[200px] bg-white/40 p-2 rounded-lg mt-6">
         <form className="relative flex items-center"

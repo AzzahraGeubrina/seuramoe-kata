@@ -13,7 +13,7 @@ const robotoMono = Roboto_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Yak Meurunoe Bahsa Aceh",
+  title: "Yak Meurunóe Basa Acèh",
   description: "Kamus Digital Bahasa Aceh",
   icons: {
     icon: [
